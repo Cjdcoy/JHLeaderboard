@@ -1,3 +1,6 @@
+### YOU CAN NOW USE THE WEBSITE INSTEAD https://jh-leaderboard.netlify.app/leaderboards?leaderboard=skilled
+
+
 Note: bot generated file, due to markdown restriction all escape characters got removed
 
 ### Scoring system
