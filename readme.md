@@ -8,7 +8,7 @@ Top1 will have  10 points, top2 - 9 points, top3 - 8 points and so on
 
 This system is by no mean perfect, I'm open to proposal for improvements.
 
-**Last update: 2026-11-13T12:00:43Z**
+**Last update: 2026-11-14T11:18:55Z**
 
 # Player Rankings Changes
 
@@ -24,22 +24,22 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 ## FPS Category: 125
 | Rank | Player Name |     Score    | Tops 1 - 10 | Trend          |
 |------|----------------|------------|-----------|------------------|
-|    1 | Unknown          |   4555 | [147 169 73 73 39 25 14 13 7 1] | no change |
-|    2 | UnReal.JumperZ/Tona |   3621 | [245 69 24 24 11 9 11 7 5 4] | no change |
-|    3 | wormtongue       |   1885 | [20 39 50 42 45 28 32 16 18 18] | no change |
-|    4 | Jump4Lifedcoy.   |  1737 ->  1747 | [92 20 24 23 14 18 10 15 13 9] | score increased |
+|    1 | Unknown          |  4555 ->  4554 | [147 169 73 73 39 25 14 13 6 2] | score decreased |
+|    2 | UnReal.JumperZ/Tona |  3621 ->  3620 | [245 69 23 25 11 9 11 7 5 4] | score decreased |
+|    3 | wormtongue       |  1885 ->  1883 | [20 39 50 42 43 30 32 16 18 18] | score decreased |
+|    4 | Jump4Lifedcoy.   |  1747 ->  1746 | [91 21 24 23 14 18 10 15 13 9] | score decreased |
 |    5 | UnReal.JumperZ/picajzl |   1482 | [2 45 69 30 11 16 18 13 15 8] | no change |
 |    6 | UnReal.JumperZ/claay |   1466 | [11 30 34 38 35 23 21 23 22 26] | no change |
-|    7 | kjhax            |   1386 | [0 10 29 49 35 42 25 37 33 24] | no change |
-|    8 | Roien            |  1367 ->  1366 | [9 36 29 20 28 32 25 31 19 21] | score decreased |
-|    9 | A v en1 g8e9r    |  1152 ->  1152 | [8 26 34 27 20 24 16 11 12 16] | score decreased |
+|    7 | kjhax            |  1386 ->  1385 | [0 9 30 49 35 42 25 37 33 24] | score decreased |
+|    8 | Roien            |   1366 | [9 36 29 20 28 32 25 31 19 21] | no change |
+|    9 | A v en1 g8e9r    |  1152 ->  1150 | [8 26 34 27 20 23 17 11 12 15] | score decreased |
 |   10 | Pauli            |   1021 | [4 17 24 22 26 23 21 19 24 22] | no change |
 |   11 | Phylo            |    995 | [7 27 21 18 25 19 14 16 16 7] | no change |
 |   12 | maci             |    883 | [20 16 17 16 19 9 18 7 13 13] | no change |
 |   13 | UnReal.JumperZ/Trela |    867 | [5 15 20 18 23 14 21 19 17 13] | no change |
 |   14 | Shinji           |    850 | [0 6 13 22 27 24 26 29 25 15] | no change |
-|   15 | UnReal.JumperZ/Gr3y |    763 | [0 3 6 14 22 24 32 35 35 35] | no change |
-|   16 | Jump4LifeSAD.    |    560 | [7 3 9 10 10 15 24 12 17 20] | no change |
+|   15 | UnReal.JumperZ/Gr3y |   763 ->   762 | [0 3 6 13 23 24 32 35 35 35] | score decreased |
+|   16 | Jump4LifeSAD.    |   560 ->   559 | [7 3 9 10 10 15 24 11 18 20] | score decreased |
 |   17 | ^ImmortalJumpers.Muki |    533 | [0 2 6 16 11 20 20 19 19 14] | no change |
 |   18 | neverlucky       |    485 | [2 2 4 12 15 18 16 13 17 14] | no change |
 |   19 | Duck             |    456 | [0 5 16 7 9 14 10 13 10 11] | no change |
@@ -47,12 +47,12 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   21 | BlueJay          |    357 | [0 1 4 10 9 18 14 6 9 10] | no change |
 |   22 | Mystery          |    306 | [0 1 4 6 11 10 12 11 11 4] | no change |
 |   23 | Kryptah          |    302 | [0 5 8 7 8 5 3 11 8 10] | no change |
-|   24 | wulf             |    235 | [0 1 2 3 11 5 10 10 12 4] | no change |
-|   25 | funki            |    228 | [1 1 3 5 10 7 5 8 2 7] | no change |
-|   26 | blaadje/bl444jde/bjd/blade |    220 | [2 5 3 3 4 4 8 6 5 6] | no change |
+|   24 | blaadje/bl444jde/bjd/blade |   220 ->   239 | [4 4 4 3 4 4 8 6 5 6] | score increased |
+|   25 | wulf             |    235 | [0 1 2 3 11 5 10 10 12 4] | no change |
+|   26 | funki            |    228 | [1 1 3 5 10 7 5 8 2 7] | no change |
 |   27 | poka             |    207 | [0 1 2 4 5 6 7 12 9 12] | no change |
 |   28 | bluzz            |    194 | [0 5 2 3 1 7 3 9 10 12] | no change |
-|   29 | UnaRkW           |    165 | [11 1 2 1 0 2 1 2 1 1] | no change |
+|   29 | UnaRkW           |   165 ->   164 | [10 2 2 1 0 2 1 2 1 1] | score decreased |
 |   30 | IzNoGoD          |    163 | [5 4 3 2 2 1 3 2 2 0] | no change |
 |   31 | brian.           |    142 | [0 0 2 4 6 4 5 3 5 3] | no change |
 |   32 | AnaNa$           |    139 | [0 1 2 2 4 5 3 8 4 7] | no change |
@@ -62,47 +62,47 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   36 | shondofan69      |    100 | [1 5 3 0 1 1 2 0 1 0] | no change |
 |   37 | Doctor.          |     98 | [0 1 3 4 2 2 3 1 0 0] | no change |
 |   38 | r A u l          |     97 | [0 3 3 1 4 1 1 1 1 1] | no change |
-|   39 |    RenjaH        |     90 | [1 2 2 0 1 2 4 3 2 1] | no change |
+|   39 |    RenjaH        |    90 ->    89 | [1 2 2 0 1 2 3 4 2 1] | score decreased |
 |   40 | KappaSquad febo  |     85 | [0 0 1 0 3 1 7 3 5 7] | no change |
 |   41 | TOTONESKOCIM:Dwinz |     75 | [0 1 2 1 1 1 2 2 6 6] | no change |
 |   42 | WEAREJUMPERS chaotic |     71 | [0 0 0 0 1 2 4 5 8 8] | no change |
-|   43 | kLeiN            |     64 | [0 2 2 0 0 2 3 2 1 0] | no change |
-|   44 | UnReal.JumperZ/Diggy |     64 | [0 0 2 0 4 2 2 0 1 4] | no change |
+|   43 | UnReal.JumperZ/Diggy |     64 | [0 0 2 0 4 2 2 0 1 4] | no change |
+|   44 | kLeiN            |     64 | [0 2 2 0 0 2 3 2 1 0] | no change |
 |   45 | WINSTON          |     63 | [0 0 0 4 3 0 3 1 0 2] | no change |
-|   46 | LanMyIn The Bed  |     56 | [0 0 0 1 1 3 3 0 3 10] | no change |
+|   46 | LanMyIn The Bed  |    56 ->    55 | [0 0 0 1 1 3 2 1 3 10] | score decreased |
 |   47 | Dom1natoRRR      |     55 | [0 0 1 0 1 2 1 5 4 4] | no change |
-|   48 | Trickshot        |     47 | [0 1 1 2 1 1 0 1 1 0] | no change |
-|   49 | MusTa            |     44 | [0 0 2 1 1 1 1 1 0 3] | no change |
-|   50 | Allegedly db     |     39 | [0 0 1 1 1 1 1 2 1 1] | no change |
-|   51 | deletemyexistence |     38 | [1 1 0 0 2 0 1 0 1 1] | no change |
-|   52 | busko            |     38 | [0 0 1 2 0 1 2 0 1 1] | no change |
+|   48 | db               |  - ->     47 |  [0 0 2 1 1 1 1 2 1 1] | new in top      |
+|   49 | Trickshot        |    47 ->    45 | [0 1 0 3 1 0 1 1 1 0] | score decreased |
+|   50 | MusTa            |     44 | [0 0 2 1 1 1 1 1 0 3] | no change |
+|   51 | busko            |     38 | [0 0 1 2 0 1 2 0 1 1] | no change |
+|   52 | deletemyexistence |     38 | [1 1 0 0 2 0 1 0 1 1] | no change |
 |   53 | visio            |     35 | [0 0 0 1 1 3 1 1 0 0] | no change |
 |   54 | nendecrew TOPinka. |     33 | [0 0 0 0 1 3 0 2 1 4] | no change |
 |   55 | Kadel            |     29 | [0 0 0 1 2 0 0 1 2 3] | no change |
 |   56 | AranyparasztDeres |     29 | [0 0 0 0 3 1 1 0 1 0] | no change |
 |   57 | Matyizom         |     27 | [0 0 0 0 3 0 1 1 0 2] | no change |
 |   58 | Blade / Blade    |     26 | [0 0 0 1 1 0 0 1 4 2] | no change |
-|   59 | calum            |     25 | [0 1 0 0 1 0 1 1 1 1] | no change |
-|   60 | Victima          |     25 | [0 0 0 1 2 0 1 0 1 0] | no change |
-|   61 | un88x            |     25 | [0 0 0 0 0 1 1 3 3 1] | no change |
-|   62 | ikuminusz        |     23 | [0 0 1 0 0 0 3 1 0 0] | no change |
-|   63 | Khemotoksz       |     23 | [0 0 0 0 0 0 2 3 3 0] | no change |
-|   64 | tadaimav2        |     21 | [0 0 0 1 0 2 1 0 0 0] | no change |
+|   59 | Victima          |     25 | [0 0 0 1 2 0 1 0 1 0] | no change |
+|   60 | un88x            |     25 | [0 0 0 0 0 1 1 3 3 1] | no change |
+|   61 | calum            |     25 | [0 1 0 0 1 0 1 1 1 1] | no change |
+|   62 | Khemotoksz       |     23 | [0 0 0 0 0 0 2 3 3 0] | no change |
+|   63 | ikuminusz        |     23 | [0 0 1 0 0 0 3 1 0 0] | no change |
+|   64 | aids             |     21 | [0 1 0 0 1 0 0 1 1 1] | no change |
 |   65 | ratemap 0        |     21 | [0 0 1 0 0 1 1 0 1 2] | no change |
-|   66 | aids             |     21 | [0 1 0 0 1 0 0 1 1 1] | no change |
+|   66 | tadaimav2        |    21 ->    20 | [0 0 0 0 1 2 1 0 0 0] | score decreased |
 |   67 | Rob              |     20 | [0 0 1 0 0 0 1 2 0 2] | no change |
-|   68 | Jump4LifeBaSeM   |     20 | [0 0 1 0 1 0 0 1 1 1] | no change |
+|   68 | UnReal.SmokerZ/Stona |     19 | [0 0 1 1 0 0 1 0 0 0] | no change |
 |   69 | Titan.           |     19 | [0 0 0 1 0 2 0 0 1 0] | no change |
-|   70 | UnReal.SmokerZ/Stona |     19 | [0 0 1 1 0 0 1 0 0 0] | no change |
-|   71 | AmBB...          |     19 | [0 0 1 0 0 1 0 1 1 1] | no change |
+|   70 | AmBB...          |     19 | [0 0 1 0 0 1 0 1 1 1] | no change |
+|   71 | Jump4LifeBaSeM   |    20 ->    19 | [0 0 1 0 1 0 0 0 2 1] | score decreased |
 |   72 | Faker:D&&1       |     18 | [0 0 0 0 1 1 1 1 0 0] | no change |
 |   73 | UnReal.JumperZ/Floater |     16 | [0 0 0 1 0 0 0 1 2 2] | no change |
 |   74 | &39;,&39; QrwAx &39;, |     16 | [0 0 2 0 0 0 0 0 0 0] | no change |
 |   75 | kubislav23       |     16 | [1 0 0 0 1 0 0 0 0 0] | no change |
-|   76 | .neverborn xZZZon |     15 | [0 0 0 1 0 0 2 0 0 0] | no change |
-|   77 | Shawn of the Dead |     15 | [0 0 0 0 0 1 1 1 1 1] | no change |
-|   78 | bob              |     15 | [0 0 1 0 0 0 0 2 0 1] | no change |
-|   79 | TheCrazyWolf     |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|   76 | bob              |     15 | [0 0 1 0 0 0 0 2 0 1] | no change |
+|   77 | TheCrazyWolf     |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|   78 | .neverborn xZZZon |     15 | [0 0 0 1 0 0 2 0 0 0] | no change |
+|   79 | Shawn of the Dead |     15 | [0 0 0 0 0 1 1 1 1 1] | no change |
 |   80 | stym             |     14 | [0 0 0 1 1 0 0 0 0 1] | no change |
 |   81 | ReD              |     14 | [0 0 0 0 0 1 1 0 0 5] | no change |
 |   82 | Kun              |     13 | [0 0 0 0 0 1 0 2 1 0] | no change |
@@ -110,126 +110,127 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   84 | probably kubi    |     12 | [0 1 0 0 0 0 0 1 0 0] | no change |
 |   85 | FoXy             |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
 |   86 | TheproOne        |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
-|   87 | Fox              |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
-|   88 | Peter33          |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|   89 | Lina&39;         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|   87 | Peter33          |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|   88 | ^0MaGGoT         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|   89 | Fox              |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
 |   90 | ANYd shadYBIGBOGI |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
-|   91 | ^0MaGGoT         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|   91 | Lina&39;         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
 |   92 | happy Pinguin    |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
-|   93 | R E K S I O?     |      8 | [0 0 0 0 1 0 0 0 0 2] | no change |
-|   94 | Deto             |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|   95 | o l i m a n t    |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|   96 | Dutchie          |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|   97 | Nexoo            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|   98 | lazlo            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|   99 | , B a $ O o O :  |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  100 | 0x041E           |      7 | [0 0 0 0 0 0 1 0 1 1] | no change |
-|  101 | &39;Gemini       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  102 | Salem            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  103 | pkm4st3r         |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  104 | ApLo             |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  105 | ^4               |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  106 | modesty          |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
-|  107 | Pares928         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  108 | Weston           |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  109 | foliasok  dpx    |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  110 | Sly4561          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  111 | ScBumba          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  112 | idiot2482nade:   |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  113 | ocsedbuzi        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  114 | TyFun            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  115 | daskorun         |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
-|  116 | Nergy.=          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  117 | BooK of RA       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  118 | Banana           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  119 | JUMLACKYPER      |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
-|  120 | ^                |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  121 | SutaSanyi        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  122 | ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  123 | MerliN           |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
+|   93 | Dutchie          |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|   94 | R E K S I O?     |      8 | [0 0 0 0 1 0 0 0 0 2] | no change |
+|   95 | Nexoo            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|   96 | o l i m a n t    |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|   97 | Deto             |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|   98 | 0x041E           |      7 | [0 0 0 0 0 0 1 0 1 1] | no change |
+|   99 | Salem            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  100 | , B a $ O o O :  |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  101 | ApLo             |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  102 | pkm4st3r         |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
+|  103 | lazlo            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  104 | &39;Gemini       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  105 | Sly4561          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  106 | idiot2482nade:   |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  107 | Weston           |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  108 | ScBumba          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  109 | Pares928         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  110 | foliasok  dpx    |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  111 | ^4               |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  112 | modesty          |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  113 | ^                |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  114 | BooK of RA       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  115 | Nergy.=          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  116 | TyFun            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  117 | SutaSanyi        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  118 | daskorun         |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
+|  119 | Banana           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  120 | ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  121 | ocsedbuzi        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  122 | JUMLACKYPER      |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
+|  123 | rybax            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  124 | skuby            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  125 |    GAMEBOY?      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  125 | MerliN           |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
 |  126 | Kisfiu           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  127 | rybax            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  127 |    GAMEBOY?      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  128 | wawd x dezzii    |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  129 | Smiles.Peace     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  130 | UnReal.JumperZ/Cheri |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  131 | kciD giB oS evaH I |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  132 | Jason            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  133 | Black Sheep      |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  134 | oli              |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  135 | TvK              |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  136 | powerstims       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  137 | Blutus           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  138 | Ace7             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  139 | feelthepower  TOMBRADY |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  140 | oup^^            |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  141 | Fury             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  142 | JumpStylelordK   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  143 | Mikro            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  144 | xpict            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  145 | Jump4LifePall    |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  146 | ntech            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  147 | washed up        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  148 | n1kjs            |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
-|  149 | squezzy.         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  150 | MilkaaTHEgOd     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  151 | Panda            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  152 | EpMate           |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
-|  153 | JHFan504         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  154 | xX1Xx            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  155 | UnnamedPlayer    |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  156 | Xerox:           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  157 | EpSandro         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  158 | oli//Mr.PfFfFfFf |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  129 | UnReal.JumperZ/Cheri |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  130 | Jason            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  131 | JumpStylelordK   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  132 | oli              |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  133 | Ace7             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  134 | TvK              |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  135 | kciD giB oS evaH I |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  136 | Smiles.Peace     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  137 | feelthepower  TOMBRADY |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  138 | powerstims       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  139 | Fury             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  140 | Black Sheep      |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  141 | Blutus           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  142 | Mikro            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  143 | squezzy.         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  144 | UnnamedPlayer    |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  145 | MilkaaTHEgOd     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  146 | JHFan504         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  147 | xX1Xx            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  148 | oup^^            |     3 ->     2 | [0 0 0 0 0 0 0 0 0 2] | score decreased |
+|  149 | n1kjs            |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
+|  150 | Jump4LifePall    |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  151 | ntech            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  152 | xpict            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  153 | EpMate           |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
+|  154 | washed up        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  155 | Panda            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  156 | MC ISTI          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  157 | oli//Mr.PfFfFfFf |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  158 | EpSandro         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  159 | Arak             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  160 | Colt.45          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  161 | krilnik          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  162 | MC ISTI          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  161 | Xerox:           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  162 | krilnik          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  163 | MyGoodMistake    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  164 | lMartinl         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  164 | Allegedly db     |     39 -> 0     |    -    | removed from top |
+|  165 | lMartinl         |      1 -> 0     |    -    | removed from top |
 
 
 ## FPS Category: 250
 | Rank | Player Name |     Score    | Tops 1 - 10 | Trend          |
 |------|----------------|------------|-----------|------------------|
-|    1 | foliasok  dpx    |  2427 ->  2433 | [113 54 28 34 16 20 18 19 11 8] | score increased |
-|    2 | foliasok  kev    |  2161 ->  2160 | [2 82 69 46 40 24 20 18 11 12] | score decreased |
-|    3 | wormtongue       |  2160 ->  2159 | [60 57 51 32 27 20 21 16 8 4] | score decreased |
-|    4 |    RenjaH        |  2147 ->  2152 | [25 48 61 51 45 26 27 22 22 7] | score increased |
-|    5 | oup^^            |  2017 ->  2012 | [61 22 22 34 42 30 41 44 33 26] | score decreased |
-|    6 | ntech            |  1835 ->  1833 | [43 37 38 39 34 24 17 15 21 14] | score decreased |
-|    7 | wulf             |  1230 ->  1228 | [23 31 23 26 29 15 13 7 11 9] | score decreased |
-|    8 | UnaRkW           |  1200 ->  1197 | [34 24 16 17 18 26 20 15 11 9] | score decreased |
+|    1 | foliasok  dpx    |  2433 ->  2434 | [114 53 28 34 16 20 18 19 11 8] | score increased |
+|    2 | foliasok  kev    |   2160 | [2 82 69 46 40 24 20 18 11 12] | no change |
+|    3 | wormtongue       |   2159 | [60 57 51 32 27 20 21 16 8 4] | no change |
+|    4 |    RenjaH        |  2152 ->  2150 | [24 48 62 51 45 26 27 22 22 7] | score decreased |
+|    5 | oup^^            |  2012 ->  2015 | [61 22 22 34 42 30 41 45 33 26] | score increased |
+|    6 | ntech            |  1833 ->  1832 | [42 38 38 39 34 24 17 15 21 14] | score decreased |
+|    7 | wulf             |   1228 | [23 31 23 26 29 15 13 7 11 9] | no change |
+|    8 | UnaRkW           |  1197 ->  1196 | [34 24 16 17 18 25 21 15 11 9] | score decreased |
 |    9 | Unknown          |   1005 | [60 24 7 3 6 4 7 3 6 7] | no change |
-|   10 | UnReal.JumperZ/claay |   963 ->   962 | [28 26 17 15 17 9 6 5 8 5] | score decreased |
-|   11 | AranyparasztDeres |   821 ->   820 | [4 10 16 18 18 21 16 31 17 32] | score decreased |
-|   12 | drawax           |   782 ->   781 | [6 9 18 15 20 26 14 18 11 9] | score decreased |
-|   13 | maci             |   781 ->   779 | [43 10 8 7 7 8 8 6 4 6] | score decreased |
-|   14 | wazzi            |    779 | [20 14 7 15 13 17 11 10 19 17] | no change |
-|   15 | Roien            |    691 | [12 25 14 13 8 7 4 10 4 6] | no change |
+|   10 | UnReal.JumperZ/claay |    962 | [28 26 17 15 17 9 6 5 8 5] | no change |
+|   11 | AranyparasztDeres |   820 ->   818 | [4 10 16 18 18 21 16 30 18 31] | score decreased |
+|   12 | drawax           |    781 | [6 9 18 15 20 26 14 18 11 9] | no change |
+|   13 | wazzi            |    779 | [20 14 7 15 13 17 11 10 19 17] | no change |
+|   14 | maci             |    779 | [43 10 8 7 7 8 8 6 4 6] | no change |
+|   15 | Roien            |   691 ->   690 | [12 25 14 12 9 7 4 10 4 6] | score decreased |
 |   16 | team  GBK.       |    666 | [5 3 11 10 12 25 24 22 24 24] | no change |
-|   17 | Mousinged x spurii |   556 ->   555 | [0 3 15 12 13 16 20 12 11 28] | score decreased |
-|   18 | Jump4LifeSAD.    |   513 ->   512 | [10 10 10 12 6 12 5 6 6 12] | score decreased |
+|   17 | Mousinged x spurii |    555 | [0 3 15 12 13 16 20 12 11 28] | no change |
+|   18 | Jump4LifeSAD.    |    512 | [10 10 10 12 6 12 5 6 6 12] | no change |
 |   19 | UnReal.JumperZ/Cheri |    510 | [4 1 15 11 17 9 15 10 7 13] | no change |
-|   20 | daskorun         |   436 ->   434 | [0 8 13 9 10 12 12 6 2 5] | score decreased |
-|   21 | neverlucky       |   420 ->   419 | [0 5 9 8 9 14 13 13 12 7] | score decreased |
-|   22 | Jump4Lifedcoy.   |   374 ->   386 | [11 10 5 9 5 5 5 2 1 0] | score increased |
+|   20 | daskorun         |    434 | [0 8 13 9 10 12 12 6 2 5] | no change |
+|   21 | neverlucky       |    419 | [0 5 9 8 9 14 13 13 12 7] | no change |
+|   22 | Jump4Lifedcoy.   |   386 ->   384 | [10 10 6 9 5 5 5 2 1 0] | score decreased |
 |   23 | Nexoo            |    345 | [1 2 3 10 10 11 11 8 13 14] | no change |
 |   24 | a7x.             |    331 | [0 2 7 6 7 9 8 13 21 15] | no change |
 |   25 | Kadel            |    320 | [2 3 8 7 7 10 9 4 8 4] | no change |
 |   26 | Nergy.=          |    311 | [1 6 3 8 3 11 6 12 13 8] | no change |
-|   27 | trx              |   299 ->   298 | [3 3 3 5 4 6 10 13 16 17] | score decreased |
-|   28 | A v en1 g8e9r    |   268 ->   278 | [3 6 5 10 5 2 4 6 4 2] | score increased |
-|   29 | blaadje/bl444jde/bjd/blade |    243 | [4 8 2 2 8 3 3 4 5 4] | no change |
+|   27 | trx              |    298 | [3 3 3 5 4 6 10 13 16 17] | no change |
+|   28 | A v en1 g8e9r    |    278 | [3 6 5 10 5 2 4 6 4 2] | no change |
+|   29 | blaadje/bl444jde/bjd/blade |   243 ->   271 | [6 9 2 2 8 3 3 3 6 4] | score increased |
 |   30 | UnReal.JumperZ/Gr3y |    209 | [0 3 1 3 4 15 4 3 11 7] | no change |
-|   31 | Mousinged x freax. |   204 ->   203 | [0 1 1 3 6 7 9 8 12 10] | score decreased |
+|   31 | Mousinged x freax. |    203 | [0 1 1 3 6 7 9 8 12 10] | no change |
 |   32 | ^0MaGGoT         |    198 | [2 5 3 4 4 2 1 7 10 2] | no change |
-|   33 | shondofan69      |   195 ->   194 | [7 3 6 2 2 2 0 3 2 0] | score decreased |
+|   33 | shondofan69      |   194 ->   193 | [7 3 6 2 2 2 0 3 1 1] | score decreased |
 |   34 | ^ImmortalJumpers.dRiO |    163 | [1 1 3 3 3 2 6 8 7 9] | no change |
 |   35 | Shinji           |    159 | [2 3 3 2 6 3 2 3 3 0] | no change |
-|   36 | Kun              |    148 | [0 0 0 2 3 6 9 10 8 4] | no change |
-|   37 | ^ImmortalJumpers.Muki |   149 ->   148 | [0 3 4 3 3 6 2 1 4 1] | score decreased |
+|   36 | ^ImmortalJumpers.Muki |    148 | [0 3 4 3 3 6 2 1 4 1] | no change |
+|   37 | Kun              |    148 | [0 0 0 2 3 6 9 10 8 4] | no change |
 |   38 | &39;,&39; QrwAx &39;, |    147 | [0 1 3 4 2 5 5 6 3 5] | no change |
 |   39 |    GAMEBOY?      |    110 | [0 3 1 3 2 3 5 1 1 2] | no change |
 |   40 | Szoldzser        |    106 | [1 1 0 1 3 2 5 4 6 8] | no change |
@@ -239,262 +240,263 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   44 | , B a $ O o O :  |     88 | [0 0 0 4 6 1 1 2 3 3] | no change |
 |   45 | phantasmagoria   |     81 | [0 1 0 0 5 2 1 7 1 5] | no change |
 |   46 | Peter33          |     76 | [1 0 0 2 2 2 1 5 3 5] | no change |
-|   47 | Jack Sparrow     |     71 | [0 0 0 0 1 2 4 6 6 9] | no change |
-|   48 | Phylo            |     69 | [0 1 3 0 2 0 2 2 3 4] | no change |
+|   47 | Phylo            |     69 | [0 1 3 0 2 0 2 2 3 4] | no change |
+|   48 | Jack Sparrow     |    71 ->    69 | [0 0 0 0 1 1 5 6 5 10] | score decreased |
 |   49 | ShepZ            |     68 | [4 3 0 0 0 0 0 0 0 1] | no change |
-|   50 | EpMate           |     67 | [0 0 1 1 3 0 1 4 6 6] | no change |
-|   51 | Riser?           |     67 | [0 2 2 0 1 3 2 0 1 2] | no change |
-|   52 | UnReal.JumperZ/Diggy |    67 ->    66 | [1 0 2 2 1 2 2 0 0 2] | score decreased |
+|   50 | Riser?           |     67 | [0 2 2 0 1 3 2 0 1 2] | no change |
+|   51 | EpMate           |     67 | [0 0 1 1 3 0 1 4 6 6] | no change |
+|   52 | UnReal.JumperZ/Diggy |     66 | [1 0 2 2 1 2 2 0 0 2] | no change |
 |   53 | SutaSanyi        |     65 | [1 0 2 0 2 1 3 2 1 2] | no change |
-|   54 | UnReal.JumperZ/Trela |    65 ->    64 | [0 1 3 2 1 1 1 0 0 2] | score decreased |
+|   54 | UnReal.JumperZ/Trela |     64 | [0 1 3 2 1 1 1 0 0 2] | no change |
 |   55 | Twetty           |     63 | [1 0 1 2 1 2 1 2 2 1] | no change |
-|   56 | brian.           |     61 | [0 1 0 2 1 2 3 2 1 2] | no change |
-|   57 | Mousinged x wengi? |     61 | [0 0 1 2 0 2 4 2 1 5] | no change |
+|   56 | Mousinged x wengi? |     61 | [0 0 1 2 0 2 4 2 1 5] | no change |
+|   57 | brian.           |     61 | [0 1 0 2 1 2 3 2 1 2] | no change |
 |   58 | UnReal.JumperZ/picajzl |     58 | [1 1 0 2 1 2 1 1 1 0] | no change |
 |   59 | Pares928         |     56 | [0 1 1 2 3 0 1 1 0 0] | no change |
 |   60 | Duck             |     55 | [0 1 2 1 1 0 1 4 0 1] | no change |
 |   61 | sintax           |     53 | [1 0 1 1 2 0 1 3 0 3] | no change |
 |   62 | Bagolybaszok piton |     51 | [0 0 0 0 3 1 3 2 2 6] | no change |
 |   63 | WEAREJUMPERS chaotic |     49 | [0 0 2 0 0 1 3 2 2 6] | no change |
-|   64 | joinTka          |     48 | [0 0 0 1 0 3 3 3 0 5] | no change |
-|   65 | enzo.            |     48 | [0 0 2 2 1 0 1 2 1 0] | no change |
+|   64 | enzo.            |     48 | [0 0 2 2 1 0 1 2 1 0] | no change |
+|   65 | joinTka          |     48 | [0 0 0 1 0 3 3 3 0 5] | no change |
 |   66 | unarkw alt       |     46 | [0 3 1 0 1 0 0 1 1 0] | no change |
 |   67 | Zawwar.          |     46 | [0 0 1 1 0 2 1 5 0 2] | no change |
 |   68 | unkno soldja     |     45 | [0 1 0 1 0 1 3 1 4 1] | no change |
-|   69 | Seez             |     45 | [0 1 1 2 0 2 1 0 0 0] | no change |
-|   70 | WINSTON          |     45 | [0 0 1 3 2 0 0 0 2 0] | no change |
-|   71 | nendecrew Baket. |     44 | [1 0 1 0 0 1 1 3 3 2] | no change |
+|   69 | WINSTON          |     45 | [0 0 1 3 2 0 0 0 2 0] | no change |
+|   70 | nendecrew Baket. |     44 | [1 0 1 0 0 1 1 3 3 2] | no change |
+|   71 | Seez             |    45 ->    43 | [0 1 1 1 1 2 0 1 0 0] | score decreased |
 |   72 | Kecsi            |     39 | [0 0 1 3 1 0 1 0 0 0] | no change |
 |   73 | pachee           |     37 | [0 2 1 0 0 0 2 1 0 0] | no change |
 |   74 | AnaNa$           |     36 | [1 0 0 2 0 0 1 2 0 2] | no change |
-|   75 | Xerox:           |     36 | [0 1 0 2 0 0 3 0 0 1] | no change |
+|   75 | Xerox:           |    36 ->    35 | [0 0 1 2 0 0 3 0 0 1] | score decreased |
 |   76 | peter33          |     34 | [0 0 0 0 0 2 2 2 4 2] | no change |
 |   77 | Hornet           |     33 | [0 0 0 0 1 1 4 1 0 3] | no change |
 |   78 | Waar             |     32 | [0 0 1 1 0 1 0 2 1 4] | no change |
 |   79 | Farek bacsi      |     31 | [0 0 1 1 1 1 0 1 1 0] | no change |
 |   80 | TEAM TANVALD VOUSACdeSade |     30 | [0 0 1 0 0 0 3 2 1 2] | no change |
-|   81 | tadaimav2        |     30 | [0 0 1 0 2 2 0 0 0 0] | no change |
-|   82 | MilkaaTHEgOd     |     29 | [0 0 0 1 1 1 1 1 1 2] | no change |
-|   83 | szocska          |     29 | [0 0 0 1 0 1 2 2 1 1] | no change |
+|   81 | MilkaaTHEgOd     |     29 | [0 0 0 1 1 1 1 1 1 2] | no change |
+|   82 | szocska          |     29 | [0 0 0 1 0 1 2 2 1 1] | no change |
+|   83 | tadaimav2        |    30 ->    28 | [0 0 0 1 1 3 0 0 0 0] | score decreased |
 |   84 | ^ImmortalJumpers.Greg |     28 | [0 1 0 1 1 1 0 0 0 1] | no change |
-|   85 | fLY              |     27 | [0 1 0 1 1 1 0 0 0 0] | no change |
-|   86 | loXe             |     26 | [0 0 0 0 2 1 1 1 1 0] | no change |
-|   87 | JHFan604         |     26 | [0 2 1 0 0 0 0 0 0 0] | no change |
+|   85 | Szabi            |     26 | [0 0 0 1 0 0 2 2 2 1] | no change |
+|   86 | MusTa            |     26 | [0 1 0 1 0 1 1 0 0 1] | no change |
+|   87 | fLY              |    27 ->    26 | [0 1 0 1 0 2 0 0 0 0] | score decreased |
 |   88 | happy Pinguin    |     26 | [0 0 0 0 2 1 1 1 1 0] | no change |
-|   89 | MusTa            |     26 | [0 1 0 1 0 1 1 0 0 1] | no change |
-|   90 | Szabi            |     26 | [0 0 0 1 0 0 2 2 2 1] | no change |
+|   89 | loXe             |     26 | [0 0 0 0 2 1 1 1 1 0] | no change |
+|   90 | JHFan604         |     26 | [0 2 1 0 0 0 0 0 0 0] | no change |
 |   91 | squezzy.         |     24 | [0 0 0 0 1 1 2 1 0 2] | no change |
 |   92 | Heim             |     24 | [0 1 0 1 0 0 1 0 2 0] | no change |
 |   93 | IYS ownex        |     23 | [0 1 1 0 0 0 1 0 0 2] | no change |
 |   94 | eddist           |     22 | [0 1 0 1 1 0 0 0 0 0] | no change |
 |   95 | kLeiN            |     21 | [0 0 1 0 0 1 1 1 0 1] | no change |
-|   96 | AranyparasztLeves |     20 | [0 0 0 2 0 0 1 0 1 0] | no change |
-|   97 | este van         |     20 | [0 0 0 0 1 1 1 0 2 1] | no change |
+|   96 | este van         |     20 | [0 0 0 0 1 1 1 0 2 1] | no change |
+|   97 | AranyparasztLeves |     20 | [0 0 0 2 0 0 1 0 1 0] | no change |
 |   98 | IzNoGoD          |     19 | [1 1 0 0 0 0 0 0 0 0] | no change |
 |   99 | Trickshot        |     18 | [1 0 1 0 0 0 0 0 0 0] | no change |
-|  100 | Pauli            |     18 | [1 0 1 0 0 0 0 0 0 0] | no change |
-|  101 | EpFrosT          |  - ->     18 |  [0 0 0 0 2 0 0 2 0 0] | new in top      |
+|  100 | FrosT :          |  - ->     18 |  [0 0 0 0 2 0 0 2 0 0] | new in top      |
+|  101 | Pauli            |     18 | [1 0 1 0 0 0 0 0 0 0] | no change |
 |  102 | Sly4561          |     17 | [1 0 0 0 0 1 0 0 1 0] | no change |
 |  103 | Vas^kluks        |     17 | [0 0 1 0 0 0 0 2 1 1] | no change |
-|  104 | NoVasaur$        |     16 | [0 1 0 0 0 1 0 0 1 0] | no change |
-|  105 | linox            |     16 | [0 0 0 0 0 0 4 0 0 0] | no change |
-|  106 | Kawabunga        |     16 | [0 0 0 1 0 1 0 0 1 2] | no change |
-|  107 | TheCrazyWolf     |     16 | [0 1 0 1 0 0 0 0 0 0] | no change |
+|  104 | TheCrazyWolf     |     16 | [0 1 0 1 0 0 0 0 0 0] | no change |
+|  105 | NoVasaur$        |     16 | [0 1 0 0 0 1 0 0 1 0] | no change |
+|  106 | linox            |     16 | [0 0 0 0 0 0 4 0 0 0] | no change |
+|  107 | Kawabunga        |     16 | [0 0 0 1 0 1 0 0 1 2] | no change |
 |  108 | loq              |     14 | [0 0 1 0 0 1 0 0 0 1] | no change |
 |  109 | Vori             |     13 | [0 0 1 0 0 0 1 0 0 1] | no change |
 |  110 | aids             |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
 |  111 | TEA5URED :: dandy |     12 | [0 0 1 0 0 0 1 0 0 0] | no change |
-|  112 | THE ROOK         |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
-|  113 | ocsedbuzi        |     11 | [0 0 1 0 0 0 0 1 0 0] | no change |
-|  114 | Fox              |     11 | [0 0 0 0 0 1 0 0 3 0] | no change |
-|  115 | cod 2            |     11 | [0 0 0 0 0 1 0 0 3 0] | no change |
-|  116 | wawd x dezzii    |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
-|  117 | un1ty eZ1O..     |     11 | [0 0 1 0 0 0 0 1 0 0] | no change |
-|  118 | Jump4LifeBaSeM   |    12 ->    11 | [0 0 1 0 0 0 0 1 0 0] | score decreased |
-|  119 | ^0s P i k e      |     11 | [0 0 0 0 0 2 0 0 0 1] | no change |
-|  120 | Kryptah          |     10 | [0 0 1 0 0 0 0 0 1 0] | no change |
-|  121 | Smiles.Peace     |     10 | [0 0 0 0 0 2 0 0 0 0] | no change |
+|  112 | cod 2            |     11 | [0 0 0 0 0 1 0 0 3 0] | no change |
+|  113 | THE ROOK         |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
+|  114 | un1ty eZ1O..     |     11 | [0 0 1 0 0 0 0 1 0 0] | no change |
+|  115 | ocsedbuzi        |     11 | [0 0 1 0 0 0 0 1 0 0] | no change |
+|  116 | Jump4LifeBaSeM   |     11 | [0 0 1 0 0 0 0 1 0 0] | no change |
+|  117 | ^0s P i k e      |     11 | [0 0 0 0 0 2 0 0 0 1] | no change |
+|  118 | wawd x dezzii    |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
+|  119 | Fox              |     11 | [0 0 0 0 0 1 0 0 3 0] | no change |
+|  120 | probably kubi    |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  121 | ikuminusz        |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
 |  122 | lynz             |     10 | [0 0 1 0 0 0 0 0 1 0] | no change |
-|  123 | Danny            |     10 | [0 0 0 1 0 0 0 0 1 1] | no change |
-|  124 | ikuminusz        |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  125 | probably kubi    |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  126 | kjhax            |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
-|  127 | fuller           |     10 | [0 0 0 0 0 0 1 1 1 1] | no change |
-|  128 | .vari            |     10 | [0 0 0 0 0 0 2 0 0 2] | no change |
-|  129 | HaRdJuMpZoLi     |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
-|  130 | Laung.&&1        |      9 | [0 0 0 0 0 0 0 1 2 2] | no change |
-|  131 | Rob              |      9 | [0 0 0 0 1 0 0 0 1 1] | no change |
-|  132 | Domper           |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  133 | pitterer         |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
-|  134 | Leon             |      9 | [0 0 0 0 1 0 0 1 0 0] | no change |
-|  135 | ^4               |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  136 | idiot2482nade:   |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  137 | enzo             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  138 | spd              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  139 | woxxi            |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  140 | Legend Dwizor.   |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  141 | Martin           |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  142 | 20Reflexxx:D     |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
-|  143 | aweqecko         |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  144 | bandika          |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  145 | Fixer            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  146 | Touch p a d e rtoxXxic |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
-|  147 | Avengers         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  148 | itsLoevve        |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  149 | Estoy aprendiendo espanol |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
-|  150 | Haxer            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  151 | Great Shot       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  152 | mobydick         |      7 | [0 0 0 0 0 0 0 1 2 0] | no change |
-|  153 | Poe              |      7 | [0 0 0 0 0 0 1 0 1 1] | no change |
-|  154 | jeno             |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
-|  155 | Solar Beam       |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  156 | Ready            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  123 | Smiles.Peace     |     10 | [0 0 0 0 0 2 0 0 0 0] | no change |
+|  124 | .vari            |     10 | [0 0 0 0 0 0 2 0 0 2] | no change |
+|  125 | kjhax            |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
+|  126 | fuller           |     10 | [0 0 0 0 0 0 1 1 1 1] | no change |
+|  127 | Danny            |     10 | [0 0 0 1 0 0 0 0 1 1] | no change |
+|  128 | Kryptah          |     10 | [0 0 1 0 0 0 0 0 1 0] | no change |
+|  129 | pitterer         |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
+|  130 | Leon             |      9 | [0 0 0 0 1 0 0 1 0 0] | no change |
+|  131 | Domper           |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  132 | HaRdJuMpZoLi     |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
+|  133 | Laung.&&1        |      9 | [0 0 0 0 0 0 0 1 2 2] | no change |
+|  134 | Rob              |      9 | [0 0 0 0 1 0 0 0 1 1] | no change |
+|  135 | idiot2482nade:   |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  136 | Touch p a d e rtoxXxic |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
+|  137 | Martin           |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  138 | enzo             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  139 | 20Reflexxx:D     |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
+|  140 | spd              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  141 | itsLoevve        |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  142 | Haxer            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  143 | Fixer            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  144 | Estoy aprendiendo espanol |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
+|  145 | bandika          |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  146 | ^4               |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  147 | Legend Dwizor.   |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  148 | aweqecko         |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|  149 | woxxi            |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|  150 | grab             |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  151 | mobydick         |      7 | [0 0 0 0 0 0 0 1 2 0] | no change |
+|  152 | Avengers         |     8 ->     7 | [0 0 0 1 0 0 0 0 0 0] | score decreased |
+|  153 | Great Shot       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  154 | Ready            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  155 | Poe              |      7 | [0 0 0 0 0 0 1 0 1 1] | no change |
+|  156 | jeno             |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
 |  157 | DupStep12        |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  158 | grab             |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  159 | coco             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  160 | JoKeR            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  161 |  CareKajze       |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  162 | V1P3RRR          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  163 | Allegedly db     |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  164 | Lain             |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  165 | descansa en paz  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  166 | hAmi             |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  158 | Solar Beam       |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  159 | descansa en paz  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  160 |  CareKajze       |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  161 | Lain             |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  162 | hAmi             |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  163 | JoKeR            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  164 | coco             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  165 | db               |  - ->      6 |  [0 0 0 0 0 0 1 0 1 0] | new in top      |
+|  166 | V1P3RRR          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
 |  167 | LnA purrp        |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  168 | hond             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  169 | G G G Moxzorv2   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  170 | r1xye$$          |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
-|  171 | bob              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  172 | Smiffi           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  173 | Kyle Rittenhouse |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  168 | gustavson        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  169 | poka             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  170 | G G G Moxzorv2   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  171 | dude             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  172 | Gross            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  173 | MiLKAAFAKK       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
 |  174 | daGaara          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  175 | MiLKAAFAKK       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  176 | poka             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  177 | ReD              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  178 | Morcoska         |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
-|  179 | gustavson        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  180 | Alex             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  181 | Radla ^          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  182 | Gross            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  183 | Anon1mus         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  184 | dude             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  185 | o l i m a n t    |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  186 | TEA5URED :: ATHANASIOU |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  187 | Xav1             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  188 | dRDD             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  189 | UnnamedPlayer    |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  190 | kubislav23       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  191 | bulleye          |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
-|  192 | bluzz            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  193 | HunYoPro         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  194 | rezil            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  195 | Mamlasz          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  196 | mynameisknC      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  197 | peroken          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  175 | Kyle Rittenhouse |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  176 | r1xye$$          |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
+|  177 | hond             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  178 | Anon1mus         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  179 | bob              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  180 | Smiffi           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  181 | ReD              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  182 | Alex             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  183 | Morcoska         |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
+|  184 | Radla ^          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  185 | modesty          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  186 | Bosco            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  187 | kubislav23       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  188 | o l i m a n t    |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  189 | sijer            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  190 | bulleye          |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
+|  191 | rezil            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  192 | mynameisknC      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  193 | UnnamedPlayer    |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  194 | Mamlasz          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  195 | TEA5URED :: ATHANASIOU |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  196 | peroken          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  197 | HunYoPro         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  198 | Wheelchair jumper |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  199 | modesty          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  200 | ratemap 0        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  201 | sijer            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  202 | Bosco            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  203 | How is this even possible? |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  204 | Kevin            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  205 | Je boy Arazal    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  206 | szir             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  207 | L1DER            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  208 | Romcsi           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  209 | COR27 steelseries Koxy |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  210 | Spramo           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  211 | Szosziii&39;     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  212 | kisFred          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  213 | ECV&39;Mattysko  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  214 | Unknown Soldier  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  215 | CobyBryan        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  216 | HxHKillua        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  217 | Mystery          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  218 | Unnamed          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  219 | GRE Pascal       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  220 | TEA5URED :: VITO |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  221 | VaginaThor       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  222 | Get1x.           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  223 | i&39;m so sorry  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  224 | Verus            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  225 | UnReal.SmokerZ/Stona |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  226 | Doxi             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  227 | Hamutarto        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  228 | InspTowelie      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  229 | BlueJay          |     3 ->     2 | [0 0 0 0 0 0 0 0 1 0] | score decreased |
-|  230 | JHFan501         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  231 | Zoom&&1          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  232 | Deto             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  199 | Xav1             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  200 | bluzz            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  201 | ratemap 0        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  202 | Szosziii&39;     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  203 | dRDD             |     4 ->     3 | [0 0 0 0 0 0 0 1 0 0] | score decreased |
+|  204 | Unknown Soldier  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  205 | szir             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  206 | Kevin            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  207 | Spramo           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  208 | Unnamed          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  209 | kisFred          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  210 | How is this even possible? |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  211 | COR27 steelseries Koxy |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  212 | Je boy Arazal    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  213 | HxHKillua        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  214 | Romcsi           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  215 | L1DER            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  216 | Mystery          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  217 | CobyBryan        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  218 | JHFan501         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  219 | UnReal.SmokerZ/Stona |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  220 | InspTowelie      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  221 | ECV&39;Mattysko  |     3 ->     2 | [0 0 0 0 0 0 0 0 1 0] | score decreased |
+|  222 | SonicFox         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  223 | SENSEiBacaRdii1337 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  224 | Doxi             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  225 | r A u l          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  226 | i&39;m so sorry  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  227 | Zoom&&1          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  228 | GRE Pascal       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  229 | Geri             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  230 | Daniel           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  231 | Hamutarto        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  232 | VaginaThor       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
 |  233 | OGV1P3RRR        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  234 | r A u l          |     3 ->     2 | [0 0 0 0 0 0 0 0 1 0] | score decreased |
-|  235 | Geri             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  236 | Daniel           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  237 | SENSEiBacaRdii1337 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  238 | SonicFox         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  239 | Da               |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  240 | Gerax            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  241 | remember no russian |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  242 | clk              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  243 | Lukasz           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  244 | powerstims       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  245 | Popsi            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  246 | Geri $ $ $       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  247 | IYSownex         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  248 | Sumy             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  249 | NF               |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  250 | NOSTRESSMasterOfPuppets |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  251 | exEAGLE x PACHEE |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  252 | Weston           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  253 | Nau              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  234 | BlueJay          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  235 | TEA5URED :: VITO |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  236 | Deto             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  237 | Get1x.           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  238 | dOxX             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  239 | Popsi            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  240 | UnknownSoldier   |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  241 | powerstims       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  242 | remember no russian |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  243 | Da               |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  244 | Weston           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  245 | exEAGLE x PACHEE |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  246 | Gerax            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  247 | Verus            |     2 ->     1 | [0 0 0 0 0 0 0 0 0 1] | score decreased |
+|  248 | Nau              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  249 | Lukasz           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  250 | clk              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  251 | Sumy             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  252 | NOSTRESSMasterOfPuppets |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  253 | IYSownex         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  254 | JHFan816         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  255 | dOxX             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  256 | UnknownSoldier   |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  257 | CODE5INSOMNIA blejd |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  258 | FrosT :          |     18 -> 0     |    -    | removed from top |
+|  255 | NF               |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  256 | Geri $ $ $       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  257 | EpFrosT          |     18 -> 0     |    -    | removed from top |
+|  258 | Allegedly db     |      6 -> 0     |    -    | removed from top |
+|  259 | CODE5INSOMNIA blejd |      1 -> 0     |    -    | removed from top |
 
 
 ## FPS Category: all
 | Rank | Player Name |     Score    | Tops 1 - 10 | Trend          |
 |------|----------------|------------|-----------|------------------|
-|    1 | Unknown          |   2985 | [70 85 69 33 48 30 42 28 19 9] | no change |
-|    2 | UnReal.JumperZ/Tona |   2506 | [113 45 49 30 21 25 14 11 11 7] | no change |
-|    3 | wormtongue       |   2221 | [45 62 50 41 36 23 23 19 16 14] | no change |
-|    4 | maci             |  2206 ->  2203 | [88 48 32 25 26 15 20 24 29 19] | score decreased |
-|    5 | foliasok  dpx    |  1852 ->  1861 | [77 43 21 29 23 16 13 14 8 5] | score increased |
-|    6 | foliasok  kev    |  1494 ->  1493 | [2 23 37 48 32 44 26 25 17 9] | score decreased |
-|    7 | ntech            |  1320 ->  1318 | [29 30 17 26 33 16 20 14 11 18] | score decreased |
-|    8 | oup^^            |  1181 ->  1177 | [29 23 20 16 14 21 20 21 24 28] | score decreased |
-|    9 |    RenjaH        |   979 ->   981 | [5 9 18 14 27 29 33 28 35 15] | score increased |
-|   10 | UnReal.JumperZ/claay |   965 ->   964 | [12 21 20 20 24 10 20 12 16 13] | score decreased |
-|   11 | wulf             |   945 ->   943 | [15 23 14 21 18 19 8 14 18 14] | score decreased |
-|   12 | Jump4Lifedcoy.   |   857 ->   868 | [19 12 9 25 15 21 16 9 9 19] | score increased |
-|   13 | UnReal.JumperZ/picajzl |   853 ->   852 | [1 22 16 23 22 22 9 12 14 13] | score decreased |
+|    1 | Unknown          |  2985 ->  2984 | [70 85 69 33 48 30 42 28 18 10] | score decreased |
+|    2 | UnReal.JumperZ/Tona |  2506 ->  2505 | [113 45 48 31 21 25 14 11 11 7] | score decreased |
+|    3 | wormtongue       |  2221 ->  2219 | [45 62 50 41 35 23 24 19 16 14] | score decreased |
+|    4 | maci             |   2203 | [88 48 32 25 26 15 20 24 29 19] | no change |
+|    5 | foliasok  dpx    |  1861 ->  1863 | [78 43 20 29 23 16 13 14 8 5] | score increased |
+|    6 | foliasok  kev    |   1493 | [2 23 37 48 32 44 26 25 17 9] | no change |
+|    7 | ntech            |  1318 ->  1317 | [28 31 17 26 33 16 20 14 11 18] | score decreased |
+|    8 | oup^^            |  1177 ->  1178 | [29 23 20 16 14 21 20 21 24 29] | score increased |
+|    9 |    RenjaH        |   981 ->   979 | [5 9 18 14 26 29 34 28 35 15] | score decreased |
+|   10 | UnReal.JumperZ/claay |    964 | [12 21 20 20 24 10 20 12 16 13] | no change |
+|   11 | wulf             |   943 ->   942 | [15 22 15 21 18 19 8 14 18 14] | score decreased |
+|   12 | Jump4Lifedcoy.   |   868 ->   867 | [18 13 9 25 15 21 16 9 9 19] | score decreased |
+|   13 | UnReal.JumperZ/picajzl |    852 | [1 22 16 23 22 22 9 12 14 13] | no change |
 |   14 | Roien            |    848 | [9 18 26 16 10 15 7 20 20 13] | no change |
-|   15 | Kecsi            |   791 ->   790 | [34 20 17 12 5 1 2 2 0 1] | score decreased |
-|   16 | Jump4LifeSAD.    |    744 | [11 9 12 12 16 22 14 16 22 19] | no change |
-|   17 | AranyparasztDeres |   710 ->   709 | [1 8 18 20 13 12 22 18 19 25] | score decreased |
-|   18 | UnaRkW           |   709 ->   707 | [23 13 7 14 10 7 8 15 10 14] | score decreased |
-|   19 | kjhax            |    511 | [0 5 8 14 7 21 17 15 14 16] | no change |
+|   15 | Kecsi            |    790 | [34 20 17 12 5 1 2 2 0 1] | no change |
+|   16 | Jump4LifeSAD.    |   744 ->   743 | [11 9 12 12 16 22 14 16 21 20] | score decreased |
+|   17 | AranyparasztDeres |    709 | [1 8 18 20 13 12 22 18 19 25] | no change |
+|   18 | UnaRkW           |   707 ->   706 | [22 14 7 14 10 7 8 15 10 14] | score decreased |
+|   19 | kjhax            |   511 ->   510 | [0 4 9 14 7 21 17 15 14 16] | score decreased |
 |   20 | Shinji           |    469 | [0 4 11 8 15 9 17 17 12 11] | no change |
 |   21 | Mousinged x spurii |    409 | [6 3 12 3 7 13 11 8 11 8] | no change |
 |   22 | Pauli            |    400 | [3 6 6 10 12 7 8 9 13 6] | no change |
 |   23 | wazzi            |    390 | [4 7 9 9 7 5 9 9 7 8] | no change |
-|   24 | neverlucky       |   361 ->   360 | [2 4 8 6 10 12 3 10 13 10] | score decreased |
+|   24 | neverlucky       |    360 | [2 4 8 6 10 12 3 10 13 10] | no change |
 |   25 | drawax           |    357 | [1 2 8 8 10 9 11 11 7 13] | no change |
-|   26 | daskorun         |   357 ->   355 | [0 4 9 7 11 5 14 8 10 7] | score decreased |
-|   27 | A v en1 g8e9r    |   328 ->   332 | [2 4 11 4 6 9 8 7 7 12] | score increased |
+|   26 | daskorun         |   355 ->   354 | [0 4 8 8 11 5 14 8 10 7] | score decreased |
+|   27 | A v en1 g8e9r    |   332 ->   330 | [2 4 11 4 6 9 7 8 7 11] | score decreased |
 |   28 | Nergy.=          |    293 | [2 4 6 9 7 8 2 4 7 10] | no change |
-|   29 | UnReal.JumperZ/Trela |   294 ->   293 | [1 5 6 6 5 6 11 7 7 9] | score decreased |
+|   29 | UnReal.JumperZ/Trela |    293 | [1 5 6 6 5 6 11 7 7 9] | no change |
 |   30 | WEAREJUMPERS chaotic |    286 | [1 4 4 9 9 7 6 7 3 5] | no change |
-|   31 | UnReal.JumperZ/Gr3y |    253 | [0 3 2 4 8 5 10 12 13 7] | no change |
-|   32 | Phylo            |   233 ->   232 | [2 0 2 7 4 8 8 8 8 11] | score decreased |
-|   33 | blaadje/bl444jde/bjd/blade |    217 | [3 10 1 2 3 4 3 5 2 6] | no change |
+|   31 | UnReal.JumperZ/Gr3y |   253 ->   252 | [0 3 2 3 9 5 10 12 13 7] | score decreased |
+|   32 | blaadje/bl444jde/bjd/blade |   217 ->   235 | [5 9 2 2 3 4 3 5 2 5] | score increased |
+|   33 | Phylo            |    232 | [2 0 2 7 4 8 8 8 8 11] | no change |
 |   34 | team  GBK.       |    197 | [0 5 1 4 5 6 5 3 8 11] | no change |
 |   35 | ^ImmortalJumpers.Muki |    193 | [0 0 0 1 11 7 11 6 8 7] | no change |
 |   36 | Duck             |    178 | [0 1 2 5 5 5 7 6 7 3] | no change |
 |   37 | UnReal.JumperZ/Cheri |    175 | [0 0 2 7 4 6 5 6 5 8] | no change |
-|   38 | shondofan69      |   173 ->   172 | [1 8 4 1 1 3 5 2 2 0] | score decreased |
-|   39 | tadaimav2        |    165 | [0 0 0 4 7 8 4 11 0 6] | no change |
+|   38 | shondofan69      |    172 | [1 8 4 1 1 3 5 2 2 0] | no change |
+|   39 | tadaimav2        |   165 ->   164 | [0 0 0 3 8 8 4 11 0 6] | score decreased |
 |   40 | SPRIKEH          |    147 | [1 3 3 3 3 2 4 4 4 1] | no change |
 |   41 | ShepZ            |    146 | [6 3 3 2 3 0 0 1 0 0] | no change |
 |   42 | , B a $ O o O :  |    126 | [0 1 5 3 2 3 4 3 2 0] | no change |
@@ -518,11 +520,11 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   60 | a7x.             |     57 | [0 0 2 1 1 1 2 1 4 4] | no change |
 |   61 | pitterer         |     55 | [0 1 0 1 1 2 2 3 2 2] | no change |
 |   62 | Mousinged x wengi? |     52 | [0 0 3 0 0 2 2 2 1 2] | no change |
-|   63 | Kun              |     50 | [0 0 0 2 0 1 1 4 6 3] | no change |
-|   64 | UnReal.JumperZ/Diggy |     50 | [0 0 1 2 2 0 4 0 0 0] | no change |
-|   65 | Trickshot        |     49 | [0 1 2 2 0 0 1 2 0 0] | no change |
-|   66 | Riser?           |     48 | [0 1 2 1 1 0 1 1 1 1] | no change |
-|   67 | visio            |    48 ->    47 | [1 0 1 1 0 3 0 0 2 3] | score decreased |
+|   63 | UnReal.JumperZ/Diggy |     50 | [0 0 1 2 2 0 4 0 0 0] | no change |
+|   64 | Kun              |     50 | [0 0 0 2 0 1 1 4 6 3] | no change |
+|   65 | Riser?           |     48 | [0 1 2 1 1 0 1 1 1 1] | no change |
+|   66 | Trickshot        |    49 ->    47 | [0 1 1 3 0 0 0 3 0 0] | score decreased |
+|   67 | visio            |     47 | [1 0 1 1 0 3 0 0 2 3] | no change |
 |   68 | Doctor.          |     47 | [0 0 0 0 3 1 4 2 1 0] | no change |
 |   69 | ^ImmortalJumpers.dRiO |     46 | [0 0 1 2 1 0 2 1 2 3] | no change |
 |   70 | r A u l          |     45 | [0 2 0 0 1 2 0 1 4 0] | no change |
@@ -536,166 +538,166 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   78 | Anon1mus         |     38 | [0 0 0 1 1 4 0 1 1 0] | no change |
 |   79 | &39;,&39; QrwAx &39;, |     34 | [0 0 1 0 2 1 1 1 0 2] | no change |
 |   80 | SutaSanyi        |     34 | [0 1 1 0 1 1 0 1 0 3] | no change |
-|   81 | JHFan604         |     31 | [0 1 2 0 1 0 0 0 0 0] | no change |
-|   82 | WINSTON          |     31 | [0 0 0 0 2 2 0 2 1 1] | no change |
-|   83 | JoKeR            |     30 | [0 0 0 1 0 1 4 0 0 2] | no change |
-|   84 | unarkw alt       |     29 | [0 1 1 0 0 1 1 0 1 1] | no change |
-|   85 | treaxer          |     29 | [0 0 0 1 2 0 2 0 0 2] | no change |
-|   86 | Peter33          |     29 | [0 0 1 1 0 0 2 0 3 0] | no change |
-|   87 | KappaSquad febo  |     25 | [0 0 0 0 1 1 2 0 2 2] | no change |
-|   88 | Allegedly db     |     24 | [0 0 1 0 0 1 1 2 0 1] | no change |
-|   89 | LanMyIn The Bed  |     24 | [0 0 0 1 0 1 0 3 1 1] | no change |
-|   90 | pachee           |     24 | [1 0 0 1 0 0 0 1 1 2] | no change |
-|   91 | Kyle Rittenhouse |     24 | [0 0 1 1 0 1 1 0 0 0] | no change |
-|   92 | deletemyexistence |     23 | [1 1 0 0 0 0 1 0 0 0] | no change |
+|   81 | db               |  - ->     32 |  [0 0 2 0 0 1 1 2 0 1] | new in top      |
+|   82 | JHFan604         |     31 | [0 1 2 0 1 0 0 0 0 0] | no change |
+|   83 | WINSTON          |     31 | [0 0 0 0 2 2 0 2 1 1] | no change |
+|   84 | JoKeR            |     30 | [0 0 0 1 0 1 4 0 0 2] | no change |
+|   85 | Peter33          |     29 | [0 0 1 1 0 0 2 0 3 0] | no change |
+|   86 | unarkw alt       |     29 | [0 1 1 0 0 1 1 0 1 1] | no change |
+|   87 | treaxer          |     29 | [0 0 0 1 2 0 2 0 0 2] | no change |
+|   88 | KappaSquad febo  |     25 | [0 0 0 0 1 1 2 0 2 2] | no change |
+|   89 | pachee           |     24 | [1 0 0 1 0 0 0 1 1 2] | no change |
+|   90 | Kyle Rittenhouse |     24 | [0 0 1 1 0 1 1 0 0 0] | no change |
+|   91 | deletemyexistence |     23 | [1 1 0 0 0 0 1 0 0 0] | no change |
+|   92 | LanMyIn The Bed  |    24 ->    23 | [0 0 0 1 0 1 0 2 2 1] | score decreased |
 |   93 | shadowbloom      |     22 | [0 1 0 1 1 0 0 0 0 0] | no change |
 |   94 | MusTa            |     20 | [0 0 0 0 2 0 1 0 1 2] | no change |
 |   95 | Dom1natoRRR      |     19 | [0 0 0 0 1 1 0 2 0 2] | no change |
 |   96 | calum            |     19 | [0 1 0 0 1 0 1 0 0 0] | no change |
-|   97 | busko            |     18 | [0 0 1 0 0 2 0 0 0 0] | no change |
-|   98 | szir             |     18 | [0 0 0 0 0 2 0 0 3 2] | no change |
-|   99 | EpMate           |     18 | [0 0 1 1 0 0 0 1 0 0] | no change |
-|  100 | fLY              |     17 | [0 0 0 1 0 1 1 0 0 1] | no change |
-|  101 | &39;ShepZ        |     17 | [0 1 1 0 0 0 0 0 0 0] | no change |
+|   97 | EpMate           |     18 | [0 0 1 1 0 0 0 1 0 0] | no change |
+|   98 | busko            |     18 | [0 0 1 0 0 2 0 0 0 0] | no change |
+|   99 | szir             |     18 | [0 0 0 0 0 2 0 0 3 2] | no change |
+|  100 | skazy            |     17 | [0 0 0 0 2 1 0 0 0 0] | no change |
+|  101 | phantasmagoria   |     17 | [0 0 0 0 0 0 1 2 3 1] | no change |
 |  102 | Rob              |     17 | [0 1 0 0 1 0 0 0 0 2] | no change |
-|  103 | linox            |     17 | [0 0 0 0 0 1 0 2 2 2] | no change |
-|  104 | skazy            |     17 | [0 0 0 0 2 1 0 0 0 0] | no change |
-|  105 | phantasmagoria   |     17 | [0 0 0 0 0 0 1 2 3 1] | no change |
+|  103 | &39;ShepZ        |     17 | [0 1 1 0 0 0 0 0 0 0] | no change |
+|  104 | linox            |     17 | [0 0 0 0 0 1 0 2 2 2] | no change |
+|  105 | Zawwar.          |     16 | [1 0 0 0 0 0 1 0 1 0] | no change |
 |  106 | Smiffi           |     16 | [0 0 1 0 0 1 0 1 0 0] | no change |
 |  107 | Jack Sparrow     |     16 | [0 0 0 0 0 1 1 1 1 2] | no change |
-|  108 | Zawwar.          |     16 | [1 0 0 0 0 0 1 0 1 0] | no change |
-|  109 | Szoldzser        |     16 | [0 0 0 1 0 1 1 0 0 0] | no change |
-|  110 | Jump4LifeBaSeM   |     15 | [0 0 1 0 0 0 1 1 0 0] | no change |
+|  108 | Szoldzser        |     16 | [0 0 0 1 0 1 1 0 0 0] | no change |
+|  109 | fLY              |    17 ->    16 | [0 0 0 1 0 1 1 0 0 0] | score decreased |
+|  110 | aids             |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
 |  111 | AmBB...          |     15 | [0 0 0 1 1 0 0 0 1 0] | no change |
 |  112 | Doxi             |     15 | [0 0 0 0 2 0 0 1 0 0] | no change |
-|  113 | aids             |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
-|  114 | ^proTotype.      |     14 | [0 0 0 0 0 1 1 1 0 2] | no change |
-|  115 | kubislav23       |     14 | [1 0 0 0 0 0 1 0 0 0] | no change |
-|  116 | JHFan189         |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
-|  117 | feelthepower  TOMBRADY |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
-|  118 | enzo.            |     13 | [0 0 1 0 0 0 0 1 0 2] | no change |
-|  119 | Seez             |     13 | [0 0 0 0 0 1 0 0 3 2] | no change |
-|  120 | ikuminusz        |     13 | [0 0 1 0 0 0 1 0 0 1] | no change |
-|  121 | Sly4561          |     13 | [0 1 0 0 0 0 0 1 0 1] | no change |
-|  122 | stym             |     13 | [0 0 0 0 0 2 0 0 0 3] | no change |
-|  123 | loq              |     13 | [0 0 0 0 0 0 2 1 0 2] | no change |
-|  124 | sintax           |     13 | [0 0 0 0 0 2 0 1 0 0] | no change |
-|  125 | ratemap 0        |     13 | [0 0 0 1 0 0 1 0 0 2] | no change |
-|  126 | Bagolybaszok piton |     13 | [0 0 0 0 0 0 0 3 1 2] | no change |
+|  113 | ^proTotype.      |     14 | [0 0 0 0 0 1 1 1 0 2] | no change |
+|  114 | kubislav23       |     14 | [1 0 0 0 0 0 1 0 0 0] | no change |
+|  115 | Jump4LifeBaSeM   |    15 ->    14 | [0 0 1 0 0 0 1 0 1 0] | score decreased |
+|  116 | loq              |     13 | [0 0 0 0 0 0 2 1 0 2] | no change |
+|  117 | ratemap 0        |     13 | [0 0 0 1 0 0 1 0 0 2] | no change |
+|  118 | Bagolybaszok piton |     13 | [0 0 0 0 0 0 0 3 1 2] | no change |
+|  119 | ikuminusz        |     13 | [0 0 1 0 0 0 1 0 0 1] | no change |
+|  120 | sintax           |     13 | [0 0 0 0 0 2 0 1 0 0] | no change |
+|  121 | Seez             |     13 | [0 0 0 0 0 1 0 0 3 2] | no change |
+|  122 | Sly4561          |     13 | [0 1 0 0 0 0 0 1 0 1] | no change |
+|  123 | feelthepower  TOMBRADY |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
+|  124 | JHFan189         |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
+|  125 | enzo.            |     13 | [0 0 1 0 0 0 0 1 0 2] | no change |
+|  126 | stym             |     13 | [0 0 0 0 0 2 0 0 0 3] | no change |
 |  127 | wawd x dezzii    |     12 | [0 0 0 0 1 1 0 0 0 1] | no change |
 |  128 | Waar             |     12 | [0 0 1 0 0 0 1 0 0 0] | no change |
-|  129 | ^ImmortalJumpers.Greg |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
-|  130 | Pares928         |     11 | [0 0 0 0 0 0 2 1 0 0] | no change |
-|  131 | Victima          |     11 | [0 0 0 1 0 0 0 1 0 1] | no change |
+|  129 | Pares928         |     11 | [0 0 0 0 0 0 2 1 0 0] | no change |
+|  130 | VaginaThor       |     11 | [0 1 0 0 0 0 0 0 1 0] | no change |
+|  131 | Titan.           |     11 | [0 0 0 0 0 1 1 0 0 2] | no change |
 |  132 | StrafedGaming   Fibo |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
 |  133 | UnReal.SmokerZ/Stona |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
-|  134 | UnReal.JumperZ/Floater |     11 | [0 0 0 0 1 0 0 1 0 2] | no change |
-|  135 | VaginaThor       |     11 | [0 1 0 0 0 0 0 0 1 0] | no change |
+|  134 | Victima          |     11 | [0 0 0 1 0 0 0 1 0 1] | no change |
+|  135 | UnReal.JumperZ/Floater |     11 | [0 0 0 0 1 0 0 1 0 2] | no change |
 |  136 | Blade / Blade    |     11 | [0 0 0 1 0 0 0 0 2 0] | no change |
-|  137 | Titan.           |     11 | [0 0 0 0 0 1 1 0 0 2] | no change |
+|  137 | ^ImmortalJumpers.Greg |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
 |  138 | n1kjs            |     10 | [0 0 0 0 0 0 0 3 0 1] | no change |
 |  139 | Farek bacsi      |     10 | [0 0 0 0 0 1 0 1 1 0] | no change |
-|  140 | Skorpiik         |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
-|  141 | happy Pinguin    |      9 | [0 0 0 0 0 0 1 0 2 1] | no change |
-|  142 | Lina&39;         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  143 | Mikro            |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
-|  144 | o l i m a n t    |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  145 | spd              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  146 | Lana             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  147 | Brennt           |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  140 | happy Pinguin    |      9 | [0 0 0 0 0 0 1 0 2 1] | no change |
+|  141 | Lina&39;         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  142 | Mikro            |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
+|  143 | Skorpiik         |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
+|  144 | Lana             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  145 | ^4               |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  146 | Faker:D&&1       |      8 | [0 0 0 0 0 0 0 2 1 0] | no change |
+|  147 | Estoy aprendiendo espanol |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
 |  148 | Morcoska         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
 |  149 | ANYd shadYBIGBOGI |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
 |  150 | joinTka          |      8 | [0 0 0 0 0 0 0 0 2 4] | no change |
-|  151 | ^4               |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  152 | Estoy aprendiendo espanol |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  153 | Black Sheep      |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  154 | Faker:D&&1       |      8 | [0 0 0 0 0 0 0 2 1 0] | no change |
-|  155 | un1ty eZ1O..     |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  156 | Pat^FPS          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  157 | Matyizom         |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  158 | Fixer            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  159 | lazlo            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  160 | Salem            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  161 | lucifer          |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  162 | NoVasaur$        |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  163 | TheproOne        |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
-|  164 | EpFrosT          |  - ->      6 |  [0 0 0 0 0 1 0 0 0 1] | new in top      |
-|  165 | IceBlitZ         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  166 | peter33          |      6 | [0 0 0 0 0 0 0 0 2 2] | no change |
-|  167 | &39;Gemini       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  168 | Moerman          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  169 | ocsedbuzi        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  170 | FoXy             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  171 | werax.           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  172 | Vori             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  173 | Vas^kluks        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  174 | deadboy          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  151 | Brennt           |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  152 | Black Sheep      |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  153 | spd              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  154 | o l i m a n t    |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  155 | Pat^FPS          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  156 | Fixer            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  157 | un1ty eZ1O..     |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  158 | lazlo            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  159 | Matyizom         |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
+|  160 | TheproOne        |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  161 | IceBlitZ         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  162 | lucifer          |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  163 | FrosT :          |  - ->      6 |  [0 0 0 0 0 1 0 0 0 1] | new in top      |
+|  164 | peter33          |      6 | [0 0 0 0 0 0 0 0 2 2] | no change |
+|  165 | Salem            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  166 | NoVasaur$        |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  167 | deadboy          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  168 | Lukasz           |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
+|  169 | ReD              |      5 | [0 0 0 0 0 0 0 0 2 1] | no change |
+|  170 | werax.           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  171 | BaaaNaaaNaaa :   |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
+|  172 | &39;Gemini       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  173 | Moerman          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  174 | Vas^kluks        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
 |  175 | adi              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  176 | BaaaNaaaNaaa :   |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
-|  177 | Lukasz           |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
-|  178 | Banana           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  179 | ReD              |      5 | [0 0 0 0 0 0 0 0 2 1] | no change |
-|  180 | ScBumba          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  181 | idiot2482nade:   |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  182 | Fox              |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  183 | bandika          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  184 | COR27 steelseries DwX? |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  185 | Dutchie          |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  186 | Statinopia       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  187 | shtff            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  188 | RESSi            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  189 | grab             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  190 | Kawabunga        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  191 | slabness         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  192 | .neverborn xZZZon |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  176 | FoXy             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  177 | Vori             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  178 | ocsedbuzi        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  179 | Banana           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  180 | bandika          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  181 | shtff            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  182 | Dutchie          |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  183 | idiot2482nade:   |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  184 | .neverborn xZZZon |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  185 | Kawabunga        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  186 | ScBumba          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  187 | grab             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  188 | slabness         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  189 | Statinopia       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  190 | Solar Beam       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  191 | COR27 steelseries DwX? |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  192 | RESSi            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  193 | JHFan754         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  194 | Solar Beam       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  195 | descansa en paz  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  196 | Stehi the nade abuser |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  197 | HaRdJuMpZoLi     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  198 | Deto             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  199 | TyFun            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  200 | NF               |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  201 | ShepZ&39;&39;    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  202 | Xerox:           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  203 | MilkaaTHEgOd     |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  204 | Haxer            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  205 | fishy            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  206 | V1P3RRR          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  207 | Unnamed          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  208 | hwk.             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  194 | Fox              |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  195 | HaRdJuMpZoLi     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  196 | Xerox:           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  197 | MilkaaTHEgOd     |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  198 | TyFun            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  199 | NF               |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  200 | Unnamed          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  201 | descansa en paz  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  202 | Haxer            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  203 | Stehi the nade abuser |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  204 | hwk.             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  205 | V1P3RRR          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  206 | ShepZ&39;&39;    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  207 | Deto             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  208 | fishy            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
 |  209 | MiniCsiki        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  210 | kciD giB oS evaH I |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  211 | Twetty           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  212 | Poe              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  213 | pkm4st3r         |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
-|  214 | junior           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  215 | Shawn of the Dead |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  216 | TEA5URED :: ATHANASIOU |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  217 | lynz             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  218 | Ace7             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  219 | MerliN           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  220 | yes              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  221 | nnnnnnnnnnnn     |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  222 | hitz             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  223 | itsLoevve        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  224 | paradox wonder   |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  225 | bob              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  226 | ^0s P i k e      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  227 | skuby            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  228 | Kildal           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  229 | Danny            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  230 | Heim             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  231 | unkno soldja     |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  232 | Domper           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  233 | un88x            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  234 | ^                |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  210 | TEA5URED :: ATHANASIOU |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  211 | Shawn of the Dead |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  212 | kciD giB oS evaH I |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  213 | Ace7             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  214 | MerliN           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  215 | Poe              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  216 | junior           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  217 | Twetty           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  218 | lynz             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  219 | pkm4st3r         |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
+|  220 | ^                |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  221 | fuller           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  222 | itsLoevve        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  223 | Domper           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  224 | Bosco            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  225 | Khemotoksz       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  226 | bob              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  227 | yes              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  228 | unkno soldja     |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  229 | Kildal           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  230 | ^0s P i k e      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  231 | nnnnnnnnnnnn     |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  232 | hitz             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  233 | skuby            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  234 | Danny            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  235 | mEnuo            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  236 | Khemotoksz       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  237 | fuller           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  238 | Bosco            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  239 | FrosT :          |      6 -> 0     |    -    | removed from top |
-|  240 | IkuMinuS         |      1 -> 0     |    -    | removed from top |
+|  236 | Heim             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  237 | paradox wonder   |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  238 | un88x            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  239 | EpFrosT          |      6 -> 0     |    -    | removed from top |
+|  240 | Allegedly db     |     24 -> 0     |    -    | removed from top |
 
 
 ## FPS Category: mix
@@ -734,8 +736,8 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   31 | , B a $ O o O :  |    205 | [1 3 8 5 5 4 2 3 1 0] | no change |
 |   32 | UnReal.JumperZ/Gr3y |    204 | [2 4 7 1 6 7 0 4 1 0] | no change |
 |   33 | kLeiN            |    194 | [9 2 6 2 0 3 1 1 1 0] | no change |
-|   34 | Estoy aprendiendo espanol |    184 | [2 4 3 2 7 6 1 3 2 1] | no change |
-|   35 | UnReal.JumperZ/Tona |    184 | [5 4 5 4 0 2 2 2 2 2] | no change |
+|   34 | UnReal.JumperZ/Tona |    184 | [5 4 5 4 0 2 2 2 2 2] | no change |
+|   35 | Estoy aprendiendo espanol |    184 | [2 4 3 2 7 6 1 3 2 1] | no change |
 |   36 | JoKeR            |    181 | [0 2 1 3 6 3 7 8 7 17] | no change |
 |   37 | team  GBK.       |    180 | [1 4 4 6 2 2 5 4 1 4] | no change |
 |   38 | unkno soldja     |    179 | [0 1 0 9 3 3 8 5 10 7] | no change |
@@ -752,79 +754,79 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   49 | UnReal.JumperZ/picajzl |    127 | [7 2 0 4 0 0 1 1 2 0] | no change |
 |   50 | mjella           |    123 | [0 0 3 3 0 7 4 5 3 6] | no change |
 |   51 | WINSTON          |    115 | [3 0 2 4 1 2 2 4 1 3] | no change |
-|   52 | Skorpiik         |    113 | [1 2 5 4 0 3 0 0 1 0] | no change |
-|   53 | UnReal.JumperZ/claay |    111 | [1 2 5 2 2 2 1 1 0 0] | no change |
-|   54 | Allegedly db     |    110 | [0 1 1 2 1 5 6 4 4 4] | no change |
+|   52 | db               |     3 ->   113 | [0 1 1 2 1 5 6 5 4 4] | score increased |
+|   53 | Skorpiik         |    113 | [1 2 5 4 0 3 0 0 1 0] | no change |
+|   54 | UnReal.JumperZ/claay |    111 | [1 2 5 2 2 2 1 1 0 0] | no change |
 |   55 | WEAREJUMPERS chaotic |    107 | [2 1 2 1 4 0 4 1 3 6] | no change |
 |   56 | UnReal.JumperZ/Trela |    105 | [3 1 4 1 2 0 1 3 1 0] | no change |
 |   57 | lucifer          |    101 | [1 3 4 2 1 1 0 2 0 1] | no change |
 |   58 | slofaca.         |     99 | [0 1 2 2 3 3 1 1 6 8] | no change |
 |   59 | Rob              |     97 | [1 3 2 1 2 3 0 3 0 1] | no change |
 |   60 | SutaSanyi        |     95 | [0 2 0 4 1 0 6 6 0 1] | no change |
-|   61 | Laung.&&1        |     94 | [0 1 2 1 1 6 3 3 1 3] | no change |
-|   62 | ApLo             |     94 | [0 3 0 3 2 2 4 0 3 2] | no change |
+|   61 | ApLo             |     94 | [0 3 0 3 2 2 4 0 3 2] | no change |
+|   62 | Laung.&&1        |     94 | [0 1 2 1 1 6 3 3 1 3] | no change |
 |   63 | Phylo            |     93 | [2 2 1 1 3 1 2 0 3 3] | no change |
 |   64 | Nexoo            |     89 | [1 3 3 0 0 1 5 0 1 1] | no change |
-|   65 | happy Pinguin    |    84 ->    88 | [0 2 1 1 2 4 4 0 2 3] | score increased |
+|   65 | happy Pinguin    |     88 | [0 2 1 1 2 4 4 0 2 3] | no change |
 |   66 | Unnamed          |     87 | [0 1 0 1 3 6 3 0 3 5] | no change |
 |   67 | trx              |     84 | [1 0 0 4 1 3 4 1 3 0] | no change |
-|   68 | lynz             |     79 | [0 0 1 2 3 4 1 2 3 3] | no change |
-|   69 | Sly4561          |     79 | [0 1 1 1 1 5 4 1 1 3] | no change |
-|   70 | Unkown Soldier   |     79 | [1 0 0 3 1 1 1 4 7 7] | no change |
-|   71 | pitterer         |     79 | [0 0 1 3 3 1 4 2 1 3] | no change |
-|   72 | Kadel            |     77 | [1 1 0 2 4 1 1 3 1 0] | no change |
-|   73 | Mikro            |     77 | [0 0 2 3 0 2 2 4 3 4] | no change |
+|   68 | Sly4561          |     79 | [0 1 1 1 1 5 4 1 1 3] | no change |
+|   69 | lynz             |     79 | [0 0 1 2 3 4 1 2 3 3] | no change |
+|   70 | pitterer         |     79 | [0 0 1 3 3 1 4 2 1 3] | no change |
+|   71 | Unkown Soldier   |     79 | [1 0 0 3 1 1 1 4 7 7] | no change |
+|   72 | Mikro            |     77 | [0 0 2 3 0 2 2 4 3 4] | no change |
+|   73 | Kadel            |     77 | [1 1 0 2 4 1 1 3 1 0] | no change |
 |   74 | stym             |     75 | [0 0 2 0 4 1 3 2 4 4] | no change |
-|   75 | foliasok  dpx    |     74 | [3 0 0 2 2 0 2 2 1 2] | no change |
-|   76 | kacq&39;&39;     |     74 | [0 1 1 1 4 2 2 1 1 3] | no change |
+|   75 | kacq&39;&39;     |     74 | [0 1 1 1 4 2 2 1 1 3] | no change |
+|   76 | foliasok  dpx    |     74 | [3 0 0 2 2 0 2 2 1 2] | no change |
 |   77 | TEAM TANVALD VOUSACdeSade |     73 | [0 0 0 4 2 1 1 5 2 5] | no change |
-|   78 | JHFan754         |     71 | [0 0 1 4 0 2 4 1 2 2] | no change |
-|   79 | CareKajze        |     71 | [0 2 0 3 1 1 2 2 3 1] | no change |
+|   78 | CareKajze        |     71 | [0 2 0 3 1 1 2 2 3 1] | no change |
+|   79 | JHFan754         |     71 | [0 0 1 4 0 2 4 1 2 2] | no change |
 |   80 | dOxX             |     69 | [0 1 0 1 1 2 3 7 1 2] | no change |
 |   81 | ^proTotype.      |     68 | [2 1 1 0 2 0 1 3 3 0] | no change |
-|   82 | Radla ^          |     67 | [1 1 0 2 1 3 2 0 1 3] | no change |
-|   83 | SENSEiBacaRdii1337 |     67 | [0 1 1 2 0 2 4 2 2 0] | no change |
-|   84 | Trickshot        |     67 | [0 1 2 0 1 3 2 2 2 3] | no change |
-|   85 | fLY              |    67 ->    66 | [0 0 2 1 0 2 3 4 3 3] | score decreased |
-|   86 | Kiskacsa         |     65 | [0 0 1 0 3 1 2 4 6 2] | no change |
-|   87 | hAmi             |     65 | [0 2 2 1 1 2 1 1 0 1] | no change |
+|   82 | SENSEiBacaRdii1337 |     67 | [0 1 1 2 0 2 4 2 2 0] | no change |
+|   83 | Trickshot        |     67 | [0 1 2 0 1 3 2 2 2 3] | no change |
+|   84 | Radla ^          |     67 | [1 1 0 2 1 3 2 0 1 3] | no change |
+|   85 | fLY              |     66 | [0 0 2 1 0 2 3 4 3 3] | no change |
+|   86 | hAmi             |     65 | [0 2 2 1 1 2 1 1 0 1] | no change |
+|   87 | Kiskacsa         |     65 | [0 0 1 0 3 1 2 4 6 2] | no change |
 |   88 | TOTONESKOCIM:Dwinz |     63 | [1 2 0 2 2 1 0 1 0 1] | no change |
 |   89 | Gerax            |     62 | [0 0 0 4 0 1 2 4 4 1] | no change |
 |   90 | Kryptah          |     61 | [1 1 1 0 1 1 4 2 0 1] | no change |
-|   91 | hitz             |     60 | [0 0 0 1 1 6 1 2 1 5] | no change |
-|   92 | JHFan189         |     60 | [0 2 0 1 4 1 1 0 0 2] | no change |
+|   91 | JHFan189         |     60 | [0 2 0 1 4 1 1 0 0 2] | no change |
+|   92 | hitz             |     60 | [0 0 0 1 1 6 1 2 1 5] | no change |
 |   93 | CRASh borzi      |     59 | [0 2 0 0 3 0 1 3 4 2] | no change |
 |   94 | turncoat 8D      |     56 | [2 0 0 2 1 1 2 0 1 1] | no change |
-|   95 | poka             |     55 | [1 1 0 1 1 3 0 2 1 0] | no change |
-|   96 | Jack Sparrow     |     55 | [0 0 1 2 1 2 2 1 1 4] | no change |
+|   95 | Jack Sparrow     |     55 | [0 0 1 2 1 2 2 1 1 4] | no change |
+|   96 | poka             |     55 | [1 1 0 1 1 3 0 2 1 0] | no change |
 |   97 | shondofan69      |     52 | [0 4 1 0 1 0 0 0 0 2] | no change |
 |   98 | blaadje/bl444jde/bjd/blade |     51 | [0 1 1 2 1 2 0 0 2 0] | no change |
 |   99 | Daz              |     50 | [0 1 0 3 0 0 1 4 2 0] | no change |
 |  100 | drawax           |     50 | [0 0 1 1 1 0 3 5 1 0] | no change |
-|  101 | LEGACY borzi     |     48 | [0 0 0 1 2 2 3 1 1 2] | no change |
-|  102 | Kevin.           |     48 | [0 1 2 1 0 1 2 1 0 0] | no change |
+|  101 | Kevin.           |     48 | [0 1 2 1 0 1 2 1 0 0] | no change |
+|  102 | LEGACY borzi     |     48 | [0 0 0 1 2 2 3 1 1 2] | no change |
 |  103 | feelthepower  TOMBRADY |     47 | [2 2 0 0 0 0 2 0 0 1] | no change |
 |  104 | Unknown Soldier  |     45 | [0 0 1 2 2 1 0 1 1 1] | no change |
-|  105 | spd              |     44 | [0 0 1 1 0 2 2 1 3 2] | no change |
-|  106 | Pares928         |     44 | [1 0 2 1 1 1 0 0 0 0] | no change |
-|  107 | Seez             |     44 | [0 0 0 2 1 2 3 0 1 0] | no change |
+|  105 | JHFan580         |     44 | [0 0 0 3 2 1 1 0 1 0] | no change |
+|  106 | spd              |     44 | [0 0 1 1 0 2 2 1 3 2] | no change |
+|  107 | Pares928         |     44 | [1 0 2 1 1 1 0 0 0 0] | no change |
 |  108 | SPRIKEH          |     44 | [2 1 1 1 0 0 0 0 0 0] | no change |
-|  109 | JHFan580         |     44 | [0 0 0 3 2 1 1 0 1 0] | no change |
-|  110 | probably kubi    |     43 | [1 0 1 0 2 2 0 1 0 0] | no change |
-|  111 | skazy            |     43 | [0 0 0 0 3 2 2 2 0 1] | no change |
-|  112 | Jump4Lifedcoy.   |     43 | [1 0 0 2 0 2 0 2 1 1] | no change |
-|  113 | este van         |     42 | [0 1 0 1 2 2 1 0 0 0] | no change |
-|  114 | AnaNa$           |     42 | [1 0 0 1 0 2 1 3 1 0] | no change |
-|  115 | Titan.           |     42 | [0 1 1 1 3 0 0 0 0 0] | no change |
+|  109 | Seez             |     44 | [0 0 0 2 1 2 3 0 1 0] | no change |
+|  110 | Jump4Lifedcoy.   |     43 | [1 0 0 2 0 2 0 2 1 1] | no change |
+|  111 | probably kubi    |     43 | [1 0 1 0 2 2 0 1 0 0] | no change |
+|  112 | skazy            |     43 | [0 0 0 0 3 2 2 2 0 1] | no change |
+|  113 | Titan.           |     42 | [0 1 1 1 3 0 0 0 0 0] | no change |
+|  114 | este van         |     42 | [0 1 0 1 2 2 1 0 0 0] | no change |
+|  115 | AnaNa$           |     42 | [1 0 0 1 0 2 1 3 1 0] | no change |
 |  116 | ^ImmortalJumpers.Muki |     41 | [1 1 1 0 0 0 2 2 0 0] | no change |
-|  117 | .neverborn xZZZon |     40 | [0 0 2 2 1 0 1 0 0 0] | no change |
+|  117 | Mousinged x wengi? |     40 | [0 1 2 0 1 1 0 1 0 1] | no change |
 |  118 | Bagolybaszok piton |     40 | [0 0 1 0 1 2 1 2 3 0] | no change |
-|  119 | Mousinged x wengi? |     40 | [0 1 2 0 1 1 0 1 0 1] | no change |
-|  120 | IYS ownex        |     40 | [0 1 0 3 1 0 0 1 0 1] | no change |
+|  119 | IYS ownex        |     40 | [0 1 0 3 1 0 0 1 0 1] | no change |
+|  120 | .neverborn xZZZon |     40 | [0 0 2 2 1 0 1 0 0 0] | no change |
 |  121 | paradox wonder   |     39 | [0 1 0 0 1 3 1 1 1 0] | no change |
 |  122 | Vas^kluks        |     39 | [0 1 1 0 0 3 0 0 3 1] | no change |
-|  123 | UnReal.JumperZ/Diggy |     39 | [0 1 0 3 1 0 0 1 0 0] | no change |
-|  124 | CobyBryan        |     39 | [0 0 0 2 2 1 2 0 0 0] | no change |
+|  123 | CobyBryan        |     39 | [0 0 0 2 2 1 2 0 0 0] | no change |
+|  124 | UnReal.JumperZ/Diggy |     39 | [0 1 0 3 1 0 0 1 0 0] | no change |
 |  125 | Eszterrr         |     38 | [0 0 0 1 5 0 0 0 0 1] | no change |
 |  126 | wawd x dezzii    |     38 | [0 1 0 1 1 2 0 1 0 3] | no change |
 |  127 | unbind T         |     37 | [0 0 0 2 1 2 1 0 1 1] | no change |
@@ -835,489 +837,490 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |  132 | noobert          |     35 | [0 0 0 1 2 1 1 0 2 3] | no change |
 |  133 | mEnuo            |     33 | [0 0 3 0 0 0 1 0 1 3] | no change |
 |  134 | JizZo            |     32 | [0 0 0 0 3 0 0 3 2 1] | no change |
-|  135 | macsek           |     32 | [0 0 1 0 1 0 1 1 4 3] | no change |
-|  136 | LewkoFTW         |     32 | [0 0 1 1 1 0 1 1 1 2] | no change |
+|  135 | LewkoFTW         |     32 | [0 0 1 1 1 0 1 1 1 2] | no change |
+|  136 | macsek           |     32 | [0 0 1 0 1 0 1 1 4 3] | no change |
 |  137 | JanaTea          |     31 | [0 0 0 3 0 0 1 1 1 1] | no change |
 |  138 | szir             |     30 | [1 0 0 0 1 1 2 0 0 1] | no change |
 |  139 | &39;ShepZ        |     30 | [0 1 0 2 0 1 0 0 0 2] | no change |
 |  140 | GROUP THERAPY  GAMEBOY? |     30 | [0 1 0 0 2 1 1 0 0 0] | no change |
 |  141 | phantasmagoria   |     29 | [0 0 2 1 1 0 0 0 0 0] | no change |
-|  142 | enzo.            |     29 | [0 0 1 2 0 0 1 0 0 3] | no change |
-|  143 | Red              |     29 | [0 0 0 2 1 0 1 1 1 0] | no change |
+|  142 | Red              |     29 | [0 0 0 2 1 0 1 1 1 0] | no change |
+|  143 | enzo.            |     29 | [0 0 1 2 0 0 1 0 0 3] | no change |
 |  144 | bulleye          |     28 | [0 2 0 0 1 0 1 0 0 0] | no change |
 |  145 | onzuka :         |     28 | [0 0 1 2 0 0 0 2 0 0] | no change |
-|  146 |                  |     27 | [0 0 1 0 0 1 2 2 0 0] | no change |
-|  147 | tech             |     27 | [0 0 1 0 2 1 0 0 0 2] | no change |
+|  146 | tech             |     27 | [0 0 1 0 2 1 0 0 0 2] | no change |
+|  147 |                  |     27 | [0 0 1 0 0 1 2 2 0 0] | no change |
 |  148 | eni.             |     26 | [0 0 0 0 2 0 0 1 5 1] | no change |
 |  149 | UnnamedPlayer    |     26 | [0 0 1 1 0 0 0 2 2 1] | no change |
-|  150 | Jump4LifePall    |     25 | [0 0 1 0 0 1 0 3 0 3] | no change |
-|  151 | Dom1natoRRR      |     25 | [0 0 1 0 1 0 2 1 0 0] | no change |
-|  152 | FR13ENDS ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„ |     25 | [1 0 0 0 1 0 1 1 1 0] | no change |
-|  153 | shadowbloom      |     25 | [1 1 0 0 1 0 0 0 0 0] | no change |
-|  154 | Bronkiitti       |     25 | [0 1 0 0 2 0 0 0 2 0] | no change |
-|  155 | kjhax            |     24 | [0 1 0 0 0 1 2 0 0 2] | no change |
-|  156 | &39;,&39; QrwAx &39;, |     24 | [0 2 0 0 1 0 0 0 0 0] | no change |
+|  150 | shadowbloom      |     25 | [1 1 0 0 1 0 0 0 0 0] | no change |
+|  151 | Bronkiitti       |     25 | [0 1 0 0 2 0 0 0 2 0] | no change |
+|  152 | Dom1natoRRR      |     25 | [0 0 1 0 1 0 2 1 0 0] | no change |
+|  153 | Jump4LifePall    |     25 | [0 0 1 0 0 1 0 3 0 3] | no change |
+|  154 | FR13ENDS ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„ |     25 | [1 0 0 0 1 0 1 1 1 0] | no change |
+|  155 | grab             |     24 | [0 0 0 1 1 0 1 1 1 2] | no change |
+|  156 | sijer            |     24 | [0 0 0 0 1 1 2 1 0 2] | no change |
 |  157 | piece of solo queue trash. |     24 | [0 0 0 1 1 0 2 1 0 0] | no change |
-|  158 | grab             |     24 | [0 0 0 1 1 0 1 1 1 2] | no change |
-|  159 | sijer            |     24 | [0 0 0 0 1 1 2 1 0 2] | no change |
-|  160 | COR27 steelseries sfrzx |     24 | [0 0 0 2 0 1 1 0 0 1] | no change |
-|  161 | Zawwar.          |     23 | [1 1 0 0 0 0 0 0 2 0] | no change |
+|  158 | &39;,&39; QrwAx &39;, |     24 | [0 2 0 0 1 0 0 0 0 0] | no change |
+|  159 | COR27 steelseries sfrzx |     24 | [0 0 0 2 0 1 1 0 0 1] | no change |
+|  160 | kjhax            |     24 | [0 1 0 0 0 1 2 0 0 2] | no change |
+|  161 | Morcoska         |     23 | [1 1 0 0 0 0 1 0 0 0] | no change |
 |  162 | loq              |     23 | [0 0 0 0 1 2 1 1 0 0] | no change |
-|  163 | Morcoska         |     23 | [1 1 0 0 0 0 1 0 0 0] | no change |
-|  164 | Redy             |     23 | [0 0 0 2 1 0 0 1 0 0] | no change |
-|  165 | adi              |     23 | [0 0 0 1 2 0 1 0 0 0] | no change |
-|  166 | szocska          |     23 | [0 0 0 0 1 2 1 0 1 1] | no change |
-|  167 | A v en1 g8e9r    |     22 | [0 1 0 1 1 0 0 0 0 0] | no change |
-|  168 | tannenzapfen     |     22 | [0 0 1 0 2 0 0 0 1 0] | no change |
-|  169 | hwk.             |     22 | [0 0 0 0 0 1 1 4 0 1] | no change |
-|  170 | nOiSe            |     21 | [0 0 0 1 0 2 0 1 0 1] | no change |
-|  171 | IzNoGoD          |     21 | [0 0 0 0 1 3 0 0 0 0] | no change |
+|  163 | adi              |     23 | [0 0 0 1 2 0 1 0 0 0] | no change |
+|  164 | szocska          |     23 | [0 0 0 0 1 2 1 0 1 1] | no change |
+|  165 | Zawwar.          |     23 | [1 1 0 0 0 0 0 0 2 0] | no change |
+|  166 | Redy             |     23 | [0 0 0 2 1 0 0 1 0 0] | no change |
+|  167 | tannenzapfen     |     22 | [0 0 1 0 2 0 0 0 1 0] | no change |
+|  168 | hwk.             |     22 | [0 0 0 0 0 1 1 4 0 1] | no change |
+|  169 | A v en1 g8e9r    |     22 | [0 1 0 1 1 0 0 0 0 0] | no change |
+|  170 | BANHAMMER Gaara  |     21 | [0 0 1 0 1 1 0 0 0 2] | no change |
+|  171 | nOiSe            |     21 | [0 0 0 1 0 2 0 1 0 1] | no change |
 |  172 | Kawabunga        |     21 | [0 1 0 0 0 1 1 0 1 1] | no change |
-|  173 | zericu           |     21 | [0 0 1 0 1 0 0 1 2 0] | no change |
-|  174 | Hamutarto        |     21 | [0 0 0 0 1 1 1 2 0 0] | no change |
-|  175 | BANHAMMER Gaara  |     21 | [0 0 1 0 1 1 0 0 0 2] | no change |
-|  176 | REDsherpa        |     21 | [0 0 0 0 1 1 1 2 0 0] | no change |
-|  177 | TEA5URED :: VITO |     21 | [0 1 0 0 0 1 1 1 0 0] | no change |
-|  178 | eddist           |     20 | [2 0 0 0 0 0 0 0 0 0] | no change |
-|  179 | 1.3              |     20 | [0 0 1 0 1 0 0 0 1 4] | no change |
-|  180 | vargasz          |     20 | [0 1 0 0 0 1 0 2 0 0] | no change |
-|  181 | linox            |     20 | [0 0 0 0 2 1 0 1 0 0] | no change |
-|  182 | Kyle Rittenhouse |     20 | [0 0 1 1 0 1 0 0 0 0] | no change |
-|  183 | Heim             |     20 | [0 0 0 2 0 0 0 2 0 0] | no change |
-|  184 | Ragnar           |     20 | [0 0 0 1 0 0 1 3 0 0] | no change |
+|  173 | REDsherpa        |     21 | [0 0 0 0 1 1 1 2 0 0] | no change |
+|  174 | zericu           |     21 | [0 0 1 0 1 0 0 1 2 0] | no change |
+|  175 | IzNoGoD          |     21 | [0 0 0 0 1 3 0 0 0 0] | no change |
+|  176 | TEA5URED :: VITO |     21 | [0 1 0 0 0 1 1 1 0 0] | no change |
+|  177 | Hamutarto        |     21 | [0 0 0 0 1 1 1 2 0 0] | no change |
+|  178 | Ragnar           |     20 | [0 0 0 1 0 0 1 3 0 0] | no change |
+|  179 | Heim             |     20 | [0 0 0 2 0 0 0 2 0 0] | no change |
+|  180 | eddist           |     20 | [2 0 0 0 0 0 0 0 0 0] | no change |
+|  181 | 1.3              |     20 | [0 0 1 0 1 0 0 0 1 4] | no change |
+|  182 | linox            |     20 | [0 0 0 0 2 1 0 1 0 0] | no change |
+|  183 | Kyle Rittenhouse |     20 | [0 0 1 1 0 1 0 0 0 0] | no change |
+|  184 | vargasz          |     20 | [0 1 0 0 0 1 0 2 0 0] | no change |
 |  185 | deadboy          |     20 | [0 1 0 0 1 0 0 1 1 0] | no change |
 |  186 | brian.           |     19 | [1 1 0 0 0 0 0 0 0 0] | no change |
 |  187 | impoSSibLee      |     19 | [0 0 0 1 0 1 1 0 1 1] | no change |
 |  188 | sintax           |     18 | [0 1 0 0 1 0 0 1 0 0] | no change |
-|  189 | STOMPDOWNKILLA   |     18 | [0 1 0 0 1 0 0 1 0 0] | no change |
-|  190 | ZaX              |     18 | [0 0 0 0 0 1 1 1 2 2] | no change |
-|  191 | TEA5URED :: ATHANASIOU |     18 | [0 0 2 0 0 0 0 0 1 0] | no change |
-|  192 | VaginaThor       |     18 | [0 0 0 1 0 0 2 1 0 0] | no change |
-|  193 | Mystery          |     18 | [0 0 2 0 0 0 0 0 1 0] | no change |
+|  189 | ZaX              |     18 | [0 0 0 0 0 1 1 1 2 2] | no change |
+|  190 | TEA5URED :: ATHANASIOU |     18 | [0 0 2 0 0 0 0 0 1 0] | no change |
+|  191 | Mystery          |     18 | [0 0 2 0 0 0 0 0 1 0] | no change |
+|  192 | STOMPDOWNKILLA   |     18 | [0 1 0 0 1 0 0 1 0 0] | no change |
+|  193 | VaginaThor       |     18 | [0 0 0 1 0 0 2 1 0 0] | no change |
 |  194 | NickON           |     17 | [0 0 0 0 2 0 0 1 0 2] | no change |
-|  195 | Verbatim         |     17 | [0 0 0 2 0 0 0 0 1 1] | no change |
+|  195 | ratemap 0        |     17 | [0 0 0 0 2 0 1 0 0 1] | no change |
 |  196 | Elite            |     17 | [0 1 1 0 0 0 0 0 0 0] | no change |
-|  197 | ratemap 0        |     17 | [0 0 0 0 2 0 1 0 0 1] | no change |
+|  197 | Verbatim         |     17 | [0 0 0 2 0 0 0 0 1 1] | no change |
 |  198 | LanMyIn The Bed  |     17 | [0 0 1 0 1 0 0 0 1 1] | no change |
 |  199 | jeno             |     17 | [0 1 0 0 1 0 0 0 1 0] | no change |
-|  200 | leo.             |     16 | [0 0 0 1 0 0 0 2 1 1] | no change |
-|  201 | Aubrey           |     16 | [0 1 0 0 1 0 0 0 0 1] | no change |
-|  202 | skruzi           |     16 | [0 0 0 0 0 2 0 1 1 1] | no change |
-|  203 | fuller           |     16 | [0 1 0 1 0 0 0 0 0 0] | no change |
-|  204 | Pauli            |     16 | [0 1 0 0 0 1 0 0 0 2] | no change |
-|  205 | Westy            |     16 | [0 0 1 0 0 1 0 1 0 0] | no change |
-|  206 | Bosco            |     16 | [0 0 0 1 0 0 1 0 1 3] | no change |
-|  207 | soz4haxBlabzi    |     16 | [0 0 0 1 0 1 0 0 2 0] | no change |
+|  200 | Pauli            |     16 | [0 1 0 0 0 1 0 0 0 2] | no change |
+|  201 | soz4haxBlabzi    |     16 | [0 0 0 1 0 1 0 0 2 0] | no change |
+|  202 | Aubrey           |     16 | [0 1 0 0 1 0 0 0 0 1] | no change |
+|  203 | skruzi           |     16 | [0 0 0 0 0 2 0 1 1 1] | no change |
+|  204 | Bosco            |     16 | [0 0 0 1 0 0 1 0 1 3] | no change |
+|  205 | leo.             |     16 | [0 0 0 1 0 0 0 2 1 1] | no change |
+|  206 | fuller           |     16 | [0 1 0 1 0 0 0 0 0 0] | no change |
+|  207 | Westy            |     16 | [0 0 1 0 0 1 0 1 0 0] | no change |
 |  208 | Pat^FPS          |     15 | [0 1 0 0 0 0 1 0 1 0] | no change |
-|  209 | ^0MaGGoT         |     15 | [0 0 0 1 1 0 0 0 1 0] | no change |
-|  210 | MIT              |     15 | [0 0 0 0 0 0 2 1 1 2] | no change |
-|  211 | OuLa             |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
-|  212 | NF               |     15 | [0 0 0 0 1 1 0 1 0 1] | no change |
-|  213 | aids             |     15 | [0 0 0 1 0 0 2 0 0 0] | no change |
-|  214 | help             |     15 | [0 0 0 0 1 0 2 0 0 1] | no change |
-|  215 | Jump4LifeBaSeM   |     15 | [0 1 0 0 0 0 1 0 1 0] | no change |
-|  216 | KLTxEy           |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
-|  217 | JHFan604         |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
-|  218 | Revans vargasz   |     15 | [0 0 0 0 1 0 1 1 0 2] | no change |
-|  219 | Kisfiu           |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
-|  220 | UPSHEPZ          |     14 | [0 0 0 0 0 0 1 3 0 1] | no change |
-|  221 | Mousinged x freax. |     14 | [0 0 0 1 0 0 0 1 1 2] | no change |
-|  222 | csipesz          |     14 | [0 1 0 0 0 0 0 1 1 0] | no change |
-|  223 | sly4561          |     14 | [0 0 1 0 0 0 0 2 0 0] | no change |
-|  224 | kiraj            |     14 | [0 0 0 1 0 0 0 2 0 1] | no change |
-|  225 | TEAMMATE  GAMEBOY? |     14 | [0 0 0 1 1 0 0 0 0 1] | no change |
-|  226 | Kevin            |     14 | [0 0 0 0 0 2 0 0 2 0] | no change |
-|  227 | V1P3RRR          |     14 | [0 0 1 0 1 0 0 0 0 0] | no change |
-|  228 | Allos            |     14 | [0 0 0 1 0 0 1 1 0 0] | no change |
-|  229 | ^ImmortalJumpers.dRiO |     14 | [0 0 1 0 0 1 0 0 0 1] | no change |
-|  230 | Solar Beam       |     14 | [0 0 0 0 0 1 1 1 1 0] | no change |
-|  231 | Ar1u5            |     14 | [0 1 0 0 0 1 0 0 0 0] | no change |
-|  232 | loXe             |     14 | [0 0 0 0 1 1 0 1 0 0] | no change |
-|  233 | xX1Xx            |     13 | [0 0 0 0 1 1 0 0 0 2] | no change |
-|  234 | ludwig           |     13 | [0 0 0 0 0 0 1 2 1 1] | no change |
-|  235 | Popsi            |     13 | [0 0 1 0 0 0 1 0 0 1] | no change |
+|  209 | NF               |     15 | [0 0 0 0 1 1 0 1 0 1] | no change |
+|  210 | OuLa             |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|  211 | Jump4LifeBaSeM   |     15 | [0 1 0 0 0 0 1 0 1 0] | no change |
+|  212 | JHFan604         |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|  213 | Kisfiu           |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|  214 | KLTxEy           |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|  215 | help             |     15 | [0 0 0 0 1 0 2 0 0 1] | no change |
+|  216 | Revans vargasz   |     15 | [0 0 0 0 1 0 1 1 0 2] | no change |
+|  217 | ^0MaGGoT         |     15 | [0 0 0 1 1 0 0 0 1 0] | no change |
+|  218 | aids             |     15 | [0 0 0 1 0 0 2 0 0 0] | no change |
+|  219 | MIT              |     15 | [0 0 0 0 0 0 2 1 1 2] | no change |
+|  220 | csipesz          |     14 | [0 1 0 0 0 0 0 1 1 0] | no change |
+|  221 | Allos            |     14 | [0 0 0 1 0 0 1 1 0 0] | no change |
+|  222 | sly4561          |     14 | [0 0 1 0 0 0 0 2 0 0] | no change |
+|  223 | Mousinged x freax. |     14 | [0 0 0 1 0 0 0 1 1 2] | no change |
+|  224 | loXe             |     14 | [0 0 0 0 1 1 0 1 0 0] | no change |
+|  225 | UPSHEPZ          |     14 | [0 0 0 0 0 0 1 3 0 1] | no change |
+|  226 | Ar1u5            |     14 | [0 1 0 0 0 1 0 0 0 0] | no change |
+|  227 | Solar Beam       |     14 | [0 0 0 0 0 1 1 1 1 0] | no change |
+|  228 | ^ImmortalJumpers.dRiO |     14 | [0 0 1 0 0 1 0 0 0 1] | no change |
+|  229 | V1P3RRR          |     14 | [0 0 1 0 1 0 0 0 0 0] | no change |
+|  230 | kiraj            |     14 | [0 0 0 1 0 0 0 2 0 1] | no change |
+|  231 | Kevin            |     14 | [0 0 0 0 0 2 0 0 2 0] | no change |
+|  232 | TEAMMATE  GAMEBOY? |     14 | [0 0 0 1 1 0 0 0 0 1] | no change |
+|  233 | low              |     13 | [0 0 1 0 0 1 0 0 0 0] | no change |
+|  234 | Popsi            |     13 | [0 0 1 0 0 0 1 0 0 1] | no change |
+|  235 | swen             |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
 |  236 | peter33          |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
-|  237 | low              |     13 | [0 0 1 0 0 1 0 0 0 0] | no change |
-|  238 | swen             |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
-|  239 | Jesse James      |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
-|  240 | endless grind    |     13 | [0 0 0 0 0 0 2 1 1 0] | no change |
-|  241 | Xav1             |     13 | [0 0 0 0 2 0 0 0 0 1] | no change |
-|  242 | asdasdsda        |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
-|  243 | Waar             |     12 | [0 0 0 0 0 1 0 1 2 0] | no change |
-|  244 | EpFrosT          |  - ->     12 |  [0 0 0 1 0 1 0 0 0 0] | new in top      |
-|  245 | yellow           |     12 | [0 0 0 1 0 1 0 0 0 0] | no change |
-|  246 | un1ty eZ1O..     |     12 | [0 1 0 0 0 0 0 1 0 0] | no change |
-|  247 | Hubba Bubba      |     12 | [0 0 0 0 1 0 1 0 1 0] | no change |
-|  248 | DSAASDAD         |     12 | [0 0 1 0 0 0 1 0 0 0] | no change |
-|  249 | BooK of RA       |     12 | [0 0 0 1 0 1 0 0 0 0] | no change |
-|  250 | washed up        |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
-|  251 | ^Andrej          |     11 | [0 1 0 0 0 0 0 0 1 0] | no change |
-|  252 | daGaara          |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
-|  253 | KappaSquad febo  |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
-|  254 | RESSi            |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
-|  255 | crow             |     11 | [0 0 0 1 0 0 0 1 0 1] | no change |
+|  237 | ludwig           |     13 | [0 0 0 0 0 0 1 2 1 1] | no change |
+|  238 | xX1Xx            |     13 | [0 0 0 0 1 1 0 0 0 2] | no change |
+|  239 | Xav1             |     13 | [0 0 0 0 2 0 0 0 0 1] | no change |
+|  240 | Jesse James      |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
+|  241 | asdasdsda        |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
+|  242 | endless grind    |     13 | [0 0 0 0 0 0 2 1 1 0] | no change |
+|  243 | Hubba Bubba      |     12 | [0 0 0 0 1 0 1 0 1 0] | no change |
+|  244 | DSAASDAD         |     12 | [0 0 1 0 0 0 1 0 0 0] | no change |
+|  245 | FrosT :          |  - ->     12 |  [0 0 0 1 0 1 0 0 0 0] | new in top      |
+|  246 | Waar             |     12 | [0 0 0 0 0 1 0 1 2 0] | no change |
+|  247 | yellow           |     12 | [0 0 0 1 0 1 0 0 0 0] | no change |
+|  248 | BooK of RA       |     12 | [0 0 0 1 0 1 0 0 0 0] | no change |
+|  249 | un1ty eZ1O..     |     12 | [0 1 0 0 0 0 0 1 0 0] | no change |
+|  250 | Matyizom         |     11 | [1 0 0 0 0 0 0 0 0 1] | no change |
+|  251 | RESSi            |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
+|  252 | Hornet           |     11 | [0 0 0 0 0 0 2 0 1 1] | no change |
+|  253 | washed up        |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
+|  254 | crow             |     11 | [0 0 0 1 0 0 0 1 0 1] | no change |
+|  255 | daGaara          |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
 |  256 | bandika          |     11 | [0 0 1 0 0 0 0 1 0 0] | no change |
-|  257 | Matyizom         |     11 | [1 0 0 0 0 0 0 0 0 1] | no change |
-|  258 | Hornet           |     11 | [0 0 0 0 0 0 2 0 1 1] | no change |
-|  259 | Ember            |     10 | [0 0 1 0 0 0 0 0 1 0] | no change |
-|  260 | Statinopia       |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  261 | 8sd8sdshift      |     10 | [0 0 0 0 0 0 2 0 1 0] | no change |
-|  262 | aweqecko         |     10 | [0 0 0 0 1 0 0 1 0 1] | no change |
-|  263 | Capocannoniere   |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  264 | Ownchi           |     10 | [0 0 0 0 0 1 1 0 0 1] | no change |
-|  265 | VeriaN           |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
-|  266 | Dutchie          |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  267 | COR27 steelseries DwX? |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  257 | KappaSquad febo  |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
+|  258 | ^Andrej          |     11 | [0 1 0 0 0 0 0 0 1 0] | no change |
+|  259 | JNTY             |     10 | [0 1 0 0 0 0 0 0 0 1] | no change |
+|  260 | aloha            |     10 | [0 0 0 0 0 0 0 2 2 0] | no change |
+|  261 | Capocannoniere   |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  262 | ikuminusz        |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  263 | aweqecko         |     10 | [0 0 0 0 1 0 0 1 0 1] | no change |
+|  264 | veseli rudi      |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
+|  265 | Dutchie          |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  266 | Srna             |     10 | [0 0 0 0 1 0 0 0 1 2] | no change |
+|  267 | Ownchi           |     10 | [0 0 0 0 0 1 1 0 0 1] | no change |
 |  268 | spro             |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
-|  269 | IceBlitZ         |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  270 | calum            |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  271 | JNTY             |     10 | [0 1 0 0 0 0 0 0 0 1] | no change |
-|  272 | idiot2482nade:   |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  273 | pxchee           |     10 | [0 0 0 1 0 0 0 0 1 1] | no change |
-|  274 | MiniCsiki        |     10 | [0 0 0 1 0 0 0 0 1 1] | no change |
-|  275 | pummel.coach     |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  276 | Paris Brest      |     10 | [0 0 0 0 0 2 0 0 0 0] | no change |
-|  277 | nnnnnnnnnnnn     |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
-|  278 | Srna             |     10 | [0 0 0 0 1 0 0 0 1 2] | no change |
-|  279 | veseli rudi      |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
-|  280 | StrafedGaming   Fibo |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  281 | SonicFox         |     10 | [0 0 0 0 0 0 1 2 0 0] | no change |
-|  282 | ikuminusz        |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  283 | JHFan309         |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  284 | Kayaba Akihiko   |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
-|  285 | Doxi             |     10 | [0 0 0 0 0 0 2 0 1 0] | no change |
-|  286 | aloha            |     10 | [0 0 0 0 0 0 0 2 2 0] | no change |
-|  287 | JumpersHeavenFan171 |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  288 | ReD              |      9 | [0 0 0 0 0 0 0 1 3 0] | no change |
-|  289 | ariana&39;       |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  269 | Ember            |     10 | [0 0 1 0 0 0 0 0 1 0] | no change |
+|  270 | 8sd8sdshift      |     10 | [0 0 0 0 0 0 2 0 1 0] | no change |
+|  271 | IceBlitZ         |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  272 | StrafedGaming   Fibo |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  273 | calum            |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  274 | idiot2482nade:   |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  275 | JHFan309         |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  276 | Doxi             |     10 | [0 0 0 0 0 0 2 0 1 0] | no change |
+|  277 | Statinopia       |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  278 | pxchee           |     10 | [0 0 0 1 0 0 0 0 1 1] | no change |
+|  279 | Kayaba Akihiko   |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
+|  280 | MiniCsiki        |     10 | [0 0 0 1 0 0 0 0 1 1] | no change |
+|  281 | VeriaN           |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
+|  282 | SonicFox         |     10 | [0 0 0 0 0 0 1 2 0 0] | no change |
+|  283 | Paris Brest      |     10 | [0 0 0 0 0 2 0 0 0 0] | no change |
+|  284 | pummel.coach     |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  285 | nnnnnnnnnnnn     |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
+|  286 | COR27 steelseries DwX? |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|  287 | IkuMinuS         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  288 | OUTLAWPuissant   |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
+|  289 | Alex             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
 |  290 | mess/            |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  291 | watter           |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  292 | Szaxaa           |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  293 | ^mr.sts          |      9 | [0 0 0 0 0 1 0 1 0 1] | no change |
-|  294 | hoPe             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  295 | i&39;m so sorry  |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  296 | Ace7             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  297 | busko            |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  298 | Alex             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  299 | OUTLAWPuissant   |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
-|  300 | mouSe            |      9 | [0 0 0 0 0 0 1 1 0 2] | no change |
-|  301 | DwiZor:          |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
-|  302 | almost adult     |      9 | [0 0 0 0 0 1 0 0 1 2] | no change |
+|  291 | Zoom&&1          |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
+|  292 | i&39;m so sorry  |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  293 | Ace7             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  294 | JumpersHeavenFan171 |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  295 | almost adult     |      9 | [0 0 0 0 0 1 0 0 1 2] | no change |
+|  296 | HackErPro&&1     |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
+|  297 | watter           |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  298 | Legalized///Dekkesz |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  299 | ^ImmortalJumpers.Greg |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  300 | busko            |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  301 | EpCandyflip      |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  302 | ^mr.sts          |      9 | [0 0 0 0 0 1 0 1 0 1] | no change |
 |  303 | rednexx          |      9 | [0 0 0 0 0 1 0 1 0 1] | no change |
-|  304 | BlueJay          |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  305 | krilnik          |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  306 | HackErPro&&1     |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
-|  307 | Legalized///Dekkesz |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  308 | &39;Sloveniateam.viseeek |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  309 | JHFan110         |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
-|  310 | hEN              |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  311 | IkuMinuS         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  312 | EpCandyflip      |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  313 | ^ImmortalJumpers.Greg |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  314 | Zoom&&1          |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
-|  315 | Whip$            |      8 | [0 0 0 0 0 0 1 1 0 1] | no change |
-|  316 | rewx             |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
-|  317 | Daniel           |      8 | [0 0 0 0 0 0 2 0 0 0] | no change |
-|  318 | Touch p a d e rtoxXxic |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  319 | HunYoPro         |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  320 | ANYd shadYBIGBOGI |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  321 | Brennt           |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  322 | 1Day2Die         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  304 | hoPe             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  305 | Szaxaa           |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  306 | &39;Sloveniateam.viseeek |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  307 | ariana&39;       |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  308 | mouSe            |      9 | [0 0 0 0 0 0 1 1 0 2] | no change |
+|  309 | hEN              |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  310 | BlueJay          |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  311 | ReD              |      9 | [0 0 0 0 0 0 0 1 3 0] | no change |
+|  312 | JHFan110         |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
+|  313 | krilnik          |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  314 | DwiZor:          |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
+|  315 | hoek             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  316 | Geek Vape        |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  317 | Whip$            |      8 | [0 0 0 0 0 0 1 1 0 1] | no change |
+|  318 | Skipper          |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  319 | Daniel           |      8 | [0 0 0 0 0 0 2 0 0 0] | no change |
+|  320 | B4lnt            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  321 | Touch p a d e rtoxXxic |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  322 | L1DER            |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
 |  323 | Moerman          |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  324 | powerstims       |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  325 | JHFan923         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  324 | JHFan923         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  325 | HunYoPro         |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
 |  326 | UPKnifehim       |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  327 | Lana             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  328 | ZAFER            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  329 | hoek             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  330 | Kun              |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  331 | Skipper          |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  332 | &39;Sloveniateam.JaGaa |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  333 | ponco            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  334 | Narancs          |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  335 | slabness         |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
-|  336 | Geek Vape        |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  337 | JHFan660         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  338 | B4lnt            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  339 | JHFan597         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  340 | ItsNotGood       |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  341 | L1DER            |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  342 | NightfurY        |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
-|  343 | asddasdasdasdas  |      8 | [0 0 0 0 0 0 2 0 0 0] | no change |
-|  344 | Free             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  345 | Anon1mus         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  346 | angri biga nigga |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  347 | Haxer            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  348 | AranyparasztLeves |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
-|  349 | .vari            |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
-|  350 | AmBB...          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  351 | ^4               |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
-|  352 | SnoopY . schlupyy |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  353 | JHFan388         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  354 |  CareKajze       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  355 | Paradiseee       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  356 | kisFaken         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  357 | WELOVEITAL Kuno  |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  358 | gib              |      7 | [0 0 0 0 0 1 0 0 0 2] | no change |
-|  359 | who is this guy? |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
-|  360 | Nau              |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
-|  361 | ChrissRush       |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  362 | nendecrew TOPinka. |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  363 | Faramier13       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  364 | JHFan405         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  365 | M1kKe            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  366 | Tomazek          |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  367 | joinTka          |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  368 | AlexNo sound     |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  369 | wanna b          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  370 | CRIMINAL         |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
-|  371 | pirE:            |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
+|  327 | powerstims       |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  328 | Kun              |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|  329 | Free             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  330 | Brennt           |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  331 | ANYd shadYBIGBOGI |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  332 | slabness         |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
+|  333 | ZAFER            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  334 | 1Day2Die         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  335 | ItsNotGood       |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  336 | JHFan597         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  337 | asddasdasdasdas  |      8 | [0 0 0 0 0 0 2 0 0 0] | no change |
+|  338 | rewx             |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
+|  339 | NightfurY        |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
+|  340 | Narancs          |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  341 | Lana             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  342 | JHFan660         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  343 | &39;Sloveniateam.JaGaa |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  344 | ponco            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  345 | Paradiseee       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  346 | Nau              |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
+|  347 | Avengers         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  348 |  CareKajze       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  349 | AmBB...          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  350 | who is this guy? |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
+|  351 | Tomazek          |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  352 | M1kKe            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  353 | junior           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  354 | Haxer            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  355 | SnoopY . schlupyy |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
+|  356 | pirE:            |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
+|  357 | CRIMINAL         |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
+|  358 | joinTka          |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  359 | gib              |      7 | [0 0 0 0 0 1 0 0 0 2] | no change |
+|  360 | JHFan120         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  361 | JHFan388         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  362 | AlexNo sound     |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  363 | ^4               |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
+|  364 | AranyparasztLeves |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
+|  365 | kisFaken         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  366 | nendecrew TOPinka. |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  367 | wanna b          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  368 | angri biga nigga |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  369 | Spokzz^^         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  370 | .vari            |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
+|  371 | WELOVEITAL Kuno  |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
 |  372 | :D:D:D           |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  373 | JHFan120         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  374 | Avengers         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  375 | PUSSY .. 1Bzen   |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  376 | Spokzz^^         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  377 | junior           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  378 | Szabee           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  379 | Je boy Arazal    |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
-|  380 | rozbijac         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  381 | Neogranormon.    |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  382 | rezil            |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  383 | Bryan            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  384 | WARNING          |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  385 | Best :3          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  386 | Spike            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  387 | whozty           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  388 | empo 1           |      6 | [0 0 0 0 0 0 0 1 1 1] | no change |
-|  389 | c0ldfire         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  390 | Tona             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  391 | bukottdiak       |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  392 | Csuliii&39;      |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
-|  393 | sonycek          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  394 | LeGenD           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  395 | Blue.            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  396 | marijoto         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  397 | aLjoss&39;       |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  398 | Bimbrownik z War$zawy : |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  373 | ChrissRush       |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  374 | Szabee           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  375 | Faramier13       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  376 | Anon1mus         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  377 | JHFan405         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  378 | PUSSY .. 1Bzen   |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  379 | ludwig?          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  380 | Je boy Arazal    |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  381 | rezil            |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  382 | bukottdiak       |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  383 | sonycek          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  384 | JHFan836         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  385 | Spike            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  386 | lupin            |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  387 | JumPR28          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  388 | Bimbrownik z War$zawy : |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  389 | uwu              |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  390 | aLjoss&39;       |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  391 | whozty           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  392 | KOCKASFULUNYUL   |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  393 | DICAST: RULES OF CHAOS |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  394 | ATTACUS king tangk1 |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  395 | justanoldplayer  |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
+|  396 | JHFan501         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  397 | WARNING          |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  398 | LeGenD           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
 |  399 | JumpersHeavenFan |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  400 | JumPR28          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  401 |                  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  402 | l&39;bron        |      6 | [0 0 0 0 0 0 1 0 0 2] | no change |
-|  403 | uwu              |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  404 | ATTACUS king tangk1 |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  405 | justanoldplayer  |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
-|  406 | JHFan836         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  407 | KOCKASFULUNYUL   |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  408 | Sumy             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  409 | spag the runnozor |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  410 | JHFan501         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  411 | ludwig?          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  412 | Paranorm.        |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  413 | lupin            |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  414 | MattyPunkCz      |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  415 | DICAST: RULES OF CHAOS |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  416 | nendecrew Baket. |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  417 | xavio .          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  418 | Jocex            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  419 | Gospin sin       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  420 | nubZ             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  421 | R E K S I O?     |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  422 | nehyzo           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  423 | Aha              |      5 | [0 0 0 0 0 0 0 1 0 2] | no change |
-|  424 | kev              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  425 | Last $p4g        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  426 | NanoCatMusic     |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  427 | rimza            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  428 | name             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  429 | OUTOFCONTET DON&39;T CRY, |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  430 | ^^K^^uker&39;    |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  431 | wzy              |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
-|  432 | Fox              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  433 | . p A r k :      |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  434 | HdH^El Serpiente. |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  435 | dp               |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  436 | freax.           |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
-|  437 | Fantasy&39;IYmmexD |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  438 | ^ImmortalJumpers.NkY |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
-|  439 | Babo&39;         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  440 | Shade            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  441 | lemmiwinks       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  442 | Mia. :           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  443 | BSSHOOWTIME      |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  444 | JHFan816         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  445 | C10H15N  Speed   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  446 | slippi           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  447 | Spramo           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  448 | LeKySs           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  449 | roxzz            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  450 | luis.            |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  451 | Banana           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  452 | SIMPLE07  oup    |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
+|  400 | spag the runnozor |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  401 | Blue.            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  402 |                  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  403 | Sumy             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  404 | Best :3          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  405 | Csuliii&39;      |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
+|  406 | Bryan            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  407 | Neogranormon.    |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  408 | rozbijac         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  409 | Tona             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  410 | xavio .          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  411 | marijoto         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  412 | l&39;bron        |      6 | [0 0 0 0 0 0 1 0 0 2] | no change |
+|  413 | nendecrew Baket. |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  414 | Paranorm.        |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  415 | empo 1           |      6 | [0 0 0 0 0 0 0 1 1 1] | no change |
+|  416 | c0ldfire         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  417 | MattyPunkCz      |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  418 | wzy              |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
+|  419 | JHFan816         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  420 | kev              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  421 | Shade            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  422 | Babo&39;         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  423 | BSSHOOWTIME      |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  424 | nehyzo           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  425 | dp               |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  426 | name             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  427 | OUTOFCONTET DON&39;T CRY, |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  428 | freax.           |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
+|  429 | NanoCatMusic     |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  430 | nubZ             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  431 | Last $p4g        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  432 | lemmiwinks       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  433 | Jocex            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  434 | C10H15N  Speed   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  435 | rimza            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  436 | HdH^El Serpiente. |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  437 | ^ImmortalJumpers.NkY |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
+|  438 | Mia. :           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  439 | Fantasy&39;IYmmexD |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  440 | ^^K^^uker&39;    |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  441 | . p A r k :      |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  442 | Gospin sin       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  443 | Fox              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  444 | R E K S I O?     |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  445 | Aha              |      5 | [0 0 0 0 0 0 0 1 0 2] | no change |
+|  446 | hgtv             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  447 | SOLAR            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  448 | Banana           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  449 | HellFish         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  450 | Riser?           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  451 | HighTEKPuma      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  452 | mynameisknC      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  453 | Maiylo8          |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
-|  454 | Zozo             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  455 | YUSUF            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  456 | Cefre            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  457 | FlyzaNL          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  458 | elephant         |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
-|  459 | Riser?           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  460 | mynameisknC      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  461 | HellFish         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  462 | AloneWolf        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  463 | AWascallyWabbit  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  464 | oZXSir^Killalot  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  465 | burgir           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  466 | snkr             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  467 | HighTEKPuma      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  468 | Black Sheep      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  469 | SOLAR            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  470 | proxizor         |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  471 | Mima             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  472 | K                |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  473 | hgtv             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  474 | hoodpope         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  475 | end27            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  476 | shtff            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  454 | elephant         |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
+|  455 | K                |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  456 | oZXSir^Killalot  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  457 | snkr             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  458 | YUSUF            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  459 | end27            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  460 | burgir           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  461 | roxzz            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  462 | LeKySs           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  463 | FlyzaNL          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  464 | Mima             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  465 | shtff            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  466 | Zozo             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  467 | Spramo           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  468 | SIMPLE07  oup    |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
+|  469 | Cefre            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  470 | Black Sheep      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  471 | AloneWolf        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  472 | AWascallyWabbit  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  473 | proxizor         |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  474 | luis.            |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  475 | slippi           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  476 | hoodpope         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  477 | gaboreeX         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  478 | Gorillaz.        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  479 | p r o X i i..    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  480 | BlzZzy...        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  481 | ErEzYoOn         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  482 | s P i k e        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  483 | mobydick         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  484 | PumaTiny         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  485 | db               |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  486 | ThornWhixenStar  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  487 | JHFan803         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  488 | 0x041E           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  489 | WNx.Dutchie      |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  490 | JHFan734         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  491 | Molly.           |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  492 | RhythmFlows      |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  493 | G G G Moxzorv2   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  494 | RWB law          |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  495 | Fury             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  496 | GÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬ |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  497 | HAHA^^           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  498 | cuggi1337        |     4 ->     3 | [0 0 0 0 0 0 0 1 0 0] | score decreased |
-|  499 | tatataxiii       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  500 | PIDBULKUTYAK BALUSKA |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  501 | Monster Ripper   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  502 | alexzjeah.       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  503 | h4x&&1LilFadda   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  504 | PRAYFORPARIS CEO |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  505 | x0beam.          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  506 | bluzz            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  507 | JHFan725         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  508 | n w3             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  509 | invyczeK.        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  510 | Kildal           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  511 | Get1x.           |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  512 | Padis            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  513 | neXus            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  514 | Danya            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  515 | BratokHR         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  478 | cuggi1337        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  479 | JHFan725         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  480 | PumaTiny         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  481 | JHFan957         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  482 | Fury             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  483 | Padis            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  484 | n w3             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  485 | Gorillaz.        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  486 | RhythmFlows      |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  487 | 0x041E           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  488 | HAHA^^           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  489 | BlzZzy...        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  490 | JHFan803         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  491 | Monster Ripper   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  492 | BRO Leo          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  493 | PIDBULKUTYAK BALUSKA |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  494 | Sandra           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  495 | &39;UP  Hazzie   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  496 | PRAYFORPARIS CEO |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  497 | ErEzYoOn         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  498 | BABYRAGE ivan    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  499 | G G G Moxzorv2   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  500 | x0beam.          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  501 | p r o X i i..    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  502 | BOTMACHINE BULL  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  503 | RWB law          |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  504 | WNx.Dutchie      |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  505 | Kildal           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  506 | neXus            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  507 | bluzz            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  508 | h4x&&1LilFadda   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  509 | Danya            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  510 | 0                |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  511 | tatataxiii       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  512 | ORAO eXtreme: 721 |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  513 | invyczeK.        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  514 | Molly.           |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  515 | s P i k e        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
 |  516 | rare pepe        |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  517 | &39;UP  Hazzie   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  518 | ORAO eXtreme: 721 |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  519 | Sandra           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  520 | BABYRAGE ivan    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  521 | BOTMACHINE BULL  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  522 | 0                |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  523 | JHFan957         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  524 | BRO Leo          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  525 | HYBRiDWORX Ax3l  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  526 | remember no russian |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  527 | EcstaticEllectro |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  528 | niiiiiiiiccccceeee |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  529 | Caspa            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  530 | pkm4st3r         |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
-|  531 | VelOoM&39;       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  532 | shit             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  533 | Bananko.         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  534 | VAGU  DEOjE      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  535 | Lain             |     3 ->     2 | [0 0 0 0 0 0 0 0 1 0] | score decreased |
-|  536 | K3zZ...          |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
-|  537 | Switchbackojz    |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
-|  538 | dopE.VelOoM&39;  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  539 | Cmen             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  540 | TasInHUN.        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  541 | JHFan809         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  542 | teslateam.net12  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  543 | ComadyHun        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  544 | ^Scent           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  545 | zsoldos          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  546 | aviara.ro        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  547 | majaba zmjr      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  548 | blaadjtm         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  549 | ne ne            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  550 | h3h3             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  551 | Wheelchair jumper |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  552 | Touch            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  553 | Daniii           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  554 | TEK9 z0d         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  555 | r1xye$$          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  556 | Martin Books     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  557 | nogirlfriend     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  558 | MLeEnBoY         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  517 | JHFan734         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  518 | BratokHR         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  519 | mobydick         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  520 | ThornWhixenStar  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  521 | alexzjeah.       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  522 | GÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬ |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  523 | Get1x.           |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  524 | HYBRiDWORX Ax3l  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  525 | bL. koko         |  - ->      2 |  [0 0 0 0 0 0 0 0 1 0] | new in top      |
+|  526 | zsoldos          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  527 | dopE.VelOoM&39;  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  528 | KoveIrO ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢ |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  529 | h3h3             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  530 | JHFan809         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  531 | ToujaneJunak 952 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  532 | ^Scent           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  533 | ZESHAXN          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  534 | Bananko.         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  535 | Martin Books     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  536 | h4x&&1Runner     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  537 | VelOoM&39;       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  538 | d O G z  multi   |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  539 | Wheelchair jumper |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  540 | Daniii           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  541 | Artyx            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  542 | Switchbackojz    |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
+|  543 | K3zZ...          |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
+|  544 | Farek bacsi      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  545 | ComadyHun        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  546 | EcstaticEllectro |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  547 | Touch            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  548 | teslateam.net12  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  549 | Peter33          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  550 | nogirlfriend     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  551 | pigs             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  552 | Caspa            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  553 | Cmen             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  554 | TasInHUN.        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  555 | =TR=B a $ O o O  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  556 | remember no russian |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  557 | blaadjtm         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  558 | shit             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
 |  559 | Not FroGz        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  560 | pigs             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  561 | ZESHAXN          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  562 | ToujaneJunak 952 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  563 | Farek bacsi      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  564 | Artyx            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  565 | =TR=B a $ O o O  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  566 | xoxo             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  567 | hometownchem     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  568 | Shawn of the Dead |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  569 | KoveIrO ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢ |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  570 | Mikeyyy          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  571 | h4x&&1Runner     |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  572 | Peter33          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  573 | d O G z  multi   |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  574 | Vini Junior      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  575 | Oisteri          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  560 | majaba zmjr      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  561 | Shawn of the Dead |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  562 | Oisteri          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  563 | ne ne            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  564 | Lain             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  565 | Vini Junior      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  566 | VAGU  DEOjE      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  567 | TEK9 z0d         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  568 | MLeEnBoY         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  569 | Mikeyyy          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  570 | pkm4st3r         |      2 | [0 0 0 0 0 0 0 0 0 2] | no change |
+|  571 | xoxo             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  572 | r1xye$$          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  573 | niiiiiiiiccccceeee |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  574 | aviara.ro        |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  575 | CODYY.           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  576 | Kepongo          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  577 | JHFan554         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  578 | nismo            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  579 | kisFred          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  580 | UnReal.SmokerZ/Stona |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  577 | LakChiCh         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  578 | Resurrection skruzi |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  579 | IMPACT njr11     |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  580 | ORAO AngeLceK    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  581 | szabi            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  582 | MRX              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  583 | Metasploit       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  584 | rybax            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  585 | Balabula         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  586 | Resurrection skruzi |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  587 | IMPACT njr11     |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  588 | ORAO AngeLceK    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  589 | 1907             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  590 | Killx            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  591 | azNber.          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  592 | MTK&39;apostoll  |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  593 | instagram  sijerkrisz |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  594 | blekicsen        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  595 | rob              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  596 | CODYY.           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  597 | LakChiCh         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  598 | GerA             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  599 | ^Micur           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  600 | Barret           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  601 | Tjeliep          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  602 | Danny            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  603 | Morvis           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  604 | ^Tger            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  605 | prdele & Jahodas |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  606 | MelozokPill      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  607 | lMartinl         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  608 | Alexej           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  609 | .v.              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  610 | yimmy            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  611 | szkrecsuan       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  612 | BeniKe           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  613 | /D.L./^ GhosT    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  614 | lamant1N         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  615 | InFerNo          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  616 | EESTI1Kaupo      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  617 | FrosT :          |     12 -> 0     |    -    | removed from top |
+|  582 | prdele & Jahodas |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  583 | Killx            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  584 | Balabula         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  585 | Morvis           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  586 | Alexej           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  587 | /D.L./^ GhosT    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  588 | Metasploit       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  589 | .v.              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  590 | BeniKe           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  591 | ^Tger            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  592 | rybax            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  593 | szkrecsuan       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  594 | Danny            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  595 | UnReal.SmokerZ/Stona |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  596 | lMartinl         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  597 | InFerNo          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  598 | MelozokPill      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  599 | lamant1N         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  600 | yimmy            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  601 | nismo            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  602 | Tjeliep          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  603 | blekicsen        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  604 | MTK&39;apostoll  |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  605 | instagram  sijerkrisz |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  606 | MRX              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  607 | JHFan554         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  608 | azNber.          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  609 | EESTI1Kaupo      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  610 | 1907             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  611 | kisFred          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  612 | GerA             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  613 | rob              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  614 | Barret           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  615 | ^Micur           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  616 | Allegedly db     |    110 -> 0     |    -    | removed from top |
+|  617 | EpFrosT          |     12 -> 0     |    -    | removed from top |
+|  618 | hometownchem     |      2 -> 0     |    -    | removed from top |
 
 
 ## FPS Category: 43
@@ -1331,18 +1334,18 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |    6 | maci             |    321 | [21 10 0 1 2 0 0 0 1 0] | no change |
 |    7 | ^ImmortalJumpers.Muki |    319 | [2 14 11 6 2 3 2 1 1 3] | no change |
 |    8 | AnaNa$           |    276 | [3 8 6 5 6 2 6 2 6 3] | no change |
-|    9 | , B a $ O o O :  |    267 | [8 5 10 4 3 2 0 2 0 0] | no change |
-|   10 | Mousinged x wengi? |    267 | [2 6 7 5 8 8 3 0 1 0] | no change |
+|    9 | Mousinged x wengi? |    267 | [2 6 7 5 8 8 3 0 1 0] | no change |
+|   10 | , B a $ O o O :  |    267 | [8 5 10 4 3 2 0 2 0 0] | no change |
 |   11 |    RenjaH        |    249 | [7 10 3 5 3 1 1 1 0 0] | no change |
-|   12 | UnReal.JumperZ/claay |   246 ->   245 | [14 8 1 1 1 0 3 0 0 0] | score decreased |
+|   12 | UnReal.JumperZ/claay |    245 | [14 8 1 1 1 0 3 0 0 0] | no change |
 |   13 | UnReal.JumperZ/Gr3y |    201 | [3 3 10 3 4 3 0 1 0 1] | no change |
 |   14 | UnReal.JumperZ/Tona |    180 | [0 9 6 4 3 1 0 0 0 0] | no change |
 |   15 | ratemap 0        |    153 | [1 4 3 2 3 2 7 3 1 2] | no change |
-|   16 | A v en1 g8e9r    |   133 ->   138 | [5 2 2 3 3 2 0 1 1 0] | score increased |
+|   16 | A v en1 g8e9r    |    138 | [5 2 2 3 3 2 0 1 1 0] | no change |
 |   17 | HiddeN           |    122 | [1 2 3 4 4 1 2 1 1 0] | no change |
 |   18 | Vampire          |    116 | [0 2 2 3 3 5 0 2 5 2] | no change |
 |   19 | Pat^FPS          |    115 | [0 0 3 4 6 1 3 2 1 2] | no change |
-|   20 | nendecrew Baket. |   114 ->   113 | [2 0 6 4 0 3 0 0 1 0] | score decreased |
+|   20 | nendecrew Baket. |    113 | [2 0 6 4 0 3 0 0 1 0] | no change |
 |   21 | Shinji           |    104 | [0 1 5 3 1 3 3 0 0 1] | no change |
 |   22 | WINSTON          |     90 | [2 1 1 2 1 3 3 1 1 1] | no change |
 |   23 | Arak             |     84 | [0 2 4 1 3 1 1 0 0 0] | no change |
@@ -1350,36 +1353,36 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   25 | UnaRkW           |     79 | [6 1 1 0 0 0 0 0 1 0] | no change |
 |   26 | Jump4LifeBaSeM   |     78 | [0 3 2 2 1 1 0 1 3 1] | no change |
 |   27 | zeiir/           |     77 | [0 0 2 2 4 0 4 0 3 1] | no change |
-|   28 | un88x            |     75 | [0 4 2 2 1 0 0 1 0 0] | no change |
-|   29 | Roien            |     75 | [1 5 1 1 0 0 1 0 0 1] | no change |
+|   28 | Roien            |     75 | [1 5 1 1 0 0 1 0 0 1] | no change |
+|   29 | un88x            |     75 | [0 4 2 2 1 0 0 1 0 0] | no change |
 |   30 | UnReal.JumperZ/Trela |     75 | [3 3 2 0 0 0 0 0 1 0] | no change |
 |   31 | Duck             |     66 | [1 1 4 2 0 0 0 0 0 1] | no change |
-|   32 | stym             |     59 | [0 0 0 1 4 3 2 1 1 0] | no change |
-|   33 | WEAREJUMPERS chaotic |     59 | [0 2 1 1 1 1 3 1 0 0] | no change |
+|   32 | WEAREJUMPERS chaotic |     59 | [0 2 1 1 1 1 3 1 0 0] | no change |
+|   33 | stym             |     59 | [0 0 0 1 4 3 2 1 1 0] | no change |
 |   34 | Blade / Blade    |     57 | [0 2 2 1 0 1 2 1 0 0] | no change |
 |   35 | MilkaaTHEgOd     |     57 | [0 1 3 1 2 1 0 0 0 0] | no change |
 |   36 | IzNoGoD          |     57 | [1 1 1 1 1 2 1 0 1 1] | no change |
 |   37 | Mikro            |     55 | [1 1 0 2 0 2 2 1 0 1] | no change |
-|   38 | UnReal.JumperZ/Diggy |     54 | [0 3 1 1 0 1 0 1 2 0] | no change |
-|   39 | BlueJay          |     54 | [1 0 1 1 4 0 0 1 1 0] | no change |
+|   38 | BlueJay          |     54 | [1 0 1 1 4 0 0 1 1 0] | no change |
+|   39 | UnReal.JumperZ/Diggy |     54 | [0 3 1 1 0 1 0 1 2 0] | no change |
 |   40 | Nergy.=          |     49 | [0 0 1 2 2 1 0 2 1 2] | no change |
 |   41 | Pauli            |     47 | [2 3 0 0 0 0 0 0 0 0] | no change |
 |   42 | Phylo            |     47 | [1 2 1 0 1 1 0 0 0 0] | no change |
 |   43 | pnk?             |     46 | [0 0 2 3 0 1 1 0 0 0] | no change |
 |   44 | Ragnar           |     41 | [0 1 0 0 1 3 2 1 0 0] | no change |
-|   45 | ^proTotype.      |     39 | [0 1 2 1 0 1 0 0 1 0] | no change |
-|   46 | 20Reflexxx:D     |    40 ->    39 | [1 0 0 0 1 2 1 1 2 2] | score decreased |
-|   47 | Kadel            |     38 | [0 0 2 1 2 0 0 1 0 0] | no change |
+|   45 | 20Reflexxx:D     |     39 | [1 0 0 0 1 2 1 1 2 2] | no change |
+|   46 | ^proTotype.      |     39 | [0 1 2 1 0 1 0 0 1 0] | no change |
+|   47 | JHFan281         |     38 | [0 1 0 0 1 1 3 2 0 0] | no change |
 |   48 | Doxi             |     38 | [0 1 1 1 1 1 0 1 0 0] | no change |
-|   49 | JHFan281         |     38 | [0 1 0 0 1 1 3 2 0 0] | no change |
+|   49 | Kadel            |     38 | [0 0 2 1 2 0 0 1 0 0] | no change |
 |   50 | Mystery          |     37 | [0 1 2 1 0 1 0 0 0 0] | no change |
 |   51 | unkoW            |     35 | [2 0 0 1 0 1 0 0 1 1] | no change |
-|   52 | UnReal.JumperZ/picajzl |     34 | [2 0 0 1 0 0 1 1 0 0] | no change |
-|   53 | wulf             |     34 | [1 1 0 0 1 1 1 0 0 0] | no change |
-|   54 | &39;Gemini       |     34 | [0 1 1 1 1 0 1 0 0 0] | no change |
+|   52 | wulf             |     34 | [1 1 0 0 1 1 1 0 0 0] | no change |
+|   53 | &39;Gemini       |     34 | [0 1 1 1 1 0 1 0 0 0] | no change |
+|   54 | UnReal.JumperZ/picajzl |     34 | [2 0 0 1 0 0 1 1 0 0] | no change |
 |   55 | oup^^            |     32 | [1 0 1 1 0 0 1 1 0 0] | no change |
-|   56 | Jump4Lifedcoy.   |     30 | [3 0 0 0 0 0 0 0 0 0] | no change |
-|   57 | OUTLAWLayla      |     30 | [0 0 0 1 2 1 0 1 1 1] | no change |
+|   56 | OUTLAWLayla      |     30 | [0 0 0 1 2 1 0 1 1 1] | no change |
+|   57 | Jump4Lifedcoy.   |     30 | [3 0 0 0 0 0 0 0 0 0] | no change |
 |   58 | TOTONESKOCIM:Dwinz |     29 | [0 0 0 2 1 1 1 0 0 0] | no change |
 |   59 | EpMate           |     29 | [2 1 0 0 0 0 0 0 0 0] | no change |
 |   60 | ShepZ            |     29 | [2 1 0 0 0 0 0 0 0 0] | no change |
@@ -1388,183 +1391,182 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   63 | phantasmagoria   |     26 | [0 0 1 0 1 0 1 2 0 2] | no change |
 |   64 | probably kubi    |     26 | [1 1 0 1 0 0 0 0 0 0] | no change |
 |   65 | daskorun         |     25 | [1 1 0 0 1 0 0 0 0 0] | no change |
-|   66 | Legalized///Dekkesz |     24 | [0 0 1 2 0 0 0 0 0 2] | no change |
-|   67 | pitterer         |     24 | [0 0 0 2 0 0 0 2 2 0] | no change |
-|   68 | foliasok  kev    |     23 | [0 0 2 1 0 0 0 0 0 0] | no change |
+|   66 | pitterer         |     24 | [0 0 0 2 0 0 0 2 2 0] | no change |
+|   67 | Legalized///Dekkesz |     24 | [0 0 1 2 0 0 0 0 0 2] | no change |
+|   68 | bluzz            |     23 | [0 0 0 2 0 1 0 0 2 0] | no change |
 |   69 | Bloodhunter      |     23 | [0 0 1 0 0 1 0 3 0 1] | no change |
-|   70 | bluzz            |     23 | [0 0 0 2 0 1 0 0 2 0] | no change |
-|   71 | mouSe            |     22 | [0 0 1 2 0 0 0 0 0 0] | no change |
-|   72 | KrifA            |     22 | [0 0 1 2 0 0 0 0 0 0] | no change |
+|   70 | foliasok  kev    |     23 | [0 0 2 1 0 0 0 0 0 0] | no change |
+|   71 | KrifA            |     22 | [0 0 1 2 0 0 0 0 0 0] | no change |
+|   72 | mouSe            |     22 | [0 0 1 2 0 0 0 0 0 0] | no change |
 |   73 | &39;,&39; QrwAx &39;, |     20 | [0 0 2 0 0 0 0 1 0 1] | no change |
-|   74 | AmBB...          |     19 | [0 0 1 0 1 1 0 0 0 0] | no change |
-|   75 | Fox              |     19 | [0 0 0 1 1 0 1 0 1 0] | no change |
+|   74 | Fox              |     19 | [0 0 0 1 1 0 1 0 1 0] | no change |
+|   75 | Sorry bro, I&39;m pro : |     19 | [0 0 0 2 0 1 0 0 0 0] | no change |
 |   76 | SutaSanyi        |     19 | [0 0 0 1 2 0 0 0 0 0] | no change |
-|   77 | Sorry bro, I&39;m pro : |     19 | [0 0 0 2 0 1 0 0 0 0] | no change |
+|   77 | AmBB...          |     19 | [0 0 1 0 1 1 0 0 0 0] | no change |
 |   78 | Martin           |     18 | [0 0 1 0 1 0 0 0 2 0] | no change |
 |   79 | AranyparasztDeres |     18 | [0 2 0 0 0 0 0 0 0 0] | no change |
-|   80 | ApLo             |     17 | [0 0 1 0 0 0 1 1 1 0] | no change |
-|   81 | Cego.            |     17 | [0 0 0 1 1 0 1 0 0 0] | no change |
+|   80 | Cego.            |     17 | [0 0 0 1 1 0 1 0 0 0] | no change |
+|   81 | ApLo             |     17 | [0 0 1 0 0 0 1 1 1 0] | no change |
 |   82 | KappaSquad febo  |     17 | [0 0 0 1 1 0 0 0 1 2] | no change |
 |   83 | MusTa            |     17 | [0 1 0 1 0 0 0 0 0 1] | no change |
 |   84 | a7x.             |     16 | [0 0 0 0 0 1 2 0 1 1] | no change |
-|   85 | wawd x dezzii    |     16 | [0 0 0 1 1 0 0 1 0 0] | no change |
-|   86 | leo.             |     16 | [0 0 0 0 1 1 1 0 0 1] | no change |
-|   87 | ErEzYoOn         |     16 | [0 0 2 0 0 0 0 0 0 0] | no change |
+|   85 | ErEzYoOn         |     16 | [0 0 2 0 0 0 0 0 0 0] | no change |
+|   86 | wawd x dezzii    |     16 | [0 0 0 1 1 0 0 1 0 0] | no change |
+|   87 | leo.             |     16 | [0 0 0 0 1 1 1 0 0 1] | no change |
 |   88 | powerstims       |     15 | [0 0 1 1 0 0 0 0 0 0] | no change |
-|   89 | pirE:            |     15 | [0 0 1 0 1 0 0 0 0 1] | no change |
+|   89 | Kisfiu           |     15 | [0 0 0 1 0 0 0 2 0 2] | no change |
 |   90 | NanoCatMusic     |     15 | [0 0 0 0 1 1 0 1 0 1] | no change |
-|   91 | Panda            |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
-|   92 | Kisfiu           |     15 | [0 0 0 1 0 0 0 2 0 2] | no change |
+|   91 | pirE:            |     15 | [0 0 1 0 1 0 0 0 0 1] | no change |
+|   92 | Panda            |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
 |   93 | ^0MaGGoT         |     15 | [0 0 0 2 0 0 0 0 0 1] | no change |
 |   94 | Legend Dwizor.   |     14 | [0 0 1 0 1 0 0 0 0 0] | no change |
-|   95 | Nexoo            |     14 | [1 0 0 0 0 0 1 0 0 0] | no change |
+|   95 | loXe             |     14 | [0 0 1 0 1 0 0 0 0 0] | no change |
 |   96 | ikuminusz        |     14 | [1 0 0 0 0 0 1 0 0 0] | no change |
 |   97 | mynameisknC      |     14 | [0 1 0 0 0 1 0 0 0 0] | no change |
-|   98 | loXe             |     14 | [0 0 1 0 1 0 0 0 0 0] | no change |
-|   99 | JoKeR            |     14 | [0 0 0 0 0 2 1 0 0 0] | no change |
-|  100 | pachee           |     14 | [0 0 0 1 0 0 0 2 0 1] | no change |
-|  101 | krilnik          |     13 | [0 0 1 0 0 1 0 0 0 0] | no change |
-|  102 | SonicFox         |     13 | [0 0 0 0 0 2 0 1 0 0] | no change |
-|  103 | r A u l          |    13 ->    12 | [0 1 0 0 0 0 0 1 0 0] | score decreased |
-|  104 | den emma         |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
-|  105 | ^ImmortalJumpers.dRiO |     11 | [0 1 0 0 0 0 0 0 1 0] | no change |
+|   98 | JoKeR            |     14 | [0 0 0 0 0 2 1 0 0 0] | no change |
+|   99 | pachee           |     14 | [0 0 0 1 0 0 0 2 0 1] | no change |
+|  100 | Nexoo            |     14 | [1 0 0 0 0 0 1 0 0 0] | no change |
+|  101 | SonicFox         |     13 | [0 0 0 0 0 2 0 1 0 0] | no change |
+|  102 | krilnik          |     13 | [0 0 1 0 0 1 0 0 0 0] | no change |
+|  103 | r A u l          |     12 | [0 1 0 0 0 0 0 1 0 0] | no change |
+|  104 | ^ImmortalJumpers.dRiO |     11 | [0 1 0 0 0 0 0 0 1 0] | no change |
+|  105 | den emma         |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
 |  106 | COR27 steelseries Koxy |     11 | [0 0 0 1 0 0 1 0 0 0] | no change |
-|  107 | fishy            |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
-|  108 | Mousinged x spurii |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
+|  107 | Mousinged x spurii |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
+|  108 | fishy            |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
 |  109 | tupe=            |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
 |  110 | aids             |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
-|  111 | Kawabunga        |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  112 | thomas@g&39;o&39;zmozdony |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  113 | poka             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  114 | DwiZor:          |      9 | [0 0 0 0 0 0 1 1 1 0] | no change |
-|  115 | rewx             |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
-|  116 | SENSEiBacaRdii1337 |      9 | [0 0 0 0 0 0 0 3 0 0] | no change |
-|  117 | OuLa             |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
-|  118 | o l i m a n t    |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
-|  119 | Csuliii&39;      |      9 | [0 0 0 0 0 0 0 2 1 1] | no change |
-|  120 | happy Pinguin    |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  121 | n1kjs            |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  122 | tadaimav2        |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  123 | UnnamedPlayer    |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  124 |  Endless         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  125 | adAm =           |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  126 | affagahasd...    |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  127 | Kun              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  128 | Poe              |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
-|  129 | PIDBULKUTYAK BALUSKA |      8 | [0 0 0 0 1 0 0 0 1 0] | no change |
-|  130 | low              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  131 | linox            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  132 | TheCrazyWolf     |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  133 | trx              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  134 | unkno soldja     |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  135 | u n k            |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  136 | affagahasd       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  137 | szocska          |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  138 | loq              |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  139 | Brqker           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  140 | pumpedgabo2.dmg  |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  141 | ^0s P i k e      |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  142 | Al1eN            |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  143 | L1DER            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  144 | EmoPoNy          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  145 | UnReal.SmokerZ/Stona |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  146 | grgy fanboy      |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  147 | DoGzZ CRO Tempesto |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  148 | Creampie         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  149 | Kepongo          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  150 | coco             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  151 | UdSSR ZaNdY      |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  152 | VonDutch         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  153 | OBEY             |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
-|  154 | Verbatim         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  155 | IkuMinuS         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  156 | Unknown Soldier  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  157 | SPRIKEH          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  158 | Jack Sparrow     |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
-|  159 | dani             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  160 | Sapien           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  161 | foliasok  dpx    |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  162 | eXil             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  163 | Domper           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  164 | Oisteri          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  165 | ghzbsc           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  111 | happy Pinguin    |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  112 | DwiZor:          |      9 | [0 0 0 0 0 0 1 1 1 0] | no change |
+|  113 | Csuliii&39;      |      9 | [0 0 0 0 0 0 0 2 1 1] | no change |
+|  114 | n1kjs            |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  115 | o l i m a n t    |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
+|  116 | rewx             |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
+|  117 | poka             |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  118 | UnnamedPlayer    |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  119 | OuLa             |      9 | [0 0 0 0 0 1 1 0 0 0] | no change |
+|  120 | tadaimav2        |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  121 | Kawabunga        |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  122 | SENSEiBacaRdii1337 |      9 | [0 0 0 0 0 0 0 3 0 0] | no change |
+|  123 | thomas@g&39;o&39;zmozdony |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  124 | unkno soldja     |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  125 | trx              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  126 | linox            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  127 | TheCrazyWolf     |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  128 |  Endless         |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  129 | Poe              |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|  130 | PIDBULKUTYAK BALUSKA |      8 | [0 0 0 0 1 0 0 0 1 0] | no change |
+|  131 | adAm =           |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|  132 | low              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  133 | Kun              |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  134 | affagahasd...    |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  135 | ^0s P i k e      |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  136 | pumpedgabo2.dmg  |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  137 | UnReal.SmokerZ/Stona |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  138 | L1DER            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  139 | u n k            |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
+|  140 | szocska          |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  141 | affagahasd       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  142 | grgy fanboy      |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  143 | Al1eN            |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
+|  144 | loq              |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  145 | EmoPoNy          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  146 | Brqker           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  147 | VonDutch         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  148 | OBEY             |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
+|  149 | IkuMinuS         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  150 | dani             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  151 | Verbatim         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  152 | DoGzZ CRO Tempesto |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  153 | SPRIKEH          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  154 | Kepongo          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  155 | Jack Sparrow     |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  156 | foliasok  dpx    |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  157 | UdSSR ZaNdY      |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  158 | Unknown Soldier  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  159 | coco             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  160 | Creampie         |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  161 | Sapien           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  162 | UnReal.JumperZ/Cheri |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  163 | CAN              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  164 | JHFan554         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  165 | eXil             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
 |  166 | VRSESTiFÃƒÆ’Ã†â€™Ãƒâ€ |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  167 | p1ng1p4ng.&39;   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  168 | UnReal.JumperZ/Cheri |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  169 | LamY             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  170 | MajomFighter     |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  171 | CAN              |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  167 | LamY             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  168 | MajomFighter     |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  169 | ben jager        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  170 | ghzbsc           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  171 | Domper           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
 |  172 | HertogJoop       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  173 | ben jager        |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  174 | . p A r k :      |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  175 | JHFan554         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  176 | StrongholdMiki   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  177 | LanMyIn The Bed  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  178 | AranyparasztLeves |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  179 | Padis            |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  180 | Snooper          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  181 | Dwizor.          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  182 | Colt.45          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  183 | eAriS            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  184 | Get1x.           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  185 | DoGzZ CRO DieHardzg |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  186 | Haxer            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  187 | hwk.             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  188 | ^ImmortalJumpers.Greg |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  173 | . p A r k :      |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  174 | StrongholdMiki   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  175 | Oisteri          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  176 | p1ng1p4ng.&39;   |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  177 | ^ImmortalJumpers.Greg |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  178 | DoGzZ CRO DieHardzg |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  179 | hwk.             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  180 | COR27 steelseries sfrzx |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
+|  181 | funki            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  182 | Padis            |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  183 | 8sd8sdshift      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  184 | AranyparasztLeves |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  185 | JHFan803         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  186 | Dwizor.          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  187 | Haxer            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  188 | Get1x.           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  189 | IYSownex         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  190 | adsp             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  191 | JHFan803         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  192 | COR27 steelseries sfrzx |      4 | [0 0 0 0 0 0 0 0 2 0] | no change |
-|  193 | funki            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  194 | Mia. :           |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  195 | BANHAMMER Gaara  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  196 | 8sd8sdshift      |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  197 | sintax           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  190 | Mia. :           |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  191 | BANHAMMER Gaara  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  192 | adsp             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  193 | LanMyIn The Bed  |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  194 | Colt.45          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  195 | eAriS            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  196 | sintax           |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  197 | Snooper          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  198 | Szabi            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
 |  199 | Faker:D&&1       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  200 | HYBRiDWORX Ax3l  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  201 | ^Andrej          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  202 | =HSJ= Tusii&39;  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  200 | Bosco            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  201 | azNber.          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  202 | ^Andrej          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
 |  203 | o1g              |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  204 | AlexNo sound     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  205 | azNber.          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  206 | team  GBK.       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  207 | Bosco            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  208 | NightfurY        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  209 | Doki             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  210 | Dark             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  211 | bob              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  212 | Jimmy            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  213 | Da               |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  214 | busko            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  215 | JumpersHeavenFan |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  216 | squezzy.         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  204 | =HSJ= Tusii&39;  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  205 | Doki             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  206 | NightfurY        |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  207 | HYBRiDWORX Ax3l  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  208 | AlexNo sound     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  209 | team  GBK.       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  210 | HunYoPro         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  211 | Da               |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  212 | FuckYou&&1       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  213 | bob              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  214 | YUSUF            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  215 | Dark             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  216 | ORAO eXtreme: 721 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
 |  217 | idiot2482nade:   |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  218 | ZirKaJarek       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  219 | Sly4561          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  220 | JumpersHeavenFan355 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  221 | FuckYou&&1       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  222 | YUSUF            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  223 | ORAO eXtreme: 721 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  224 | HunYoPro         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  225 | Wheelchair jumper |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  226 | grab             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  227 | M@lik            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  228 | VelOoM&39;       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  229 | Victima          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  230 | soldi            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  231 | pxchee           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  232 | nendecrew TOPinka. |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  233 | adAm fRom CKM    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  234 | Moerman          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  235 | lazlo            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  236 | xpict            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  237 | Surprise         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  238 | Musaka           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  239 | Reflexxx:D       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  240 | Kiper            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  241 | InfectoiN        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  242 | Pares928         |      1 -> 0     |    -    | removed from top |
+|  218 | Jimmy            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  219 | busko            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  220 | ZirKaJarek       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  221 | JumpersHeavenFan355 |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  222 | JumpersHeavenFan |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  223 | Sly4561          |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  224 | squezzy.         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  225 | M@lik            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  226 | Reflexxx:D       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  227 | pxchee           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  228 | nendecrew TOPinka. |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  229 | grab             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  230 | Kiper            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  231 | Victima          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  232 | Wheelchair jumper |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  233 | Moerman          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  234 | adAm fRom CKM    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  235 | InfectoiN        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  236 | Musaka           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  237 | soldi            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  238 | Surprise         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  239 | xpict            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  240 | VelOoM&39;       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  241 | lazlo            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 
 
 ## FPS Category: 76
@@ -1574,20 +1576,20 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |    2 | Jump4LifeSAD.    |   1705 | [57 38 40 33 21 16 5 1 3 7] | no change |
 |    3 | AnaNa$           |   1686 | [32 42 52 37 24 19 11 4 5 8] | no change |
 |    4 | Phylo            |   1683 | [59 68 30 13 12 7 6 3 3 4] | no change |
-|    5 | nendecrew Baket. |   945 ->   944 | [9 18 24 18 27 24 11 10 7 4] | score decreased |
+|    5 | nendecrew Baket. |    944 | [9 18 24 18 27 24 11 10 7 4] | no change |
 |    6 | maci             |    714 | [28 16 24 10 2 1 2 1 0 0] | no change |
 |    7 | UnReal.JumperZ/Gr3y |    566 | [9 16 10 16 6 5 12 7 3 4] | no change |
 |    8 | Unknown          |    537 | [38 11 5 1 0 0 1 2 0 1] | no change |
 |    9 | Mousinged x wengi? |    457 | [3 5 4 16 12 8 12 16 10 10] | no change |
 |   10 | Roien            |    456 | [11 12 11 5 5 8 8 3 1 2] | no change |
-|   11 | UnReal.JumperZ/claay |   432 ->   431 | [23 7 8 2 4 2 4 2 2 0] | score decreased |
+|   11 | UnReal.JumperZ/claay |    431 | [23 7 8 2 4 2 4 2 2 0] | no change |
 |   12 | ^ImmortalJumpers.Muki |    420 | [5 11 10 5 9 8 7 7 4 5] | no change |
 |   13 | WEAREJUMPERS chaotic |    362 | [5 5 10 9 6 5 9 4 6 3] | no change |
 |   14 | , B a $ O o O :  |    339 | [1 6 9 8 16 4 4 3 2 2] | no change |
 |   15 | Shawn of the Dead |    323 | [3 4 5 9 9 8 9 7 1 1] | no change |
-|   16 | UnReal.JumperZ/Trela |   282 ->   281 | [7 5 10 4 1 6 2 3 2 1] | score decreased |
+|   16 | UnReal.JumperZ/Trela |    281 | [7 5 10 4 1 6 2 3 2 1] | no change |
 |   17 |    RenjaH        |    246 | [6 7 7 5 1 3 2 1 0 0] | no change |
-|   18 | A v en1 g8e9r    |   200 ->   206 | [4 6 5 7 2 2 0 0 0 1] | score increased |
+|   18 | A v en1 g8e9r    |    206 | [4 6 5 7 2 2 0 0 0 1] | no change |
 |   19 | stym             |    182 | [0 3 5 2 2 6 8 5 4 4] | no change |
 |   20 | linox            |    165 | [4 2 3 3 5 3 1 3 2 0] | no change |
 |   21 | Fox              |    157 | [0 0 5 3 2 6 5 6 5 6] | no change |
@@ -1595,12 +1597,12 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   23 | ratemap 0        |    140 | [1 1 2 5 2 2 3 7 6 3] | no change |
 |   24 | BlueJay          |    120 | [1 0 4 5 2 5 0 2 0 0] | no change |
 |   25 | pnk?             |    115 | [1 1 3 2 2 2 3 6 3 0] | no change |
-|   26 | Jump4LifeBaSeM   |   114 ->   113 | [0 3 2 0 4 4 4 1 2 3] | score decreased |
+|   26 | Jump4LifeBaSeM   |    113 | [0 3 2 0 4 4 4 1 2 3] | no change |
 |   27 | MilkaaTHEgOd     |    104 | [0 2 0 7 4 2 0 0 1 1] | no change |
 |   28 | Duck             |    103 | [2 1 3 3 1 1 3 0 3 0] | no change |
 |   29 | UnaRkW           |     96 | [7 2 0 0 1 0 0 0 1 0] | no change |
-|   30 | KappaSquad febo  |     88 | [1 1 1 3 2 2 1 3 2 1] | no change |
-|   31 | Kadel            |     88 | [1 2 2 1 2 2 1 1 3 2] | no change |
+|   30 | Kadel            |     88 | [1 2 2 1 2 2 1 1 3 2] | no change |
+|   31 | KappaSquad febo  |     88 | [1 1 1 3 2 2 1 3 2 1] | no change |
 |   32 | AranyparasztDeres |     87 | [1 1 2 3 0 0 2 5 3 2] | no change |
 |   33 | foliasok  kev    |     85 | [0 0 1 4 1 5 2 2 2 0] | no change |
 |   34 | TOTONESKOCIM:Dwinz |     78 | [0 1 3 0 3 2 3 1 1 0] | no change |
@@ -1618,16 +1620,16 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   46 | Mikro            |     60 | [1 2 1 0 0 2 2 2 0 0] | no change |
 |   47 | IzNoGoD          |     59 | [3 0 0 2 1 0 1 1 0 2] | no change |
 |   48 | squezzy.         |     58 | [0 0 1 1 1 0 6 3 1 2] | no change |
-|   49 | wulf             |     58 | [0 3 0 0 2 3 0 1 0 1] | no change |
-|   50 | ^0MaGGoT         |     58 | [0 0 2 2 0 3 1 1 2 2] | no change |
+|   49 | ^0MaGGoT         |     58 | [0 0 2 2 0 3 1 1 2 2] | no change |
+|   50 | wulf             |     58 | [0 3 0 0 2 3 0 1 0 1] | no change |
 |   51 | Mystery          |     55 | [0 2 3 0 1 1 0 0 0 2] | no change |
 |   52 | deletemyexistence |     50 | [1 0 1 0 1 2 0 2 3 4] | no change |
 |   53 | Vampire          |     48 | [0 0 0 2 2 0 3 1 2 3] | no change |
 |   54 | 0x041E           |     44 | [2 0 2 0 0 0 2 0 0 0] | no change |
-|   55 | TEAM TANVALD VOUSACdeSade |     40 | [0 0 2 1 0 0 2 1 2 2] | no change |
-|   56 | ShepZ            |     40 | [4 0 0 0 0 0 0 0 0 0] | no change |
-|   57 | ikuminusz        |     40 | [2 1 0 0 1 0 1 0 0 1] | no change |
-|   58 | bluzz            |     40 | [0 1 0 1 1 2 0 2 1 0] | no change |
+|   55 | ShepZ            |     40 | [4 0 0 0 0 0 0 0 0 0] | no change |
+|   56 | TEAM TANVALD VOUSACdeSade |     40 | [0 0 2 1 0 0 2 1 2 2] | no change |
+|   57 | bluzz            |     40 | [0 1 0 1 1 2 0 2 1 0] | no change |
+|   58 | ikuminusz        |     40 | [2 1 0 0 1 0 1 0 0 1] | no change |
 |   59 | pnk snc &39;08   |     38 | [0 0 0 0 2 4 1 0 1 0] | no change |
 |   60 | Kun              |     38 | [0 0 1 1 1 2 1 0 1 1] | no change |
 |   61 | Pauli            |     37 | [1 0 1 1 2 0 0 0 0 0] | no change |
@@ -1635,170 +1637,171 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   63 | &39;,&39; QrwAx &39;, |     32 | [0 0 1 2 0 2 0 0 0 0] | no change |
 |   64 | Jump4Lifedcoy.   |     30 | [3 0 0 0 0 0 0 0 0 0] | no change |
 |   65 | Mousinged x spurii |     29 | [0 2 0 0 0 1 1 0 1 0] | no change |
-|   66 | Csuliii&39;      |     27 | [0 0 0 0 2 0 2 1 0 4] | no change |
-|   67 | poka             |     27 | [0 0 2 1 0 0 0 1 0 1] | no change |
-|   68 | JoKeR            |     27 | [0 0 0 2 0 1 1 0 2 0] | no change |
+|   66 | JoKeR            |     27 | [0 0 0 2 0 1 1 0 2 0] | no change |
+|   67 | Csuliii&39;      |     27 | [0 0 0 0 2 0 2 1 0 4] | no change |
+|   68 | poka             |     27 | [0 0 2 1 0 0 0 1 0 1] | no change |
 |   69 | NOSKILLSRY       |     26 | [0 0 0 0 0 0 1 4 4 2] | no change |
 |   70 | UnReal.JumperZ/Tona |     26 | [0 1 0 0 2 1 0 0 0 0] | no change |
 |   71 | probably kubi    |     24 | [1 0 1 0 1 0 0 0 0 0] | no change |
 |   72 | LanMyIn The Bed  |     22 | [0 0 0 0 1 2 1 0 0 2] | no change |
-|   73 | oup^^            |    22 ->    21 | [0 0 0 0 1 1 1 2 0 0] | score decreased |
-|   74 | SENSEiBacaRdii1337 |     21 | [0 0 0 0 1 0 3 1 0 0] | no change |
+|   73 | SENSEiBacaRdii1337 |     21 | [0 0 0 0 1 0 3 1 0 0] | no change |
+|   74 | oup^^            |     21 | [0 0 0 0 1 1 1 2 0 0] | no change |
 |   75 | Martin           |     21 | [0 0 1 1 0 0 1 0 1 0] | no change |
 |   76 | funki            |     20 | [0 0 1 1 0 0 1 0 0 1] | no change |
 |   77 | OUTLAWLayla      |     19 | [0 0 0 1 1 0 1 0 0 2] | no change |
-|   78 | UnnamedPlayer    |     18 | [0 1 0 0 1 0 0 0 1 1] | no change |
-|   79 | happy Pinguin    |     18 | [0 0 0 1 1 1 0 0 0 0] | no change |
-|   80 | JHFan554         |     18 | [0 0 0 0 3 0 0 0 0 0] | no change |
-|   81 | daskorun         |     17 | [1 0 0 1 0 0 0 0 0 0] | no change |
-|   82 | adsp             |     17 | [0 1 0 1 0 0 0 0 0 1] | no change |
+|   78 | JHFan554         |     18 | [0 0 0 0 3 0 0 0 0 0] | no change |
+|   79 | UnnamedPlayer    |     18 | [0 1 0 0 1 0 0 0 1 1] | no change |
+|   80 | happy Pinguin    |     18 | [0 0 0 1 1 1 0 0 0 0] | no change |
+|   81 | adsp             |     17 | [0 1 0 1 0 0 0 0 0 1] | no change |
+|   82 | daskorun         |     17 | [1 0 0 1 0 0 0 0 0 0] | no change |
 |   83 | prdele & Jahodas |     17 | [0 0 0 0 0 2 0 1 2 0] | no change |
-|   84 | n1kjs            |     16 | [0 0 1 0 1 0 0 0 1 0] | no change |
-|   85 | trx              |     16 | [0 0 1 0 1 0 0 0 1 0] | no change |
-|   86 | 20Reflexxx:D     |     15 | [0 0 0 0 0 0 1 2 2 1] | no change |
-|   87 | IYS ownex        |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|   84 | trx              |     16 | [0 0 1 0 1 0 0 0 1 0] | no change |
+|   85 | n1kjs            |     16 | [0 0 1 0 1 0 0 0 1 0] | no change |
+|   86 | IYS ownex        |     15 | [0 1 0 0 1 0 0 0 0 0] | no change |
+|   87 | 20Reflexxx:D     |     15 | [0 0 0 0 0 0 1 2 2 1] | no change |
 |   88 | Nexoo            |     14 | [1 0 0 0 0 0 0 1 0 1] | no change |
 |   89 | krilnik          |     14 | [0 0 1 0 1 0 0 0 0 0] | no change |
-|   90 | a7x.             |     13 | [0 0 1 0 0 0 0 1 1 0] | no change |
-|   91 | Wheelchair jumper |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
+|   90 | unkno soldja     |     13 | [0 0 1 0 0 1 0 0 0 0] | no change |
+|   91 | COR27 steelseries sfrzx |     13 | [0 0 0 0 0 1 2 0 0 0] | no change |
 |   92 | drawax           |     13 | [0 0 0 1 0 1 0 0 0 1] | no change |
-|   93 | COR27 steelseries sfrzx |     13 | [0 0 0 0 0 1 2 0 0 0] | no change |
-|   94 | Kisfiu           |     13 | [0 0 0 0 0 1 1 1 0 1] | no change |
+|   93 | Kisfiu           |     13 | [0 0 0 0 0 1 1 1 0 1] | no change |
+|   94 | Trickshot        |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
 |   95 | sintax           |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
-|   96 | unkno soldja     |     13 | [0 0 1 0 0 1 0 0 0 0] | no change |
-|   97 | foliasok  dpx    |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
+|   96 | foliasok  dpx    |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
+|   97 | a7x.             |     13 | [0 0 1 0 0 0 0 1 1 0] | no change |
 |   98 | loq              |     13 | [0 0 0 0 0 1 0 2 1 0] | no change |
-|   99 | Trickshot        |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
-|  100 | MiLKAAFAKK       |     12 | [0 1 0 0 0 0 0 1 0 0] | no change |
-|  101 | Mr.PfFfFfFf // oli |     12 | [0 0 0 0 1 0 0 1 1 1] | no change |
-|  102 | Zawwar.          |     12 | [0 0 0 0 1 0 1 0 1 0] | no change |
+|   99 | Wheelchair jumper |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
+|  100 | Zawwar.          |     12 | [0 0 0 0 1 0 1 0 1 0] | no change |
+|  101 | MiLKAAFAKK       |     12 | [0 1 0 0 0 0 0 1 0 0] | no change |
+|  102 | Mr.PfFfFfFf // oli |     12 | [0 0 0 0 1 0 0 1 1 1] | no change |
 |  103 | Panda            |     11 | [0 0 0 0 1 1 0 0 0 0] | no change |
-|  104 | PIDBULKUTYAK BALUSKA |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
+|  104 | Musaka           |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
 |  105 | szocska          |     10 | [0 0 0 0 0 0 1 1 1 1] | no change |
-|  106 | Musaka           |     10 | [0 0 0 0 1 0 1 0 0 0] | no change |
+|  106 | PIDBULKUTYAK BALUSKA |     10 | [0 0 0 1 0 0 0 1 0 0] | no change |
 |  107 | R5               |     10 | [0 0 0 1 0 0 0 0 1 1] | no change |
-|  108 | Jack Sparrow     |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
-|  109 | Ownchi           |      9 | [0 0 0 0 1 0 0 1 0 0] | no change |
-|  110 | IkuMinuS         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  111 | Allegedly db     |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  112 | NightfurY        |      9 | [0 0 0 0 1 0 0 0 1 1] | no change |
-|  113 | VelOoM&39;       |      9 | [0 0 0 0 1 0 0 1 0 0] | no change |
-|  114 | tadaimav2        |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  115 | affagahasd       |      9 | [0 0 0 0 0 0 1 1 0 2] | no change |
-|  116 | TheCrazyWolf     |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  117 | nendecrew TOPinka. |      9 | [0 0 0 0 0 0 1 1 0 2] | no change |
-|  118 | un88x            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  119 | MusTa            |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
-|  120 | Cego.            |      8 | [0 0 0 0 0 0 0 2 1 0] | no change |
+|  108 | IkuMinuS         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  109 | affagahasd       |      9 | [0 0 0 0 0 0 1 1 0 2] | no change |
+|  110 | TheCrazyWolf     |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  111 | NightfurY        |      9 | [0 0 0 0 1 0 0 0 1 1] | no change |
+|  112 | nendecrew TOPinka. |      9 | [0 0 0 0 0 0 1 1 0 2] | no change |
+|  113 | tadaimav2        |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  114 | Ownchi           |      9 | [0 0 0 0 1 0 0 1 0 0] | no change |
+|  115 | VelOoM&39;       |      9 | [0 0 0 0 1 0 0 1 0 0] | no change |
+|  116 | db               |  - ->      9 |  [0 1 0 0 0 0 0 0 0 0] | new in top      |
+|  117 | Jack Sparrow     |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
+|  118 | MusTa            |      8 | [0 0 0 1 0 0 0 0 0 1] | no change |
+|  119 | un88x            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  120 | wawd x dezzii    |      8 | [0 0 0 0 1 0 0 0 1 0] | no change |
 |  121 | Bosco            |      8 | [0 0 0 0 0 1 0 0 1 1] | no change |
 |  122 | Unnamed          |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  123 | wawd x dezzii    |      8 | [0 0 0 0 1 0 0 0 1 0] | no change |
-|  124 | powerstims       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  125 | aids             |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  126 | azNber.          |      7 | [0 0 0 0 0 0 0 1 2 0] | no change |
-|  127 | o l i m a n t    |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  128 | jump4lifedcoy.   |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  129 | u n k            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  130 | Sapien           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  123 | Cego.            |      8 | [0 0 0 0 0 0 0 2 1 0] | no change |
+|  124 | NoVasaur$        |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  125 | &39;Gemini       |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
+|  126 | powerstims       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  127 | u n k            |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  128 | aids             |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  129 | jump4lifedcoy.   |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  130 | coco             |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
 |  131 | idiot2482nade:   |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  132 | &39;Gemini       |      7 | [0 0 0 0 0 0 0 2 0 1] | no change |
-|  133 | UnReal.SmokerZ/Stona |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  134 | coco             |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  135 | HertogJoop       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  136 | NoVasaur$        |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  132 | Sapien           |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  133 | o l i m a n t    |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  134 | HertogJoop       |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  135 | UnReal.SmokerZ/Stona |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
+|  136 | azNber.          |      7 | [0 0 0 0 0 0 0 1 2 0] | no change |
 |  137 | Colt.45          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  138 | den emma         |      6 | [0 0 0 0 0 0 0 0 3 0] | no change |
-|  139 | BANHAMMER Gaara  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  140 | modesty          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  141 | Faker:D&&1       |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  142 | Arak             |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  143 | leo.             |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  138 | BANHAMMER Gaara  |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  139 | Faker:D&&1       |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  140 | Sorry bro, I&39;m pro : |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  141 | den emma         |      6 | [0 0 0 0 0 0 0 0 3 0] | no change |
+|  142 | leo.             |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  143 | modesty          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
 |  144 | Weston           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  145 | Sorry bro, I&39;m pro : |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
-|  146 | IYSownex         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  147 | Ragnar           |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
-|  148 | CAN              |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
-|  149 | WEPLAYWITHSOULNADEMAN |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  150 | Padis            |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
-|  151 | HunYoPro         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  152 | ^4               |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
-|  153 | Promisis         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  154 | zericu           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  155 | Get1x.           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  156 | Barret           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  157 | ZirKaJarek       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  145 | Arak             |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  146 | Barret           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  147 | IYSownex         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  148 | ZirKaJarek       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  149 | Get1x.           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  150 | HunYoPro         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  151 | Promisis         |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  152 | zericu           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  153 | Exw GTP Pc       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  154 | Padis            |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
+|  155 | CAN              |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
+|  156 | WEPLAYWITHSOULNADEMAN |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  157 | ^4               |      5 | [0 0 0 0 0 0 1 0 0 1] | no change |
 |  158 | Fixer            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  159 | Duje.            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  160 | Exw GTP Pc       |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  161 | grab             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  162 | bob              |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  163 | Legalized///Dekkesz |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  164 | neverlucky       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  165 | OuLa             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  166 | ^ImmortalJumpers.Greg |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  159 | Ragnar           |      5 | [0 0 0 0 0 0 0 1 1 0] | no change |
+|  160 | Duje.            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  161 | SutaSanyi        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  162 | OuLa             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  163 | grab             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  164 | h3h3             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  165 | ^ImmortalJumpers.Greg |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  166 | mouSe            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
 |  167 | team  GBK.       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  168 | mouSe            |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  169 | SutaSanyi        |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  170 | h3h3             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  171 | ^ImmortalJumpers.Rene |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  172 | KecskeSajt       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  168 | bob              |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  169 | neverlucky       |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  170 | Legalized///Dekkesz |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  171 | KecskeSajt       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  172 | Eszterrr         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
 |  173 | CRIMINAL         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  174 | Lukasz           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  175 | Eszterrr         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  176 | skill            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  177 | Poe              |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  178 | Solar Beam       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  179 | ApLo             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  180 | DafQ             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  181 | Furious          |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  182 | noname           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  183 | Xerox:           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  184 | StrongholdMiki   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  185 | Hornet           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  186 | xyxyx            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  187 | JHFan281         |      3 | [0 0 0 0 0 0 0 0 0 3] | no change |
-|  188 | ItsNotGood       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  189 | Blade / Blade    |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  190 | spag the runnozor |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  191 | xyz              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  192 | Jump4LifeMrkica  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  193 |                  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  194 | M1kKe            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  195 | mynameisknC      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  196 | rewx             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  197 | o1g              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  198 | nOiSe            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  199 | Creampie         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  200 | .v.              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  201 | UnReal.JumperZ/Mala |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  202 | Kevin.           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  203 | ErEzYoOn         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  204 | Bloodhunter      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  205 | ^2Abeloka        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  206 | r A u l          |     2 ->     1 | [0 0 0 0 0 0 0 0 0 1] | score decreased |
+|  174 | DafQ             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  175 | skill            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  176 | Xerox:           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  177 | JHFan281         |      3 | [0 0 0 0 0 0 0 0 0 3] | no change |
+|  178 | StrongholdMiki   |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  179 | Lukasz           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  180 | Furious          |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  181 | Poe              |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  182 | xyxyx            |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  183 | Hornet           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  184 | Solar Beam       |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  185 | noname           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  186 | ^ImmortalJumpers.Rene |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  187 | ApLo             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  188 |                  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  189 | o1g              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  190 | Creampie         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  191 | rewx             |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  192 | nOiSe            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  193 | M1kKe            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  194 | xyz              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  195 | Jump4LifeMrkica  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  196 | ItsNotGood       |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  197 | Blade / Blade    |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  198 | mynameisknC      |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  199 | spag the runnozor |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  200 | Nikon            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  201 | Bloodhunter      |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  202 | UnReal.JumperZ/Mala |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  203 | ^2Abeloka        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  204 | r A u l          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  205 | DoGzZ CRO Tempesto |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  206 | ORAO eXtreme: 721 |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  207 | Surtric          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  208 | Anon1mus         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  209 | luis.            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  210 | HYBRiDWORX Ax3l  |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  211 | Victima          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  212 | DoGzZ CRO Tempesto |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  213 | Nikon            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  214 | ORAO eXtreme: 721 |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  215 | AranyparasztLeves |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  216 | name             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  208 | .v.              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  209 | HYBRiDWORX Ax3l  |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  210 | Anon1mus         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  211 | name             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  212 | Victima          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  213 | ErEzYoOn         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  214 | AranyparasztLeves |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  215 | Kevin.           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  216 | luis.            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  217 | Allegedly db     |      9 -> 0     |    -    | removed from top |
 
 
 ## FPS Category: 333
 | Rank | Player Name |     Score    | Tops 1 - 10 | Trend          |
 |------|----------------|------------|-----------|------------------|
 |    1 | maci             |   3624 | [336 10 10 3 7 1 3 3 2 1] | no change |
-|    2 | Jump4LifeSAD.    |  2913 ->  2912 | [40 84 85 60 46 32 34 14 17 8] | score decreased |
+|    2 | Jump4LifeSAD.    |  2912 ->  2911 | [40 84 84 61 46 32 34 14 17 8] | score decreased |
 |    3 | wormtongue       |   2909 | [42 178 47 32 23 14 9 12 1 5] | no change |
-|    4 | Mousinged x spurii |  1857 ->  1856 | [31 45 43 34 30 31 21 24 28 12] | score decreased |
+|    4 | Mousinged x spurii |  1856 ->  1855 | [31 45 43 33 31 31 21 24 28 12] | score decreased |
 |    5 | WEAREJUMPERS chaotic |   1549 | [3 23 30 32 44 46 43 32 33 20] | no change |
 |    6 | Unknown          |   1229 | [38 40 15 16 14 12 14 9 12 6] | no change |
 |    7 | Mousinged x freax. |   1163 | [2 13 42 40 28 24 12 14 15 2] | no change |
-|    8 | A v en1 g8e9r    |  1126 ->  1133 | [7 28 38 29 21 14 14 7 13 5] | score increased |
+|    8 | A v en1 g8e9r    |   1133 | [7 28 38 29 21 14 14 7 13 5] | no change |
 |    9 | Mousinged x wengi? |    982 | [1 9 23 30 23 22 24 25 26 26] | no change |
 |   10 | Kun              |    941 | [2 5 17 28 31 24 26 29 16 15] | no change |
 |   11 | AranyparasztDeres |    916 | [2 10 18 25 27 26 25 15 17 16] | no change |
@@ -1825,186 +1828,185 @@ This system is by no mean perfect, I'm open to proposal for improvements.
 |   32 | gustavson        |     94 | [0 0 1 3 6 2 4 0 1 1] | no change |
 |   33 | werax.           |     93 | [0 0 1 0 1 3 5 5 11 7] | no change |
 |   34 | EpMate           |     91 | [0 3 1 2 2 1 4 2 0 3] | no change |
-|   35 | Jump4Lifedcoy.   |     86 | [2 2 2 1 0 2 1 3 1 0] | no change |
-|   36 | blaadje/bl444jde/bjd/blade |     79 | [1 3 1 2 0 2 1 1 1 1] | no change |
+|   35 | blaadje/bl444jde/bjd/blade |    79 ->    88 | [1 4 1 2 0 2 1 1 1 1] | score increased |
+|   36 | Jump4Lifedcoy.   |     86 | [2 2 2 1 0 2 1 3 1 0] | no change |
 |   37 | szkrecsuan       |     70 | [0 1 0 0 1 5 3 3 3 3] | no change |
 |   38 | ntech            |     59 | [1 0 3 2 1 0 0 0 1 3] | no change |
 |   39 | TheCrazyWolf     |     59 | [0 3 1 2 1 0 1 0 0 0] | no change |
 |   40 | &39;,&39; QrwAx &39;, |     57 | [0 0 1 1 2 2 2 1 4 1] | no change |
 |   41 | ^0MaGGoT         |     55 | [1 0 2 1 0 3 1 1 0 0] | no change |
-|   42 | tadaimav2        |     54 | [0 2 2 1 1 1 0 0 1 0] | no change |
+|   42 | tadaimav2        |    54 ->    53 | [0 1 3 1 1 1 0 0 1 0] | score decreased |
 |   43 | Jack Sparrow     |     53 | [0 0 1 1 3 2 0 2 2 0] | no change |
 |   44 | , B a $ O o O :  |     53 | [0 1 0 1 2 3 1 1 1 1] | no change |
 |   45 | wawd x dezzii    |     52 | [0 0 2 1 0 1 2 1 5 3] | no change |
-|   46 | daskorun         |     50 | [1 0 1 3 1 1 0 0 0 0] | no change |
-|   47 | UnReal.JumperZ/Trela |     50 | [0 3 2 0 0 0 0 2 0 1] | no change |
+|   46 | UnReal.JumperZ/Trela |     50 | [0 3 2 0 0 0 0 2 0 1] | no change |
+|   47 | daskorun         |    50 ->    49 | [1 0 1 3 0 2 0 0 0 0] | score decreased |
 |   48 | wazzi            |     49 | [1 0 0 0 3 0 1 2 4 3] | no change |
 |   49 | UnReal.JumperZ/Diggy |     48 | [1 1 0 0 1 2 0 3 1 2] | no change |
 |   50 | MilkaaTHEgOd     |     44 | [0 1 0 1 2 2 0 2 0 0] | no change |
 |   51 | B4lnt            |     42 | [0 0 0 2 1 1 2 1 1 4] | no change |
 |   52 | UnReal.JumperZ/picajzl |     41 | [0 1 1 0 2 1 1 1 0 0] | no change |
-|   53 | Mikro            |     38 | [0 0 1 0 2 1 3 0 0 1] | no change |
-|   54 | o l i m a n t    |     38 | [0 0 0 0 0 3 2 3 2 2] | no change |
+|   53 | o l i m a n t    |     38 | [0 0 0 0 0 3 2 3 2 2] | no change |
+|   54 | Mikro            |     38 | [0 0 1 0 2 1 3 0 0 1] | no change |
 |   55 | stym             |     37 | [0 0 2 0 1 0 2 2 0 1] | no change |
 |   56 | WINSTON          |     36 | [0 0 0 2 0 2 0 2 1 4] | no change |
 |   57 | foliasok  dpx    |     35 | [0 0 1 1 1 0 2 1 1 1] | no change |
-|   58 | presque vu       |     34 | [0 0 0 0 0 0 2 5 4 3] | no change |
-|   59 | neverlucky       |     34 | [0 1 0 1 0 2 1 1 0 1] | no change |
-|   60 | Vas^kluks        |     33 | [0 0 1 0 1 2 1 1 1 0] | no change |
-|   61 | pachee           |     33 | [1 0 0 2 0 1 0 1 0 1] | no change |
+|   58 | neverlucky       |     34 | [0 1 0 1 0 2 1 1 0 1] | no change |
+|   59 | presque vu       |     34 | [0 0 0 0 0 0 2 5 4 3] | no change |
+|   60 | pachee           |     33 | [1 0 0 2 0 1 0 1 0 1] | no change |
+|   61 | Vas^kluks        |     33 | [0 0 1 0 1 2 1 1 1 0] | no change |
 |   62 | SutaSanyi        |     31 | [0 1 0 1 0 1 0 2 1 2] | no change |
-|   63 | IzNoGoD          |     28 | [1 0 1 1 0 0 0 0 1 1] | no change |
-|   64 | Trickshot        |     28 | [0 1 2 0 0 0 0 1 0 0] | no change |
+|   63 | Trickshot        |     28 | [0 1 2 0 0 0 0 1 0 0] | no change |
+|   64 | IzNoGoD          |     28 | [1 0 1 1 0 0 0 0 1 1] | no change |
 |   65 | Doxi             |     27 | [0 0 1 2 0 1 0 0 0 0] | no change |
-|   66 | 20Reflexxx:D     |    26 ->    25 | [0 0 0 0 2 0 1 2 0 3] | score decreased |
-|   67 | pitterer         |     25 | [0 0 0 2 1 0 0 1 1 0] | no change |
-|   68 | ErEzYoOn         |     24 | [0 0 0 1 0 0 0 3 3 2] | no change |
-|   69 | probably kubi    |     24 | [1 0 0 2 0 0 0 0 0 0] | no change |
-|   70 | JoKeR            |     24 | [0 0 1 0 0 1 1 1 2 0] | no change |
-|   71 | Da               |     22 | [0 0 0 0 0 2 2 0 2 0] | no change |
-|   72 | kLeiN            |     22 | [0 0 0 0 2 0 0 3 0 1] | no change |
+|   66 | pitterer         |     25 | [0 0 0 2 1 0 0 1 1 0] | no change |
+|   67 | 20Reflexxx:D     |     25 | [0 0 0 0 2 0 1 2 0 3] | no change |
+|   68 | probably kubi    |     24 | [1 0 0 2 0 0 0 0 0 0] | no change |
+|   69 | JoKeR            |     24 | [0 0 1 0 0 1 1 1 2 0] | no change |
+|   70 | ErEzYoOn         |     24 | [0 0 0 1 0 0 0 3 3 2] | no change |
+|   71 | kLeiN            |     22 | [0 0 0 0 2 0 0 3 0 1] | no change |
+|   72 | Da               |     22 | [0 0 0 0 0 2 2 0 2 0] | no change |
 |   73 | oup^^            |     21 | [0 0 0 1 0 1 1 1 1 0] | no change |
 |   74 |    GAMEBOY?      |     20 | [0 0 1 0 2 0 0 0 0 0] | no change |
 |   75 | squezzy.         |     19 | [0 0 1 0 0 1 1 0 1 0] | no change |
 |   76 | n1kjs            |     19 | [0 0 1 1 0 0 1 0 0 0] | no change |
-|   77 | ikuminusz        |     18 | [1 0 0 0 0 1 0 0 1 1] | no change |
-|   78 | Mystery          |     18 | [0 1 0 0 1 0 0 1 0 0] | no change |
-|   79 | &39;ShepZ        |     18 | [1 0 1 0 0 0 0 0 0 0] | no change |
+|   77 | Mystery          |     18 | [0 1 0 0 1 0 0 1 0 0] | no change |
+|   78 | &39;ShepZ        |     18 | [1 0 1 0 0 0 0 0 0 0] | no change |
+|   79 | ikuminusz        |     18 | [1 0 0 0 0 1 0 0 1 1] | no change |
 |   80 | Westy            |     17 | [0 0 0 1 0 1 1 0 0 1] | no change |
 |   81 | Pat^FPS          |     17 | [0 0 0 1 0 0 1 1 0 3] | no change |
 |   82 | lazlo            |     16 | [0 0 0 0 0 2 1 0 1 0] | no change |
-|   83 | Nexoo            |     14 | [0 1 0 0 0 1 0 0 0 0] | no change |
-|   84 | SENSEiBacaRdii1337 |     14 | [1 0 0 0 0 0 0 0 2 0] | no change |
-|   85 | Dom1natoRRR      |     14 | [0 0 0 0 1 0 2 0 0 0] | no change |
-|   86 | BaaaNaaaNaaa :   |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
-|   87 | poka             |     13 | [0 0 0 0 1 1 0 0 0 2] | no change |
-|   88 | Kryptah          |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
-|   89 | ApLo             |     13 | [0 0 0 0 0 0 2 1 1 0] | no change |
-|   90 | Jump4LifeBaSeM   |    14 ->    13 | [0 0 0 0 0 0 3 0 0 1] | score decreased |
+|   83 | SENSEiBacaRdii1337 |     14 | [1 0 0 0 0 0 0 0 2 0] | no change |
+|   84 | Dom1natoRRR      |     14 | [0 0 0 0 1 0 2 0 0 0] | no change |
+|   85 | Nexoo            |     14 | [0 1 0 0 0 1 0 0 0 0] | no change |
+|   86 | BlueJay          |     13 | [0 0 0 0 0 2 0 1 0 0] | no change |
+|   87 | ApLo             |     13 | [0 0 0 0 0 0 2 1 1 0] | no change |
+|   88 | poka             |     13 | [0 0 0 0 1 1 0 0 0 2] | no change |
+|   89 | Kryptah          |     13 | [0 1 0 0 0 0 1 0 0 0] | no change |
+|   90 | BaaaNaaaNaaa :   |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
 |   91 | JHFan700         |     13 | [0 0 0 1 1 0 0 0 0 0] | no change |
 |   92 | leo.             |     13 | [0 0 0 0 0 0 2 1 0 2] | no change |
-|   93 | BlueJay          |     13 | [0 0 0 0 0 2 0 1 0 0] | no change |
-|   94 | Elliot Alderson  |     12 | [0 0 0 1 0 1 0 0 0 0] | no change |
+|   93 | Jump4LifeBaSeM   |     13 | [0 0 0 0 0 0 3 0 0 1] | no change |
+|   94 | Seez             |     12 | [0 0 0 0 1 1 0 0 0 1] | no change |
 |   95 | CobyBryan        |     12 | [0 0 0 1 0 0 0 1 1 0] | no change |
-|   96 | Seez             |     12 | [0 0 0 0 1 1 0 0 0 1] | no change |
+|   96 | Elliot Alderson  |     12 | [0 0 0 1 0 1 0 0 0 0] | no change |
 |   97 | unkno soldja     |     11 | [0 0 0 0 0 2 0 0 0 1] | no change |
-|   98 | V1P3RRR          |     10 | [0 0 1 0 0 0 0 0 1 0] | no change |
-|   99 | yes              |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
-|  100 | Unnamed          |      9 | [0 0 0 0 0 0 1 1 1 0] | no change |
-|  101 | VaginaThor       |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  102 | CornFlakeS       |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
-|  103 | un1ty eZ1O..     |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  104 | IceBlitZ         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
-|  105 | nendecrew Baket. |    10 ->     9 | [0 0 0 1 0 0 0 0 1 0] | score decreased |
-|  106 | GONNA LOVE THAT TIMMYYYING |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|   98 | yes              |     10 | [1 0 0 0 0 0 0 0 0 0] | no change |
+|   99 | V1P3RRR          |     10 | [0 0 1 0 0 0 0 0 1 0] | no change |
+|  100 | VaginaThor       |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  101 | un1ty eZ1O..     |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  102 | nendecrew Baket. |      9 | [0 0 0 1 0 0 0 0 1 0] | no change |
+|  103 | IceBlitZ         |      9 | [0 1 0 0 0 0 0 0 0 0] | no change |
+|  104 | Unnamed          |      9 | [0 0 0 0 0 0 1 1 1 0] | no change |
+|  105 | CornFlakeS       |      9 | [0 0 1 0 0 0 0 0 0 1] | no change |
+|  106 | Fox              |      8 | [0 0 0 0 0 0 1 0 1 2] | no change |
 |  107 | ocsedbuzi        |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  108 | Black Sheep      |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  109 | Fox              |      8 | [0 0 0 0 0 0 1 0 1 2] | no change |
-|  110 | drawax           |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|  108 | aids             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  109 | COR27 steelseries sfrzx |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  110 | Black Sheep      |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
 |  111 | kjhax            |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  112 | Xerox:           |      8 | [0 0 0 0 0 0 0 1 2 1] | no change |
-|  113 | aids             |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  114 | COR27 steelseries sfrzx |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
-|  115 | Victima          |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
-|  116 | Pares928         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  117 | EaglE.StaR&39;ZROb? |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  118 | Stehi the nade abuser |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  119 | ratemap 0        |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  120 | StrongholdMiki   |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  121 | sintax           |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
-|  122 | Smiles.Peace     |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
-|  123 | deadboy          |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
-|  124 | Zawwar.          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
-|  125 | Vori             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  126 | Doctor.          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  127 | Mamlasz          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  128 | Rob              |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  129 | MiniCsiki        |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  130 | KappaSquad febo  |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
-|  131 | JumpersHeavenFan724 |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  132 | ne ne            |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  133 | fuller           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  134 | Feyra            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  135 | TEAM TANVALD VOUSACdeSade |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
-|  136 | Poe              |      6 | [0 0 0 0 0 0 0 0 2 2] | no change |
-|  137 | UnnamedPlayer    |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
-|  138 | UnReal.JumperZ/Cheri |      6 | [0 0 0 0 0 0 0 1 1 1] | no change |
-|  139 | skruzi           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  140 | Martin           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  141 | playhard blast3R. |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  142 | loq              |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  143 | nOiSe            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  144 | ReD              |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
-|  145 | JizZo            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  146 | KLTxEy           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  112 | GONNA LOVE THAT TIMMYYYING |      8 | [0 0 1 0 0 0 0 0 0 0] | no change |
+|  113 | Xerox:           |      8 | [0 0 0 0 0 0 0 1 2 1] | no change |
+|  114 | drawax           |      8 | [0 0 0 0 0 1 0 1 0 0] | no change |
+|  115 | EaglE.StaR&39;ZROb? |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  116 | Zawwar.          |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  117 | deadboy          |      7 | [0 0 0 0 0 0 1 1 0 0] | no change |
+|  118 | Victima          |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
+|  119 | StrongholdMiki   |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  120 | ratemap 0        |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  121 | Smiles.Peace     |      7 | [0 0 0 0 0 1 0 0 1 0] | no change |
+|  122 | Stehi the nade abuser |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  123 | sintax           |      7 | [0 0 0 0 1 0 0 0 0 1] | no change |
+|  124 | Pares928         |      7 | [0 0 0 1 0 0 0 0 0 0] | no change |
+|  125 | Mamlasz          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  126 | loq              |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  127 | Vori             |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  128 | Poe              |      6 | [0 0 0 0 0 0 0 0 2 2] | no change |
+|  129 | ReD              |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  130 | Rob              |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  131 | Feyra            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  132 | skruzi           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  133 | UnnamedPlayer    |      6 | [0 0 0 0 0 1 0 0 0 1] | no change |
+|  134 | nOiSe            |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  135 | Martin           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  136 | KappaSquad febo  |      6 | [0 0 0 0 0 0 0 2 0 0] | no change |
+|  137 | MiniCsiki        |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  138 | JumpersHeavenFan724 |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  139 | UnReal.JumperZ/Cheri |      6 | [0 0 0 0 0 0 0 1 1 1] | no change |
+|  140 | Doctor.          |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  141 | fuller           |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  142 | ne ne            |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  143 | playhard blast3R. |      6 | [0 0 0 0 1 0 0 0 0 0] | no change |
+|  144 | TEAM TANVALD VOUSACdeSade |      6 | [0 0 0 0 0 0 1 0 1 0] | no change |
+|  145 | happy Pinguin    |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  146 | JizZo            |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
 |  147 | $NOX$ SiLentKiLLeR |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  148 | hwk.             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  149 | Xav1             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  150 | COR27 steelseries DwX? |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  151 | AmBB...          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  152 | happy Pinguin    |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  153 | ShepZ&39;&39;    |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  154 | high             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
-|  155 | Surprise         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  156 | JumpersHeavenFan107 |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  157 |                  |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
-|  158 | Chivkee          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  159 | Wheelchair jumper |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  160 | Morcoska         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  161 | eXil             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  162 | Sly4561          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
-|  163 | PeacE            |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
-|  164 | BetepetFish      |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  148 | high             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  149 | AmBB...          |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  150 | ShepZ&39;&39;    |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  151 | COR27 steelseries DwX? |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  152 | Xav1             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  153 | KLTxEy           |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  154 | hwk.             |      5 | [0 0 0 0 0 1 0 0 0 0] | no change |
+|  155 |                  |      4 | [0 0 0 0 0 0 0 1 0 1] | no change |
+|  156 | Sly4561          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  157 | JumpersHeavenFan107 |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  158 | Surprise         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  159 | Morcoska         |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  160 | Chivkee          |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  161 | Wheelchair jumper |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  162 | eXil             |      4 | [0 0 0 0 0 0 1 0 0 0] | no change |
+|  163 | LanMyIn The Bed  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  164 | Hornet           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
 |  165 | Barret           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  166 | Hornet           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  167 | Twetty           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  168 | Kildal           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  169 | Verbatim         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  170 |                  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  171 | LanMyIn The Bed  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  172 | TEAMMATE  GAMEBOY? |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  173 | Zattiz           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  174 | LEGACY borzi     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  175 | joinTka          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  176 | ^4               |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  166 | Twetty           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  167 | coco             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  168 | neoFire&39;Mike  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  169 | ^4               |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  170 | Verbatim         |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  171 |                  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  172 | joinTka          |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  173 | BetepetFish      |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  174 | Kildal           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  175 | ORAO AngeLceK    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  176 | Zattiz           |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
 |  177 | who is this guy? |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  178 | coco             |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  179 | neoFire&39;Mike  |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  180 | ORAO AngeLceK    |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
-|  181 | bob              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  182 | Shade            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  183 | pumpedgabo2.dmg  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  184 | Pauli            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  178 | LEGACY borzi     |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  179 | PeacE            |      3 | [0 0 0 0 0 0 0 0 1 1] | no change |
+|  180 | TEAMMATE  GAMEBOY? |      3 | [0 0 0 0 0 0 0 1 0 0] | no change |
+|  181 | Pauli            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  182 | HYBRiDWORX Ax3l  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  183 | Shade            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  184 | bob              |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
 |  185 | Kisfiu           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  186 | Banana           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  187 | tupe=            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  188 | Szabi            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  189 | HYBRiDWORX Ax3l  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  190 | MLeEnBoY         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
-|  191 | L1DER            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  192 | GRIMREAPER       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  193 | prdele & Jahodas |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  194 | Pilek            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  195 | Not FroGz        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  196 | NaljaMees        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  197 | Kayaba Akihiko   |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  198 | SnoopY . schlupyy |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  199 | Bronkiitti       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  200 | StrafedGaming  Fibo |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  201 | ^AlexisMonroe    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  202 | EcstaticEllectro |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  203 | Jump4LifePall    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  186 | tupe=            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  187 | Banana           |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  188 | MLeEnBoY         |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  189 | pumpedgabo2.dmg  |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  190 | Szabi            |      2 | [0 0 0 0 0 0 0 0 1 0] | no change |
+|  191 | r A u l          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  192 | Zanko125         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  193 | L1DER            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  194 | EcstaticEllectro |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  195 | Get1x.           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  196 | StrafedGaming  Fibo |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  197 | Pilek            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  198 | hAmi             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  199 | Not FroGz        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  200 | Menstra.         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  201 | JHFan923         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  202 | ^AlexisMonroe    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  203 | Kayaba Akihiko   |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 |  204 | low              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  205 | pipicki          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  206 | Laung.&&1        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  207 | o1g              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  208 | Menstra.         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  209 | Deviant          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  210 | Zanko125         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  211 | r A u l          |     2 ->     1 | [0 0 0 0 0 0 0 0 0 1] | score decreased |
-|  212 | bluzz            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  213 | JHFan923         |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  214 | Get1x.           |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  215 | hAmi             |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
-|  216 | VeriaN           |      1 -> 0     |    -    | removed from top |
+|  205 | Jump4LifePall    |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  206 | prdele & Jahodas |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  207 | bluzz            |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  208 | Deviant          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  209 | NaljaMees        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  210 | SnoopY . schlupyy |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  211 | Laung.&&1        |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  212 | pipicki          |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  213 | GRIMREAPER       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  214 | o1g              |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
+|  215 | Bronkiitti       |      1 | [0 0 0 0 0 0 0 0 0 1] | no change |
 
